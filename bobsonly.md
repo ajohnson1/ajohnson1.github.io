@@ -870,10 +870,9 @@ The last peal has 102 Q-sets, but 10 must remain bobbed for the peal to be linke
 ## 72 complete B-block peals
 
 So far I have 93 sets of blocks made of 72 complete B-blocks and many of them, though not all, give peals. Each sets of blocks has a total of between 67 and 73 round blocks, including B-blocks, to cover the extent.
-
 Here are just a few.
 
-### 67 round blocks Signature 24:7+45
+### 67 round blocks, signature 24:7+45
 ```
 2314567QS---------P--------PP---------P------P-PP---------P-P---------P-------P*1(1)
 3756142QS---------PP--P--P--P------P------P--P--P*1(1)
@@ -885,7 +884,7 @@ Here are just a few.
 ```
 - [CompLib 897-1](https://complib.org/composition/89701) 570 bobs
 
-### 67 round blocks Signature 22:5+39
+### 67 round blocks, signature 22:5+39
 ```
 2314567QS---------P------PP--------PPP---------PP------P-P---------PP*1(1)
 7526134QS---------PP----P-------P--P---------P--------P------P------P*1(1)
@@ -1078,3 +1077,78 @@ No peal
 1274365QS--------PP--------PP*1(1)
 ```
 No peal
+
+## 70 complete B-block peals
+
+I have found over 1300 sets of an odd number of blocks where the sixes can be rearranged to give 70 complete B-blocks. Some of these can generate peals, and some examples are below.
+
+### 63 round blocks, signature 28:7+45
+```
+2314567QS---------P-----P---------PP-----P--P------P---P--------P---------P---P*1(1)
+2654137QS---------P-------P-P---------P-------P-P---------P-------P-P*1(1)
+2541367QS--------P-P-------P---------P-P-------P---------P-P-------P-*1(1)
+2145763QS--------P--PPP--------PP----P-*1(1)
+2714536QS---------P------P--P*1(1)
+2614573QS---------P------P--P*1(1)
+2145637QS--------P--P------P-*1(1)
+```
+- [CompLib 92525](https://complib.org/composition/92525) 537 bobs
+- [CompLib 87216](https://complib.org/composition/87216) 543 bobs
+
+### 63 round blocks, signature 26:5+45
+```
+2314567QS---------P--------PP---------P------PP--------PPP---------PP-------PP---------P-------PP--------P-P---------P--------PP---------PP*1(1)
+5734216QS---------P-------P---------P-P-------P---------P-P---------P-------P-P*1(1)
+5246317QS--------PP--------PP*1(1)
+5364217QS------P-P-------P-P-*1(1)
+5314276QS------P-P-------P-P-*1(1)
+```
+- [CompLib 90995](https://complib.org/composition/90995) 546 bobs
+
+### 67 round blocks, signature 28:11+45
+```
+2314567QS---------P--------P-------P--P------P-PP---------P-P---------P-------P*1(1)
+5736124QS---------P---PP--------PP-P--P*1(1)
+3756142QS---------P------P--P*1(1)
+5736412QS---------P------P--P*1(1)
+5736241QS---------P------P--P*1(1)
+3756421QS---------P------P--P*1(1)
+5163724QS--------P--P------P-*1(1)
+3265714QS--------P--P------P-*1(1)
+3165742QS--------P--P------P-*1(1)
+5463712QS--------P--P------P-*1(1)
+3465721QS--------P--P------P-*1(1)
+```
+- [CompLib 86741](https://complib.org/composition/86741) 546 bobs, 8 plains in a run
+- [CompLib 82261](https://complib.org/composition/82261) 552 bobs, at most 6 bobs in a run
+- [CompLib 86686](https://complib.org/composition/86686) 558 bobs, 8 plains in a run, at most 6 bobs in a run
+
+```
+2314567QS---------P--------P---------P-------P---------P-P-------P--P------P-PP*1(1)
+5274631QS--------PPP--------PPP------P-*1(1)
+2471536QS---------P------P--P*1(1)
+5741236QS---------P------P--P*1(1)
+2617534QS---------P------P--P*1(1)
+5167234QS---------P------P--P*1(1)
+2514637QS--------P--P------P-*1(1)
+5216437QS--------P--P------P-*1(1)
+2514376QS--------P--P------P-*1(1)
+2576314QS--------P--P------P-*1(1)
+2576431QS--------P--P------P-*1(1)
+```
+- [CompLib 82116](https://complib.org/composition/82116) 579 bobs
+
+```
+2314567QS---------P--------P---------P-------P---------P-P-P---------P--P----PP*1(1)
+6413275QS--------P--P--PP--------PP--P-*1(1)
+5431276QS---------P------P--P*1(1)
+3451726QS---------P------P--P*1(1)
+6231475QS---------P------P--P*1(1)
+3261745QS---------P------P--P*1(1)
+5761243QS---------P------P--P*1(1)
+6751423QS---------P------P--P*1(1)
+3715426QS--------P--P------P-*1(1)
+5216743QS--------P--P------P-*1(1)
+6415723QS--------P--P------P-*1(1)
+```
+- [CompLib 82853](https://complib.org/composition/82853) 582 bobs, 8 plains in a run
