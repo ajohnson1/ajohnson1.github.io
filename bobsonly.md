@@ -1812,3 +1812,69 @@ I have found 32 sets of round B-blocks which together with some B-blocks exactly
 2371564QS-----P---P-----P---P*1(1)
 ```
 - [CompLib 92569](https://complib.org/composition/92569) 591 bobs
+
+## 54 complete B-block peals 
+
+I have found 72 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [33 to 45] of round blocks where the sixes can be rearranged to give 55 complete B-blocks. Some of the sets of blocks which give peals are illustrated below.
+
+### 35 round blocks, signature 56:7+93
+```
+2314567QS---------P--------P---------PP---------P--------P----P----P---------P---P---------P----P---------P-----P---------P----P---------P---P--------P---------PP---------P--------P---------P-----P---------P-----P---------P----P---------P---P---------P----P---------P-----P----PP*1(1)
+6513472QS---------P--------P----PP--P-----P--P-P---------P-------P---------P-P---------P-------P-P---P----PPP--------PP---P----P---P---PP*1(1)
+2516347QS---------P--------P---------PP---------P--------P---------PP*1(1)
+6531427QS---------P--------PP-----P----P---PPP---PP*1(1)
+5412637QS--------PP--------PP*1(1)
+3546217QS--------PP--------PP*1(1)
+6142537QS-------P-P-------P-P*1(1)
+```
+- [CompLib 92746](https://complib.org/composition/92746) 612 bobs
+
+### 35 rounds blocks, signature 54:5+90
+```
+2314567QS---------P-----P---------P----P---------P----P---------P----P-P---------P---P---------P----P---------P----P---------P----P-------P*3(1)
+3462157QS-------PP-P--P----P----P----PP*3(1)
+3621547QS----P----P----P----P*1(1)
+3275416QS----P----P----P----P*1(1)
+3562174QS----P----P----P----P*1(1)
+```
+- [CompLib 93332](https://complib.org/composition/93332) 621 bobs
+- [CompLib 86279](https://complib.org/composition/86279) 630 bobs, irregular 3-part
+- [CompLib 93333](https://complib.org/composition/93333) 645 bobs
+
+These are blocks from a 3-part group so give irregular, but not exact, 3-part peals
+
+### 39 round blocks, signature: 54:9+105 
+```
+2314567QS---------P---P----P--P----PP--------PPP----P--P---------P------P------P------PP--P---------P--P--P-P*1(1)
+2574361QS---------P---P----P--P----PP--------PPP----P--P---------P------P------P------PP--P---------P--P--P-P*1(1)
+6514327QS---------P---P----P--P------P----P--P---------P------P------P------PP--P---------P--P--P-P*1(1)
+4271635QS--------P-------P---------P-P---------P-------P---------P-P-*1(1)
+4617235QS--------P-------P---------P-P---------P-------P---------P-P-*1(1)
+4653712QS--------P--PP--P----P--P----PP--------PPP----P--P-*1(1)
+4153672QS---------P--P--P--P--P------P------PP--P*1(1)
+4163275QS-------P-P-------P-P*1(1)
+4723615QS-------P-P-------P-P*1(1)
+```
+These are curious blocks - some are repeated, some are not.
+- [CompLib 81643](https://complib.org/composition/81643) 603 bobs
+
+### 45 round blocks, signature: 54:15+90
+```
+2314567QS---------P-----P---------P---P------P--------P---------P---P*1(1)
+7613245QS---------P-----P---------P---P------P--------P---------P---P*1(1)
+5416732QS---------P-----P---------P---P------P--------P---------P---P*1(1)
+1234756QS--------P-----P---------P---P---------P-----P--PP-*1(1)
+1763524QS--------P-----P---------P---P---------P-----P--PP-*1(1)
+1546273QS--------P-----P---------P---P---------P-----P--PP-*1(1)
+4172536QS---------P-P---P-----P---PP--P*1(1)
+3157264QS---------P-P---P-----P---PP--P*1(1)
+6125743QS---------P-P---P-----P---PP--P*1(1)
+4527136QS--------P--P------P-*1(1)
+3275164QS--------P--P------P-*1(1)
+6752143QS--------P--P------P-*1(1)
+1465327QS----P---P-----P---P-*1(1)
+1342675QS----P---P-----P---P-*1(1)
+1527463QS----P---P-----P---P-*1(1)
+```
+- [CompLib 86257](https://complib.org/composition/86257) 663 bobs, 3-part
+Not an exact 3-part, but reasonably regular
