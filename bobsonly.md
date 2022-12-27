@@ -325,6 +325,7 @@ peal
 4235671QS--------P--P------P-*1(1)
 ```
 - [CompLib 89469](https://complib.org/composition/89469) 582 bobs
+
 ```
 2314567QS---------P--------P--P-------P---------P-P---------P-------P*1(1)
 7621534QS---------P--P---------P--PP--P*1(1)
@@ -361,6 +362,7 @@ peal
 6154723QS---------P------P--P*1(1)
 ```
 - [CompLib 822309](https://complib.org/composition/82309) 591 bobs
+
 ```
 2314567QS---------P--P---------P------P---------P--P---------P------P*1(1)
 6357142QS---------P-----P------P--PP--P*1(1)
@@ -392,6 +394,7 @@ I have found 40 sets of blocks so far, where the sixes from each set (and the re
 ```
 - [CompLib 82349](https://complib.org/composition/82349) 543 bobs, at most 6 bobs in a run
 - [CompLib 94456](https://complib.org/composition/94456) 537 bobs, at most 6 bobs in a run
+
 ```
 2314567QS---------P--------P-P--------P---------P-P--------PP-------P---------PP-------PP---------PPP--------PP------P---------PP*1(1)
 2541367QS--------P-------P---------P-P---------P-------P---------P-P-*1(1)
@@ -401,6 +404,7 @@ I have found 40 sets of blocks so far, where the sixes from each set (and the re
 - [CompLib 82340](https://complib.org/composition/82340) 543 bobs
 - [CompLib 85271](https://complib.org/composition/85271) 531 bobs
 - [CompLib 82341](https://complib.org/composition/82341) 531 bobs
+
 ```
 2314567QS---------P--------P-P--------P---------P-P--------PP-------P---------PP-------PP---------PPP--------PP------P---------PP*1(1)
 2547316QS---------P--------P---------PP---------P--------P---------PP*1(1)
