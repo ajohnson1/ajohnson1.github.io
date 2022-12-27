@@ -12,7 +12,7 @@ Since then there have been further compositions starting with my 4 irregular 10-
 
 Since then I have come up with many more peals, though they are likely to be too hard to call for most conductors.
 
-There are 840 places (at any six-end) where a bob could be called in an extent of Stedman Triples, which would give 7.3×10^253 possibilities. This is so huge that a direct search is impossible. Another approach is to cover all the rows with multiple shorter touches, each with a different starting row and returning to its start point (round blocks). You cannot cover all the rows with plain courses (the maximum is 40 of the required 60, but the remaining rows are unlinkable). You can cover all the rows with 84 B-blocks, 60 change round blocks of 10 bobs in a row. The problem then is to link the round blocks together into one big block. Omitting a bob from three B-blocks affecting the same 3 bells behind while the front 4 bells are in the same position can link them into one. That process would at best reduce the number of round blocks down from 84 in twos to give two unlinkable round blocks. 
+There are 840 places (at any six-end) where a bob could be called in an extent of Stedman Triples, which would give $2^{840} = 7.3×10^{253}$ possibilities. This is so huge that a direct search is impossible. Another approach is to cover all the rows with multiple shorter touches, each with a different starting row and returning to its start point (round blocks). You cannot cover all the rows with plain courses (the maximum is 40 of the required 60, but the remaining rows are unlinkable). You can cover all the rows with 84 B-blocks, 60 change round blocks of 10 bobs in a row. The problem then is to link the round blocks together into one big block. Omitting a bob from three B-blocks affecting the same 3 bells behind while the front 4 bells are in the same position can link them into one. That process would at best reduce the number of round blocks down from 84 in twos to give two unlinkable round blocks. 
 
 This is an example of the Q-set parity law. With Grandsire Triples using only common bobs there is only one lead head which brings up a row which leads to the proof of the impossibility of a extent of Grandsire Triples using just common bobs. Stedman Triples is made up of sixes, and any row could appear in a six defined by one of six possible six-ends, three quick or three slow, which breaks the Q-set parity law restriction, similar to how in Cambridge Surprise Minor a row can appear either of two leads, the forward or backwards version, thus allowing a bobs-only 720.
 
@@ -50,9 +50,9 @@ The magic blocks used in the Wyld and Johnson/Saddleton peals have the same rows
 ```
 Notice how they are a five-part set, with bells 2 and 5 fixed and 3,7,6,1,4 rotating.
 
-There are then 10 B-blocks which are the complementary pairs of those first 10 blocks, and 64 remaining B-blocks, arranged in 32 complementary pairs. There are therefore 6^32 = 7.96×10^18 choices for those pairs, and some choices give enough Q-sets to link everything together. This gives 79 round blocks with 825 bobs, which perhaps could be reduced to one block using 39 Q-sets of 3 omits
+There are then 10 B-blocks which are the complementary pairs of those first 10 blocks, and 64 remaining B-blocks, arranged in 32 complementary pairs. There are therefore $6^{32}=7.96×10^{18}$ choices for those pairs, and some choices give enough Q-sets to link everything together. This gives 79 round blocks with 825 bobs, which perhaps could be reduced to one block using 39 Q-sets of 3 omits
 
-There have been further minor developments in magic block peals. Colin Wyld found that he needed an extra Q-set of omits to link the blocks together, so the peal took 840 - 5*3 - 3*(79-1)/2 - 3 = 705 bobs. With a suitable choice of B-blocks the extra Q-set of omits is not needed and a peal of 708 bobs is possible, for example by bobbing some Q-sets of the first Johnson/Saddleton peal to give [CompLib 37705](https://complib.org/composition/37705). By bobbing one Q-set of Wyld's No. 1 then that can also be increased to 708 bobs ([CompLib 92949](https://complib.org/composition/92949)).
+There have been further minor developments in magic block peals. Colin Wyld found that he needed an extra Q-set of omits to link the blocks together, so the peal took $840-5×3-3×(79-1)/2-3=705$ bobs. With a suitable choice of B-blocks the extra Q-set of omits is not needed and a peal of 708 bobs is possible, for example by bobbing some Q-sets of the first Johnson/Saddleton peal to give [CompLib 37705](https://complib.org/composition/37705). By bobbing one Q-set of Wyld's No. 1 then that can also be increased to 708 bobs ([CompLib 92949](https://complib.org/composition/92949)).
 
 With more care then the omits can be all isolated, as shown by [CompLib 46033](https://complib.org/composition/46033) (rung on [14 March 2019](https://bb.ringingworld.co.uk/view.php?id=1276081)) and [CompLib 46069](https://complib.org/composition/46069) where there are just 8 omits after quick sixes (5 essential for the magic blocks plus 1 Q-set) and 124 after slow sixes. From my searches I do not think it is possible to reduce this to the 5 essential omits after quick sixes, thus answering Alan Burbidge's question in 'Stedman Triples and Similar Fascinations'. These peals can be reversed if required, putting most of the omits after the quick sixes and a few after the slow sixes.
 
@@ -187,7 +187,7 @@ I have found 3 different ways of rearranging the contents of a whole number of B
 2173465QS-------PP----PP--------PP--PP-*1(1)
 ```
 #### Signature: 13:2+21
-### 73 round blocks (a)
+### 73 round blocks (b)
 ```
 2314567QS---------P--------P---------P-P---------P--------P---------PP---------P--------P--------P---------PP*1(1)
 3517246QS--------PP------PP--------PPPP*1(1)
@@ -240,7 +240,7 @@ This set of blocks has an upper limit of 711 bobs for a peal, and such a peal ca
 This core block can be examined. Note how bells 2 and 3 remain together in the front 5 places.
 - [CompLib 93430](https://complib.org/composition/93430) 840 changes 116 bobs
 
-### 73 round blocks (a)
+### 73 round blocks
 ```
 2314567QS---------P---P------P--P--P--P*1(1)
 2315476QS---------PP---------P--P--P--P*1(1)
@@ -2041,7 +2041,7 @@ These exact 3-part peals range from 612 to 659 bobs, compared to 636 to 690 for 
 
 ## 36 complete B-block peals
 
-I have found at least 9 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [25] of round blocks where the sixes can be rearranged to give 36 complete B-blocks. Here are the sets of blocks together with some peals. Most of the peals have already been published as the exact 3-part peals from 2017, see [The Ringing World Issue 5565 p1264 22 December 2017](https://bb.ringingworld.co.uk/issues/2017/1264).
+I have found at least 9 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [25] of round blocks where the sixes can be rearranged to give 36 complete B-blocks. Here are the sets of blocks together with some peals. Most of the peals have already been published as the exact 3-part peals from 2017, see [Three-part bobs-only peals of Stedman Triples](3part.html) in [The Ringing World Issue 5565 p1264 22 December 2017](https://bb.ringingworld.co.uk/issues/2017/1264).
 
 There sets of blocks are based on a group of order 3. The blocks have not been normalised by rotation to better show the similarities.
 
