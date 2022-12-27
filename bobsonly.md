@@ -2102,3 +2102,35 @@ These are some irregular blocks, but based on the blocks above.
 4637251QS----P-----PP---P--------P-----PP---P--------P-----P---------PP--------P-PPP--PP--PPPPP--------P-----P---------P-P----PP--PP----PP--PP--P--------P-----P---------PP--------P-P----PP--PPPPP--------P-----P---------PP--------P-P----PP--PPPPP--------P-----P---------PP--------P-P----PP--PP----PP--PPPP--PP--------PP--PP----PP----PP------PPPP--PP--PP--P--------P-----PP---P--------P-----P---------PP--------P-P----PP--PP----PP--PPPP------PP----PP--PPPP--PP--PPPP--PP---PP---PP--------PP---PP---PP--PP----PP--------PP--PPPPP--------P-----PP---P--------P-----PP---P--------P-----P---------P-P----PP----PPP----*1(1)
 ```
 - [CompLib 97879](https://complib.org/composition/97879) 597 bobs
+
+## 24 complete B-block peals
+
+I have found 361 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [23 to 39] of round blocks where the sixes can be rearranged to give 24 complete B-blocks. Here are examples of two sets of blocks which give peals.
+
+### 23 round blocks, signature: 66:5+171
+```
+2314567QS---------P--------P---P-------PP--------PPP---P----PP--------P--P--------PP---PP---------PPPPP--------PP---PP--------PP-PP------P---P-------PPP---P----PP--------P--P--------PP---PP---------PPPPP--------PP---PP--------PP-PP------P----PP--------PP---PP---------PPPPP--------PP---PP--------PP-PP------P---P-------PPP---P----PP--------P--P--------PP---PP---------PPPPP--------PP---PP--------PP-PP------P---P-------PPP---P----PP--------PPP--P----PP--------P--P--------PP---PP---------PPPPP--------PP---PP--------PP-PP------P---P-------PPP---P----PP--------P--P--------PP---PP*1(1)
+6451327QS--------PP---PP--------PP---PP*1(1)
+2314675QS-----P--P------P--P-*1(1)
+2341765QS-----P--P------P--P-*1(1)
+6315274QS-----P--P------P--P-*1(1)
+```
+- [CompLib 76542](https://complib.org/composition/76542) 597 bobs
+
+### 27 round blocks, signature: 56:9+165
+```
+2314567QS---------P--------P---P-------PP--------PPP---P----PP--------PPP--P----PP--------P--P--------PP---PP---------PPPPP--------PP---PP--------PP-PP------P----PP--------PP---PP*1(1)
+7345126QS---------P--------P---P-------PP--------PPP---P----PP--------PPP--P----PP--------P--P--------PP---PP---------PPPPP--------PP---PP--------PP-PP------P----PP--------PP---PP*1(1)
+6351472QS---------P--------P---P-------PP--------PPP---P----PP--------PPP--P----PP--------P--P--------PP---PP---------PPPPP--------PP---PP--------PP-PP------P----PP--------PP---PP*1(1)
+6451327QS--------PP---PP--------PP---PP*1(1)
+2514376QS--------PP---PP--------PP---PP*1(1)
+7145362QS--------PP---PP--------PP---PP*1(1)
+2314675QS-----P--P------P--P-*1(1)
+2341765QS-----P--P------P--P-*1(1)
+6315274QS-----P--P------P--P-*1(1)
+```
+- [CompLib 60827](https://complib.org/composition/60827) 606 bobs, three-part peal
+- [CompLib 37975](https://complib.org/composition/37975) 606 bobs, three-part peal
+- [CompLib 37408](https://complib.org/composition/37408) 606 bobs, three-part peal
+- [CompLib 38015](https://complib.org/composition/38015) 609 bobs, three-part peal
+- [CompLib 38016](https://complib.org/composition/38016) 609 bobs, three-part peal
