@@ -1330,9 +1330,9 @@ I have found over 500 sets of round B-blocks which together with some B-blocks e
 2314567QS---------P-----P---------P----P---------P---P---------P--PP--------PPP*3(1)
 6342571QS---------P--------P---------PP---------P--P----P-----P-----P*3(1)
 ```
-- [CompLib 85935](https://complib.org/composition/85935) 585 bobs, irregular 3-part
-- [CompLib 96222](https://complib.org/composition/96222) 594 bobs, 3-part
-- [CompLib 86220](https://complib.org/composition/96220) 591 bobs, 3-part
+- [CompLib 85935](https://complib.org/composition/85935) 585 bobs, irregular three-part
+- [CompLib 96222](https://complib.org/composition/96222) 594 bobs, three-part
+- [CompLib 86220](https://complib.org/composition/96220) 591 bobs, three-part
 
 ### 51 round blocks, signature: 36:3+57
 ```
@@ -1356,10 +1356,10 @@ I have found over 500 sets of round B-blocks which together with some B-blocks e
 - [CompLib 91434](https://complib.org/composition/91434) 573 bobs
 
 ### Three-part peals
-The 3-part peals make a change from the one-part peals. There are several types of 3-part peals:
+The three-part peals make a change from the one-part peals. There are several types of three-part peals:
 
-#### Exact 3-parts: all the parts are called the same.
-#### Other 3-parts:
+#### Exact three-parts: all the parts are called the same.
+#### Other three-parts:
 Blocks which divide the extent into 3 identical parts. These are then linked with Q-sets of bobs or omits. For an easier peal it is best to use only 1 Q-set (or perhaps a second at a similar point in other parts). The sixes affected by the Q-set should be as close a possible to minimise the disruption. If the 3 identical parts are divided into `ABCD` at the Q-set points then peals of the form
 `ABC'CDAB'BCA'D`
 where ' is a bob or omit can sometimes be found. We should minimise the length of B and C.
@@ -1384,10 +1384,10 @@ It might be possible to add extra Q-sets of omits to reduce the bob count, but t
 
 Sometime the extent can be split into round blocks using a group of order 3, but not into 3 identical parts, but in 2,3,4,5.. sets of 3 identical parts. If there are an odd number of sets then it might be possible to find some Q-sets of bobs or omits to link everything together.
 
-##### Irregular 3-parts
+##### Irregular three-parts
 By bobbing all available Q-sets there might be whole B-blocks revealed as some of the sets. If complementary pairs of B-blocks are then available a free choice of 1 of the 6 possible pairs can be made, and that might give more Q-sets of omits to link everything together. The result is going to be a much less regular peal though.
 
-With all these 3-part peals then by choosing an appropriate rotation/reversal a good part-end (either `1357246` or `3456127` etc.) can often be found.
+With all these three-part peals then by choosing an appropriate rotation/reversal a good part-end (either `1357246` or `3456127` etc.) can often be found.
 
 
 
@@ -1851,10 +1851,10 @@ I have found 72 sets of round B-blocks which together with some B-blocks exactly
 3562174QS----P----P----P----P*1(1)
 ```
 - [CompLib 93332](https://complib.org/composition/93332) 621 bobs
-- [CompLib 86279](https://complib.org/composition/86279) 630 bobs, irregular 3-part
+- [CompLib 86279](https://complib.org/composition/86279) 630 bobs, irregular three-part
 - [CompLib 93333](https://complib.org/composition/93333) 645 bobs
 
-These are blocks from a 3-part group so give irregular, but not exact, 3-part peals
+These are blocks from a group of order 3 so give irregular, but not exact, three-part peals
 
 ### 39 round blocks, signature: 54:9+105 
 ```
@@ -1889,8 +1889,8 @@ These are curious blocks - some are repeated, some are not.
 1342675QS----P---P-----P---P-*1(1)
 1527463QS----P---P-----P---P-*1(1)
 ```
-- [CompLib 86257](https://complib.org/composition/86257) 663 bobs, 3-part
-Not an exact 3-part, but reasonably regular
+- [CompLib 86257](https://complib.org/composition/86257) 663 bobs, three-part
+Not an exact three-part, but reasonably regular
 
 ## 53 complete B-block peals
 
@@ -1952,10 +1952,10 @@ I have found 17 sets of round B-blocks which together with some B-blocks exactly
 7643512QS--------P--P------P-*1(1)
 2576431QS--------P--P------P-*1(1)
 ```
-This is a 3-part based set of blocks. It does not give exact 3-part peals.
-- [CompLib 82787](https://complib.org/composition/82787) 618 bobs irregular 3-part
-- [CompLib 83002](https://complib.org/composition/83002) 618 bobs irregular 3-part
-- [CompLib 91882](https://complib.org/composition/91882) 618 bobs 3-part
+This is a three-part based set of blocks. It does not give exact three-part peals.
+- [CompLib 82787](https://complib.org/composition/82787) 618 bobs irregular three-part
+- [CompLib 83002](https://complib.org/composition/83002) 618 bobs irregular three-part
+- [CompLib 91882](https://complib.org/composition/91882) 618 bobs three-part
 
 ## 50 complete B-block peals
 
@@ -2003,9 +2003,9 @@ I have found 14 sets of round B-blocks which together with some B-blocks exactly
 7246513QS---------P------P--P*1(1)
 3716452QS---------P------P--P*1(1)
 ```
-These blocks are from a 3-part group.
+These blocks are from a group of order 3.
 
-8 examples of exact 3-parts with 636 bobs
+8 examples of exact theee-parts with 636 bobs
 - [CompLib 88655](https://complib.org/composition/88655) no 9 bob run
 - [CompLib 97657](https://complib.org/composition/97657)
 - [CompLib 88617](https://complib.org/composition/88617)
@@ -2018,10 +2018,10 @@ By bobbing Q-sets the number of bobs can be increased up to 690 bobs.
 - [CompLib 97568](https://complib.org/composition/97568) 645 bobs
 - [CompLib 88618](https://complib.org/composition/88618) 690 bobs - one of 32 examples
 
-The 2017 exact 3-part peals have between 603 and 639 bobs and all have at least one 9 bob run per part; these have between 636 and 690 bobs.
+The 2017 exact three-part peals have between 603 and 639 bobs and all have at least one 9 bob run per part; these have between 636 and 690 bobs.
 
 Also
-- [CompLib 97714](https://complib.org/composition/97714) 606 bobs - irregular 3-part
+- [CompLib 97714](https://complib.org/composition/97714) 606 bobs - irregular three-part
 
 ## 42 complete B-block peals
 
@@ -2034,11 +2034,11 @@ I have found 2 sets of round B-blocks which together with some B-blocks exactly 
 7243156QS---------P------P--P*1(1)
 6753412QS---------P------P--P*1(1)
 ```
-- [CompLib 91897](https://complib.org/composition/91897) 612 bobs, exact 3-part
-- [CompLib 97816](https://complib.org/composition/97816) 621 bobs, exact 3-part
-- [CompLib 91986](https://complib.org/composition/91986) 630 bobs, exact 3-part
-- [CompLib 91898](https://complib.org/composition/91898) 657 bobs, exact 3-part
-These exact 3-part peals range from 612 to 659 bobs, compared to 636 to 690 for the 48 complete B-block exact 3-parts shown earlier, or 603 to 639 for the exact 3-part peals published in 2017.
+- [CompLib 91897](https://complib.org/composition/91897) 612 bobs, exact three-part
+- [CompLib 97816](https://complib.org/composition/97816) 621 bobs, exact three-part
+- [CompLib 91986](https://complib.org/composition/91986) 630 bobs, exact three-part
+- [CompLib 91898](https://complib.org/composition/91898) 657 bobs, exact three-part
+These exact three-part peals range from 612 to 659 bobs, compared to 636 to 690 for the 48 complete B-block exact three-parts shown earlier, or 603 to 639 for the exact three-part peals published in 2017.
 
 ### 35 round blocks, signature: 54:5+111
 ```
@@ -2048,13 +2048,13 @@ These exact 3-part peals range from 612 to 659 bobs, compared to 636 to 690 for 
 5163724QS--------PP--------PP*1(1)
 7562143QS--------PP--------PP*1(1)
 ```
-- [CompLib 85926](https://complib.org/composition/85926) 570 bobs, irregular 3-part
-- [CompLib 77482](https://complib.org/composition/77482) 576 bobs, 3-part
-- [CompLib 77446](https://complib.org/composition/77446) 576 bobs, 3-part
+- [CompLib 85926](https://complib.org/composition/85926) 570 bobs, irregular three-part
+- [CompLib 77482](https://complib.org/composition/77482) 576 bobs, three-part
+- [CompLib 77446](https://complib.org/composition/77446) 576 bobs, three-part
 
 ## 36 complete B-block peals
 
-I have found at least 9 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [25] of round blocks where the sixes can be rearranged to give 36 complete B-blocks. Here are the sets of blocks together with some peals. Most of the peals have already been published as the exact 3-part peals from 2017, see [Three-part bobs-only peals of Stedman Triples](3part.html) in [The Ringing World Issue 5565 p1264 22 December 2017](https://bb.ringingworld.co.uk/issues/2017/1264).
+I have found at least 9 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [25] of round blocks where the sixes can be rearranged to give 36 complete B-blocks. Here are the sets of blocks together with some peals. Most of the peals have already been published as the exact three-part peals from 2017, see [Three-part bobs-only peals of Stedman Triples](3part.html) in [The Ringing World Issue 5565 p1264 22 December 2017](https://bb.ringingworld.co.uk/issues/2017/1264).
 
 There sets of blocks are based on a group of order 3. The blocks have not been normalised by rotation to better show the similarities.
 
@@ -2103,7 +2103,7 @@ These are some irregular blocks, but based on the blocks above.
 ```
 3467251QS-------PP----P-P---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------PPP----PP----P-P---------P-----P--------P--PP--PP----PP--PP--PPP-P---------P-----P--------P--PP--PP----PP--PP--PPP-P---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------P--PP--PP--------PP----P-P--------PP---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------P--PP--PP----PP--PP--PPP-P---------P-----P--------P---PP-----P--------P--PP--PP--PPPP--PP--------PP--PP----PP----PP--PP----P-P---------P-----P--------P--PP--PP-*1(1)
 ```
-- [CompLib 77588](https://complib.org/composition/77588) 609 bobs, very irregular 3-part
+- [CompLib 77588](https://complib.org/composition/77588) 609 bobs, very irregular theee-part
 
 ```
 4637251QS----P-----P---------P-P----PP--------PP--PP--P--------P-----P---------P-P----PP--PP----PP--PP--P--------P-----P---------PP--------P-P----PP--PP----PP--PPPP--PP--PP--P--------P-----PP---P--------P-----P---------P-P----PP--PP----PP--PP--P--------P-----P---------P-PPP--PP--PP----PP--PP--P--------P-----P---------P-PPP--PP--PP----PP--PP--P--------P-----P---------P-P----PP--------PP--PP--P--------P-----P---------P-P----PP--------PP--PP--P--------P-----P---------P-P----PP--PP----PP----PP--PP--PP----PP--PP--P--------P-----P---------P-P----PP--PP----PP--PP--P--------P-----P---------P-PPP--PP----PPP----*1(1)
@@ -2190,7 +2190,7 @@ Peals of 441 to 456 bobs
 6527431QS----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P-P---PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*1(1)
 ```
 Peals of 438 to 450 bobs
-- [CompLib 31021](https://complib.org/composition/31021) 438 bobs, exact 2-part
+- [CompLib 31021](https://complib.org/composition/31021) 438 bobs, exact two-part
 
 ### Set @4, 7 round blocks, signature: 82:5+378
 ```
@@ -2214,8 +2214,8 @@ Peals of 444 to 453 bobs
 6243517QS---P-P--PP--P-PPPP--PP---P-P--PP--P-PPPP--PP*1(1)
 ```
 Peals of 444 to 453 bobs
-- [CompLib 37682](https://complib.org/composition/37682) 444 bobs, exact 2-part
-- [CompLib 37713](https://complib.org/composition/37713) 444 bobs, exact 2-part
+- [CompLib 37682](https://complib.org/composition/37682) 444 bobs, exact two-part
+- [CompLib 37713](https://complib.org/composition/37713) 444 bobs, exact two-part
 
 ### Set @6, 9 round blocks, signature: 82:7+372
 ```
@@ -2228,8 +2228,24 @@ Peals of 444 to 453 bobs
 4176235QS--P-P---PP--PPPP-P--PP--P-P---PP--PPPP-P--PP*1(1)
 ```
 Peals of 447 to 456 bobs
-- [CompLib 37714](https://complib.org/composition/37714) 456 bobs, exact 2-part
+- [CompLib 37714](https://complib.org/composition/37714) 456 bobs, exact two-part
 
-## Conclusion
+# Favourites
+- [CompLib 93429](https://complib.org/composition/93429) 711 bobs, only 8 omits after a quick six
+- [CompLib 84174](https://complib.org/composition/84174)
+    - 594 bobs
+    - 18 isolated bobs
+    - 121 runs of 2 bobs
+    - 7 runs of 4 bobs
+    - 51 runs of 6 bobs
+ - [CompLib 86761](https://complib.org/composition/86761) 528 bobs
+ - [CompLib 88655](https://complib.org/composition/88655) no 9 bob run
+ - [CompLib 88618](https://complib.org/composition/88618) Exact three-part, 690 bobs
+ - [CompLib 91897](https://complib.org/composition/91897) 612 bobs, exact three-part
+ - [CompLib 36006](https://complib.org/composition/36006) Exact three-part Op. 109, 603 bobs
+ - [CompLib 28944](https://complib.org/composition/28944) 438 bobs, Cholsey version
+ - [CompLib 31021](https://complib.org/composition/31021) 438 bobs, exact two-part
+
+# Conclusion
 These are the last of the bobs-only peals for now; I have some unpublished peals but they are not significantly different from the published ones.
 The collection is here: https://complib.org/collection/11309
