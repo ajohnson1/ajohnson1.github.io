@@ -609,7 +609,7 @@ no peal
 7156234QS--------P--P------P-*1(1)
 2743165QS-------PP--------PP-*1(1)
 ```
-### 73 complete B-blocks, signature 20:9+33
+### 73 round blocks, signature 20:9+33
 ```
 2314567QS---------P-----P------P--PP--P*1(1)
 6357142QS---------P--P---------P--PP--P*1(1)
@@ -698,7 +698,7 @@ no peal
 7163254QS--------P--P------P-*1(1)
 3647521QS--------P--P------P-*1(1)
 ```
-### 73 complete B-blocks, signature 21:10+33
+### 73 round blocks, signature 21:10+33
 ```
 2314567QS---------P--P---------P--PP--P*1(1)
 2341576QS---------P------P--P*1(1)
@@ -723,7 +723,7 @@ no peal
 4516723QS--------P--P------P-*1(1)
 4523671QS--------P--P------P-*1(1)
 ```
-###73 complete B-blocks, signature 20:9+33
+### 73 round blocks, signature 20:9+33
 ```
 2314567QS---------P--P--P---------PP--P*1(1)
 1643527QS--------P--P---P------P--P--P-*1(1)
@@ -768,7 +768,7 @@ no peal
 1346725QS--------P--P------P-*1(1)
 2547163QS--------P--P------P-*1(1)
 ```
-### 73 complete B-blocks, signature 21:10+33
+### 73 round blocks, signature 21:10+33
 ```
 2314567QS---------PP---------P--P--P--P*1(1)
 2413576QS---------P------P--P*1(1)
@@ -782,3 +782,87 @@ no peal
 2456173QS--------P--P------P-*1(1)
 ```
 - [CompLib 94745](https://complib.org/composition/94745) 591 bobs
+
+## 73 complete B-block peals
+
+All the sets of blocks here give peals, but I have just shown some peals as an illustration.
+
+### 67 round blocks
+#### Signature: 21:4+33
+```
+2314567QS---------P--------P---------P------P---------P---P---------P-----P---------P---P--------P---------PP*1(1)
+4163527QS--------P-----P---------P---P---------P-----P---------P---P-*1(1)
+2173546QS-------PP--P---P-----P---P-PP-*1(1)
+4215376QS----P---P-----P---P-*1(1)
+```
+- [CompLib 82297](https://complib.org/composition/82297) 573 bobs
+
+```
+2314567QS---------P-------P---------P-------P---------P---P---------P-----P---------P---P-------P---------P-P*1(1)
+1364527QS--------P-----P---------P---P---------P-----P---------P---P-*1(1)
+2173546QS------P-P--P---P-----P---PP-P-*1(1)
+1235476QS----P---P-----P---P-*1(1)
+```
+### 69 round blocks
+#### Signature: 21:6+33
+```
+2314567QS---------P-----P---------P---P---------P-----P---------P---P*1(1)
+1673542QS--------P--------P------P---P---------P-----P---------P---P-*1(1)
+4526173QS--------P--PP---P-----P---P-P-*1(1)
+4562137QS--------P--P------P-*1(1)
+4531726QS--------P--P------P-*1(1)
+6512374QS-----P---P-----P---P*1(1)
+```
+```
+2314567QS---------P-----P---------P---P---------P-----P---------P---P*1(1)
+1763524QS--------P--------P------P---P---------P-----P---------P---P-*1(1)
+2547163QS--------P--PP---P-----P---P-P-*1(1)
+2531647QS--------P--P------P-*1(1)
+2574136QS--------P--P------P-*1(1)
+6512374QS-----P---P-----P---P*1(1)
+```
+```
+2314567QS---------P-----P------P------P---------P--P---------P------P*1(1)
+7356124QS---------P--P---------P------P---------P--P---------P------P*1(1)
+1324657QS---------PPP--------PP----P--P*1(1)
+1754623QS---------P------P--P*1(1)
+6142753QS--------P--P------P-*1(1)
+3146527QS--------PP--------PP*1(1)
+```
+- [CompLib 89127](https://complib.org/composition/89127) 564 bobs
+```
+2314567QS---------P-----P------P------P---------P--P---------P------P*1(1)
+7356124QS---------P--P---------P------P---------P--P---------P------P*1(1)
+6173245QS--------P--PPP--------PP----P-*1(1)
+6123754QS--------P--P------P-*1(1)
+6154372QS--------P--P------P-*1(1)
+3146527QS--------PP--------PP*1(1)
+```
+### 71 round blocks
+#### Signature: 21:8+33
+```
+2314567QS---------P--------P--P-------P---------P-P---------P-------P*1(1)
+6172543QS--------P--PP-P-------P-P---P-*1(1)
+6521734QS---------P------P--P*1(1)
+6527143QS---------P------P--P*1(1)
+4653271QS---------P------P--P*1(1)
+3245617QS--------P--P------P-*1(1)
+6712534QS--------P--P------P-*1(1)
+4235671QS--------P--P------P-*1(1)
+```
+```
+2314567QS---------P---P------P--------P---------PP---------P--------P*1(1)
+3154627QS---------PPP--------PP----P--P*1(1)
+6514327QS---------P------P--P*1(1)
+3724651QS---------P------P--P*1(1)
+6274351QS---------P------P--P*1(1)
+6342157QS--------P--P------P-*1(1)
+6345721QS--------P--P------P-*1(1)
+3647521QS--------P--P------P-*1(1)
+```
+- [CompLib 89099](https://complib.org/composition/89099) 564 bobs
+- [CompLib 92760](https://complib.org/composition/92760) 531 bobs
+- [CompLib 92761](https://complib.org/composition/92761) 531 bobs, no more than 6 bobs in a row
+
+These two peals have 531 bobs, 45 fewer than any magic block peal, but still considerably more than the 10-part peals.
+The last peal has 102 Q-sets, but 10 must remain bobbed for the peal to be linked, so unfortunately we can't remove another 30 bobs from this peal. Perhaps the extra Q-sets make it easier to choose a selection to plain so that there are no more than 6 bobs in a row.
