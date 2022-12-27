@@ -1911,3 +1911,37 @@ I have found 42 sets of round B-blocks which together with some B-blocks exactly
 ```
 - [CompLib 92729](https://complib.org/composition/92729) 600 bobs
 
+## 51 complete B-block peals
+
+I have found 17 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [29 to 45] of round blocks where the sixes can be rearranged to give 51 complete B-blocks. Here is a set of blocks which gives peals.
+
+### 45 round blocks, signature 50:21+90
+```
+2314567QS---------P--------P---P---------P--P--P-------P--P--------P---------PP*1(1)
+7352614QS---------P--------P---P---------P--P--P-------P--P--------P---------PP*1(1)
+4367152QS---------P--------P---P---------P--P--P-------P--P--------P---------PP*1(1)
+1427536QS--------PPP--------PPP------P-*1(1)
+6742135QS--------PPP--------PPP------P-*1(1)
+5274631QS--------PPP--------PPP------P-*1(1)
+1652437QS---------P------P--P*1(1)
+4562137QS---------P------P--P*1(1)
+1732456QS---------P------P--P*1(1)
+6234715QS---------P------P--P*1(1)
+2617534QS---------P------P--P*1(1)
+5167234QS---------P------P--P*1(1)
+6514732QS---------P------P--P*1(1)
+7154632QS---------P------P--P*1(1)
+5437261QS---------P------P--P*1(1)
+4123657QS--------P--P------P-*1(1)
+4125736QS--------P--P------P-*1(1)
+7641235QS--------P--P------P-*1(1)
+2573164QS--------P--P------P-*1(1)
+7643512QS--------P--P------P-*1(1)
+2576431QS--------P--P------P-*1(1)
+```
+This is a 3-part based set of blocks. It does not give exact 3-part peals.
+- [CompLib 82787](https://complib.org/composition/82787) 618 bobs irregular 3-part
+- [CompLib 83002](https://complib.org/composition/83002) 618 bobs irregular 3-part
+- [CompLib 91882](https://complib.org/composition/91882) 618 bobs 3-part
+
+
