@@ -2038,3 +2038,67 @@ These exact 3-part peals range from 612 to 659 bobs, compared to 636 to 690 for 
 - [CompLib 85926](https://complib.org/composition/85926) 570 bobs, irregular 3-part
 - [CompLib 77482](https://complib.org/composition/77482) 576 bobs, 3-part
 - [CompLib 77446](https://complib.org/composition/77446) 576 bobs, 3-part
+
+## 36 complete B-block peals
+
+I have found at least 9 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [25] of round blocks where the sixes can be rearranged to give 36 complete B-blocks. Here are the sets of blocks together with some peals. Most of the peals have already been published as the exact 3-part peals from 2017, see [The Ringing World Issue 5565 p1264 22 December 2017](https://bb.ringingworld.co.uk/issues/2017/1264).
+
+There sets of blocks are based on a group of order 3. The blocks have not been normalised by rotation to better show the similarities.
+
+# 36 complete B-blocks, signature: 60:1+165
+```
+4637251QS----P-----P---------PP--------P-P----PP----PPP--------P-----P---------P-P----PP--PP----PP----PP--PP--------PP--PPPP--PP--PP--P--------P-----PP---P--------P-----P---------P-PPP--PP--PP----PP--PP--P----*3(1)
+```
+- [CompLib 37420](https://complib.org/composition/37420) Exact three-part Op. 1, 603 bobs
+- [CompLib 37428](https://complib.org/composition/37428) Exact three-part Op. 496, 603 bobs
+
+```
+4637251QS----P-----P---------PP--------P-P----PP--PP----PP--PPPP--PP--PP--P--------P-----PP---P--------P-----P---------P-P----PP--PPPPP--------P-----P---------P-P----PP--PP----PP--------PP--PP----PP--PP--P----*3(1)
+```
+- [CompLib 37421](https://complib.org/composition/37421) Exact three-part Op. 10, 603 bobs
+- [CompLib 37427](https://complib.org/composition/37427) Exact three-part Op. 487, 603 bobs
+
+```
+4637251QS----P-----P---------P-P----PP----PPP--------P-----P---------P-PPP--PP--------PP----PP--PP--PP----PP--PP--P--------P-----P---------PP--------P-P----PP--PP----PP--PPPP--PP--PP--P--------P-----PP---P----*3(1)
+```
+- [CompLib 37422](https://complib.org/composition/37422) Exact three-part Op. 55, 603 bobs
+
+```
+4637251QS----P-----P---------P-PPP--PP--------PP--PP--P--------P-----P---------PP--------P-PPP--PP----PPP--------P-----P---------P-PPP--PP--------PP----PP--PP--------PP--PPPP--PP--PP--P--------P-----PP---P----*3(1)
+```
+- [CompLib 37425](https://complib.org/composition/37425) Exact three-part Op. 82, 603 bobs
+- [CompLib 37430](https://complib.org/composition/37430) Exact three-part Op. 568, 603 bobs
+
+```
+4637251QS----P-----P---------P-P----PP--PP----PP--------PP--PPPPP--------P-----P---------P-P----PP--PP----PP--PP--P--------P-----P---------PP--------P-P----PP--PP----PP--PPPP--PP--PP--P--------P-----PP---P----*3(1)
+```
+- [CompLib 36006](https://complib.org/composition/36006) Exact three-part Op. 109, 603 bobs
+- [CompLib 36034](https://complib.org/composition/36034) Exact three-part Op. 109 Queen's rotation, 603 bobs
+- [CompLib 77814](https://complib.org/composition/77814) Exact three-part Op. 284, 639 bobs
+- [CompLib 37431](https://complib.org/composition/37431) Exact three-part Op. 595, 603 bobs
+- [CompLib 37432](https://complib.org/composition/37432) Exact three-part Op. 622, 603 bobs
+
+```
+4637251QS----P-----P---------P-PPP--PP--------PP--PP--P--------P-----P---------PP--------P-PPP--PP--PP----PP--------PP--PPPPP--------P-----P---------P-P----PP--------PP--PPPP--PP--PP--P--------P-----PP---P----*3(1)
+```
+- [CompLib 37426](https://complib.org/composition/37426) Exact three-part Op. 136, 603 bobs
+- [CompLib 37429](https://complib.org/composition/37429) Exact three-part Op. 541, 603 bobs
+
+These are some irregular blocks, but based on the blocks above.
+
+### 36 complete B-blocks, signature 60:1+159
+```
+3467251QS-------PP----P-P---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------PPP----PP----P-P---------P-----P--------P--PP--PP----PP--PP--PPP-P---------P-----P--------P--PP--PP----PP--PP--PPP-P---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------P--PP--PP--------PP----P-P--------PP---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------P--PP--PP----PP--PP--PPP-P---------P-----P--------P---PP-----P--------P--PP--PP--PPPP--PP--------PP--PP----PP----PP--PP----P-P---------P-----P--------P--PP--PP-*1(1)
+```
+- [CompLib 77588](https://complib.org/composition/77588) 609 bobs, very irregular 3-part
+
+```
+4637251QS----P-----P---------P-P----PP--------PP--PP--P--------P-----P---------P-P----PP--PP----PP--PP--P--------P-----P---------PP--------P-P----PP--PP----PP--PPPP--PP--PP--P--------P-----PP---P--------P-----P---------P-P----PP--PP----PP--PP--P--------P-----P---------P-PPP--PP--PP----PP--PP--P--------P-----P---------P-PPP--PP--PP----PP--PP--P--------P-----P---------P-P----PP--------PP--PP--P--------P-----P---------P-P----PP--------PP--PP--P--------P-----P---------P-P----PP--PP----PP----PP--PP--PP----PP--PP--P--------P-----P---------P-P----PP--PP----PP--PP--P--------P-----P---------P-PPP--PP----PPP----*1(1)
+```
+- [CompLib 77964](https://complib.org/composition/77964) 645 bobs, irregular
+
+### 36 complete B-blocks, signature: 60:1+171
+```
+4637251QS----P-----PP---P--------P-----PP---P--------P-----P---------PP--------P-PPP--PP--PPPPP--------P-----P---------P-P----PP--PP----PP--PP--P--------P-----P---------PP--------P-P----PP--PPPPP--------P-----P---------PP--------P-P----PP--PPPPP--------P-----P---------PP--------P-P----PP--PP----PP--PPPP--PP--------PP--PP----PP----PP------PPPP--PP--PP--P--------P-----PP---P--------P-----P---------PP--------P-P----PP--PP----PP--PPPP------PP----PP--PPPP--PP--PPPP--PP---PP---PP--------PP---PP---PP--PP----PP--------PP--PPPPP--------P-----PP---P--------P-----PP---P--------P-----P---------P-P----PP----PPP----*1(1)
+```
+- [CompLib 97879](https://complib.org/composition/97879) 597 bobs
