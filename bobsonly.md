@@ -1198,7 +1198,7 @@ I have found over 600 sets of round B-blocks which together with some B-blocks g
 4516372QS--------P---P-----P---------P---P-----P---------P---P--PP--------PP-P-*1(1)
 4561327QS---------P-----P---P---------P-----P---P---------P-----P---P*1(1)
 ```
-- [CompLib ](https://complib.org/composition/95601 549 bobs
+- [CompLib 95601](https://complib.org/composition/95601) 549 bobs
 
 ### 61 round blocks, signature: 27:4+45
 ```
