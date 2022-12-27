@@ -61,6 +61,8 @@ The magic blocks used in the Wyld and Johnson/Saddleton peals have the same rows
 ```
 Notice how they are a five-part set, with bells 2 and 5 fixed and 3,7,6,1,4 rotating.
 
+<iframe src="https://complib.org/composition/60807/print"></iframe>
+
 There are then 10 B-blocks which are the complementary pairs of those first 10 blocks, and 64 remaining B-blocks, arranged in 32 complementary pairs. There are therefore $6^{32}=7.96×10^{18}$ choices for those pairs, and some choices give enough Q-sets to link everything together. This gives 79 round blocks with 825 bobs, which perhaps could be reduced to one block using 39 Q-sets of 3 omits
 
 There have been further minor developments in magic block peals. Colin Wyld found that he needed an extra Q-set of omits to link the blocks together, so the peal took $840-5×3-3×(79-1)/2-3=705$ bobs. With a suitable choice of B-blocks the extra Q-set of omits is not needed and a peal of 708 bobs is possible, for example by bobbing some Q-sets of the first Johnson/Saddleton peal to give [CompLib 37705](https://complib.org/composition/37705). By bobbing one Q-set of Wyld's No. 1 then that can also be increased to 708 bobs ([CompLib 92949](https://complib.org/composition/92949)).
