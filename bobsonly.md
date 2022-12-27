@@ -1944,4 +1944,18 @@ This is a 3-part based set of blocks. It does not give exact 3-part peals.
 - [CompLib 83002](https://complib.org/composition/83002) 618 bobs irregular 3-part
 - [CompLib 91882](https://complib.org/composition/91882) 618 bobs 3-part
 
+## 50 complete B-block peals
 
+I have found 23 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [27 to 35] of round blocks where the sixes can be rearranged to give 50 complete B-blocks. Here is a set of blocks which gives peals.
+
+### 31 round blocks, signature 60:7+105
+```
+2314567QS---------P--------P---------PP---------P--------P----P----P---------P---P---------P----P---------P-----P---------P----P---------P---P--------P---------PP---------P--------P---------P-----P---------P-----P---------P----P---------P---P---------P----P-----PP---P---------PP---------P--------P---------PP---------P----P--------P---------PP---PP*1(1)
+6513472QS---------P--------P----PP--P-----P--P-P---------P-------P------PP--------PP-P-P---------P-------P-P---P----PPP--------PP---P----P---P---PP*1(1)
+6531427QS---------P--------PP-----P----P---PPP---PP*1(1)
+5412637QS--------PP--------PP*1(1)
+3546217QS--------PP--------PP*1(1)
+6512743QS-------P---P-----PP-*1(1)
+6142537QS-------P-P-------P-P*1(1)
+```
+- [CompLib 92712](https://complib.org/composition/92712) 621 bobs
