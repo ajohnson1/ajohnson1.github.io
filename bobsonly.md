@@ -17,8 +17,7 @@
 
 ## Introduction
 
-Back in 1995 the question of whether it was possible to get an extent of Stedman Triples using only common bobs was settled with Colin Wyld's peals ([CompLib 21261 
-<iframe src="https://complib.org/composition/21261/print" style="width:100%;height:100%;"></iframe>](http://complib.org/composition/21261) [CompLib 37681](https://complib.org/composition/37681)) and the Johnson/Saddleton peal ([CompLib 10423](https://complib.org/composition/10423)). These peals were one-part compositions with many bobs, and are hard to conduct.
+Back in 1995 the question of whether it was possible to get an extent of Stedman Triples using only common bobs was settled with Colin Wyld's peals ([CompLib 21261](http://complib.org/composition/21261) [CompLib 37681](https://complib.org/composition/37681)) and the Johnson/Saddleton peal ([CompLib 10423](https://complib.org/composition/10423)). These peals were one-part compositions with many bobs, and are hard to conduct.
 
 Since then there have been further compositions starting with my 4 irregular 10-part peals from June 1995 with 438 bobs ([CompLib 28944](https://complib.org/composition/28944) [CompLib 28946](https://complib.org/composition/28946)) and 441 bobs ([CompLib 28945](https://complib.org/composition/28945) [CompLib 28947](https://complib.org/composition/28947)) which have been rung over 200 times. A further development in 2012 was another 148 10-part peals with between 438 bobs ([CompLib 31021](https://complib.org/composition/31021)) and 456 bobs [CompLib 37714](https://complib.org/composition/37714)), including several exact two-part peals, some with at most 5 bobs in a row. More recently were my exact three-part peals of 2017 ([CompLib 36006](https://complib.org/composition/36006)).
 
