@@ -356,6 +356,7 @@ peal
 3146752QS--------P--P------P-*1(1)
 ```
 - [CompLib 93488](https://complib.org/composition/93488) 555 bobs
+
 ```
 2314567QS---------P---P------P--------P---------PP---------P--------P*1(1)
 7543621QS--------P--PP---------PPP--------PPP--P-*1(1)
@@ -842,6 +843,7 @@ All the sets of blocks here give peals, but I have just shown some peals as an i
 3146527QS--------PP--------PP*1(1)
 ```
 - [CompLib 89127](https://complib.org/composition/89127) 564 bobs
+
 ```
 2314567QS---------P-----P------P------P---------P--P---------P------P*1(1)
 7356124QS---------P--P---------P------P---------P--P---------P------P*1(1)
