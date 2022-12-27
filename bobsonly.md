@@ -2242,7 +2242,7 @@ Peals of 447 to 456 bobs
     - 51 runs of 6 bobs
  - [CompLib 82483](https://complib.org/composition/82483) 591 bobs, only 13 runs with an odd number of bobs
  - [CompLib 86761](https://complib.org/composition/86761) 528 bobs
- - [CompLib 88655](https://complib.org/composition/88655) no 9 bob run
+ - [CompLib 88655](https://complib.org/composition/88655) exact three-part, 636 bobs, no 9 bob run
  - [CompLib 88618](https://complib.org/composition/88618) exact three-part, 690 bobs
  - [CompLib 91897](https://complib.org/composition/91897) 612 bobs, exact three-part
  - [CompLib 36006](https://complib.org/composition/36006) exact three-part Op. 109, 603 bobs
