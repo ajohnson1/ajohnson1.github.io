@@ -1,5 +1,6 @@
 # Bobs-only extents of Stedman Triples
 
+## Table of Contents
 * TOC
 {:toc}
 
@@ -1230,3 +1231,46 @@ For fewer bobs this peal just beats peals shown previously with 73 and 74 comple
 - [CompLib 86680](https://complib.org/composition/86680) 594 bobs
 
 The peals are also here: - [CompLib 69 Stedman Triples bobs-only peals: Complete B-blocks, irregular](https://complib.org/collection/11309/?chapter=69%20complete%20B-blocks,%20irregular)
+
+## 68 complete B-block peals
+
+This shows how to arrange the extent so that there are an odd number of round blocks and that the sixes can be rearranged into 68 complete B-blocks. I have found roughly 800 sets of round blocks, and here are a few peals from three of those sets.
+
+### 55 round blocks, signature 32:3+57
+```
+2314567QS---------P--------P---------PP------P-P--P-----P---------P----P---------P---P---------P----P---------P-----P---------P----P---------P---P---------P----P-------P---------P-P---------P-------P---------P-------P---------P----P---------P---P--P-P------PP*1(1)
+7532164QS------P-P--P----P---P----P-----P----P---P----P--PPP----PP-P-*1(1)
+5724361QS----P-PP-P*1(1)
+```
+- [CompLib 77861](https://complib.org/composition/77861) 702 bobs
+
+### 65 round blocks, signature 28:9+51
+```
+2314567QS---------P---P------P-P---------P--PP---------P------P------P--------P*1(1)
+1274365QS--------PP----P-P--P------P-------P--PPP*1(1)
+6345172QS---------P------P-P--P------PP*1(1)
+4135276QS---------P--P--P---------PP--P*1(1)
+3675142QS--------P--P------PP------P--P*1(1)
+3621475QS--------P--P------P-*1(1)
+6324175QS--------P--P------P-*1(1)
+6351724QS--------P--P------P-*1(1)
+3657124QS--------P--P------P-*1(1)
+```
+- [CompLib 88087](https://complib.org/composition/88087) 600 bobs
+- [CompLib 77302](https://complib.org/composition/77302) 573 bobs
+
+### 71 complete B-blocks, signature 24:11+45
+```
+2314567QS---------P------PPP--------PPP*1(1)
+2167543QS-------PP--------PPP------P--P*1(1)
+5134267QS---------P------P--P*1(1)
+2413576QS---------P------P--P*1(1)
+5143276QS---------P------P--P*1(1)
+5716234QS---------P------P--P*1(1)
+5617243QS---------P------P--P*1(1)
+7514236QS--------PP--------PP*1(1)
+5234761QS--------PP-P-------P*1(1)
+5263741QS--------PP-P-------P*1(1)
+5132764QS-------PP--------PP-*1(1)
+```
+- [CompLib 90280](https://complib.org/composition/90280) 546 bobs
