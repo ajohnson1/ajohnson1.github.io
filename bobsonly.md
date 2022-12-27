@@ -16,7 +16,7 @@ There are 840 places (at any six-end) where a bob could be called in an extent o
 
 This is an example of the Q-set parity law. With Grandsire Triples using only common bobs there is only one lead head which brings up a row which leads to the proof of the impossibility of a extent of Grandsire Triples using just common bobs. Stedman Triples is made up of sixes, and any row could appear in a six defined by one of six possible six-ends, three quick or three slow, which breaks the Q-set parity law restriction, similar to how in Cambridge Surprise Minor a row can appear either of two leads, the forward or backwards version, thus allowing a bobs-only 720.
 
-B-blocks have a pair of bells dodging behind and two B-blocks can cover all the rows with a pair of bells dodging a particular way round. For each pair there are six possible complementary pairs of B-blocks, as illustrated by the six-ends below. The 'QS' is my convention for a quick six-end (to be followed by a slow six) and SQ for a slow six-end.
+B-blocks have a pair of bells dodging behind and two B-blocks can cover all the rows with a pair of bells dodging a particular way round. For each pair there are six possible complementary pairs of B-blocks, as illustrated by the six-ends below. The `QS` is my convention for a quick six-end (to be followed by a slow six) and `SQ` for a slow six-end.
 
 ```
 2314567QS
@@ -1458,3 +1458,24 @@ I have found 46 sets of round B-blocks which together with some B-blocks exactly
 ```
 - [CompLib 91460](https://complib.org/composition/91460) 573 bobs
 
+## 63 complete B-block peals
+
+I have found 16 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [47 to 63] of round blocks where the sixes can be rearranged to give 63 complete B-blocks. Here are two of the sets of blocks which give some peals. These two sets of blocks happen to come from a three-part group.
+
+### 47 round blocks, signature 39:2+63
+```
+2314567QS---------P-------P---------P-------P---------P----P---------P---P---------P----P-------P---------P-P*3(1)
+2173546QS------P-P--P----P---P----PP-P-*3(1)
+```
+- [CompLib 38985](https://complib.org/composition/38985) 705 bobs
+- [CompLib 72834](https://complib.org/composition/72834) 588 bobs
+- [CompLib 38836](https://complib.org/composition/38836) 600 bobs, three-part
+- [CompLib 72920](https://complib.org/composition/72920) 594 bobs, three-part
+- [CompLib 72887](https://complib.org/composition/72887) 591 bobs, three-part
+
+### 47 round blocks, signature 39:2+63
+```
+2314567QS---------P-----P---------P-----P---------P----P---------P---P--------P---------PP---------P--------P*3(1)
+5126347QS-------PP--P-----P----P---PPP-*3(1)
+```
+- [CompLib 37434](https://complib.org/composition/37434) 582 bobs
