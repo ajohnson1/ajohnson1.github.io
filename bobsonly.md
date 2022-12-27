@@ -1746,3 +1746,41 @@ I have found 5 sets of round B-blocks which together with some B-blocks exactly 
 6724531QS--------P--P------P-*1(1)
 ```
 - [CompLib 81744](https://complib.org/composition/81744) 603 bobs
+
+## 56 complete B-block peals
+
+I have found 114 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [35 to 61] of round blocks where the sixes can be rearranged to give 56 complete B-blocks. Only two of the sets of the blocks give peals which are illustrated below.
+
+### 55 round blocks, signature: 42:13+81
+```
+2314567QS---------P-------P---------P--P--P---------P--P--P-------P---------P-P*1(1)
+7216345QS------P--P----P----P------PP--P-P-------P-P-P-P--P----P----P*1(1)
+1572364QS-------P------P--P-P-------P------P-P--P----P--P-P*1(1)
+7356124QS--------P--P------PP------P-P--P------PP*1(1)
+7165324QS------P--P------P-P--P----P--P------P-P-*1(1)
+3615247QS---------P------P--P*1(1)
+4156327QS---------P------P--P*1(1)
+3251647QS--------P--P------P-*1(1)
+4365127QS--------P--P------P-*1(1)
+2571463QS--------P--P------P-*1(1)
+6472153QS--------P--P------P-*1(1)
+1432765QS-------P-P----P----P*1(1)
+7345126QS------P----P----P-P-*1(1)
+```
+- [CompLib 92618](https://complib.org/composition/92618) 612 bobs
+- [CompLib 92614](https://complib.org/composition/92614) 618 bobs
+- [CompLib 87958](https://complib.org/composition/87958) 627 bobs
+
+### 61 round blocks, signature: 32:9+69
+```
+2314567QS---------P--P--P----P--P-P------PP-----PP---------P--P--P------P------P--------P*1(1)
+3215746QS---------PP-----PP------P-P--P----P--P-PP--P--P--P*1(1)
+1274365QS--------PP------P-------P----P-------PPP*1(1)
+3627145QS--------P-------P----P-------P*1(1)
+3124675QS------P-P--P----P--P-P------PP*1(1)
+3675142QS------P-P--P----P--P-P------PP*1(1)
+3217564QS---------P------P--P*1(1)
+1437625QS-------P-P----P----P*1(1)
+6345172QS------P----P----P-P-*1(1)
+```
+- [CompLib 97256](https://complib.org/composition/97256) 603 bobs
