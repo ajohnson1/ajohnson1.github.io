@@ -2231,18 +2231,21 @@ Peals of 447 to 456 bobs
 - [CompLib 37714](https://complib.org/composition/37714) 456 bobs, exact two-part
 
 # Favourites
+- [CompLib 46069](https://complib.org/composition/46069) 708 bobs, isolated omits where there are just 8 omits after quick sixes
 - [CompLib 93429](https://complib.org/composition/93429) 711 bobs, only 8 omits after a quick six
+- [CompLib 60810](https://complib.org/composition/60810) 711 bobs with one double omit
 - [CompLib 84174](https://complib.org/composition/84174)
     - 594 bobs
     - 18 isolated bobs
     - 121 runs of 2 bobs
     - 7 runs of 4 bobs
     - 51 runs of 6 bobs
+ - [CompLib 82483](https://complib.org/composition/82483) 591 bobs, only 13 runs with an odd number of bobs
  - [CompLib 86761](https://complib.org/composition/86761) 528 bobs
  - [CompLib 88655](https://complib.org/composition/88655) no 9 bob run
- - [CompLib 88618](https://complib.org/composition/88618) Exact three-part, 690 bobs
+ - [CompLib 88618](https://complib.org/composition/88618) exact three-part, 690 bobs
  - [CompLib 91897](https://complib.org/composition/91897) 612 bobs, exact three-part
- - [CompLib 36006](https://complib.org/composition/36006) Exact three-part Op. 109, 603 bobs
+ - [CompLib 36006](https://complib.org/composition/36006) exact three-part Op. 109, 603 bobs
  - [CompLib 28944](https://complib.org/composition/28944) 438 bobs, Cholsey version
  - [CompLib 31021](https://complib.org/composition/31021) 438 bobs, exact two-part
 
