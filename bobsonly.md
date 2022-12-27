@@ -221,8 +221,8 @@ I have found 5 different ways of rearranging the contents of a whole number of B
 ```
 #### Signature: 18:5+33
 This arranges the contents of 18 B-blocks into 5 round blocks using 33 plains, giving 71 round blocks in total.
-- [CompLib 84985](https://complib/composition/84985) 597 bobs
-- [CompLib 85836](https://complib/composition/85836) 567 bobs
+- [CompLib 84985](https://complib.org/composition/84985) 597 bobs
+- [CompLib 85836](https://complib.org/composition/85836) 567 bobs
 
 ### 71 round blocks (b)
 ```
@@ -232,9 +232,9 @@ This arranges the contents of 18 B-blocks into 5 round blocks using 33 plains, g
 This arranges the contents of 14 B-blocks into 1 round blocks using 24 plains, giving 71 round blocks in total.
 This set of blocks has an upper limit of 711 bobs for a peal, and such a peal can be found.
 71 blocks to be linked by 35 Q-sets, adding another 105 plains, so giving 129 plains in total.
-- [CompLib 93425](https://complib/composition/93425) 564 bobs
-- [CompLib 93428](https://complib/composition/93428) 711 bobs
-- [CompLib 93429](https://complib/composition/93429) 711 bobs, only 8 omits after a quick six
+- [CompLib 93425](https://complib.org/composition/93425) 564 bobs
+- [CompLib 93428](https://complib.org/composition/93428) 711 bobs
+- [CompLib 93429](https://complib.org/composition/93429) 711 bobs, only 8 omits after a quick six
 
 This core block can be examined. Note how bells 2 and 3 remain together in the front 5 places.
 - [CompLib 93430](https://complib.org/composition/93430) 840 changes 116 bobs
@@ -251,7 +251,7 @@ This core block can be examined. Note how bells 2 and 3 remain together in the f
 ```
 #### Signature: 18:7+33
 This arranges the contents of 18 B-blocks into 7 round blocks using 33 plains, giving 73 round blocks in total.
-- [CompLib 93427](https://complib/composition/93427) 594 bobs
+- [CompLib 93427](https://complib.org/composition/93427) 594 bobs
 
 ### 75 round blocks (a)
 ```
@@ -263,7 +263,7 @@ This arranges the contents of 18 B-blocks into 7 round blocks using 33 plains, g
 ```
 #### Signature: 14:5+21
 This arranges the contents of 14 B-blocks into 5 round blocks using 21 plains, giving 75 round blocks in total.
-- [CompLib 82483](https://complib/composition/82483) 591 bobs
+- [CompLib 82483](https://complib.org/composition/82483) 591 bobs
 Only 13 runs with an odd number of bobs: 1 5-bob set, 2 3-bob sets, 10 1-bob sets. Last third of peal is all in pairs (runs of 2 and 6, with one 4).
 
 ### 75 round blocks (b)
@@ -276,4 +276,106 @@ Only 13 runs with an odd number of bobs: 1 5-bob set, 2 3-bob sets, 10 1-bob set
 ```
 #### Signature: 14:5+21
 This arranges the contents of 14 B-blocks into 5 round blocks using 21 plains, giving 75 round blocks in total.
-- [CompLib 92787](https://complib/composition/92787) 558 bobs
+- [CompLib 92787](https://complib.org/composition/92787) 558 bobs
+
+## 75 complete B-block peals
+
+With all the sets of blocks I have given I have tried to avoid duplicates by arranging them in a canonical form.
+For each block, if it is a round block, choose a rotation to give a start which is a quick six. Choose a rotation with the longest runs of bobs first (lexical comparison, `-` before `P`). If the block is multi-part (so two rotations can be the same), choose a start with biggest start when the row is reversed (so `2134567` is before `2136745`). When there are multiple blocks, rearrange the order of the blocks so the longest block is first, then if equal do by starting six as above. Now consider renumbering the blocks so that the first block is `2134567QS` and sort as above. Also try renumbering so another block of the same length is `2134567QS`. Also check for reversals by taking each starting six, finding the six-head, then swap 1 & 2 to keep it in course, and reverse the block, then do all the above. See if it is before the best non-reversed version.
+
+I have not given peals for some of the blocks as I did not want to clutter up CompLib with similar peals, but I can add them if anyone is interested.
+
+### 71 round blocks
+
+#### Signature: 19:6+33 
+These all rearrange the contents of 19 B-blocks into 6 round blocks, giving 71 round blocks.
+```
+2314567QS---------P--------P---------P-------P--P--------P---------PP*1(1)
+2657431QS---------P---PP--------PP-P--P*1(1)
+4173562QS--------P--P--P---------P--PP-*1(1)
+5176432QS--------P--P--P---------P--PP-*1(1)
+4537162QS---------P------P--P*1(1)
+5467132QS---------P------P--P*1(1)
+```
+peal
+```
+2314567QS---------P--------P---------P-------P--P--------P---------PP*1(1)
+2657431QS---------P---PP--------PP-P--P*1(1)
+6217435QS---------P--P--P---------PP--P*1(1)
+2574361QS--------P--P--P---------P--PP-*1(1)
+6471235QS--------P--P------P-*1(1)
+2475631QS--------P--P------P-*1(1)
+```
+no peal
+```
+2314567QS---------P--------P--P-------P---------P-P---------P-------P*1(1)
+6527143QS---------PP---------P--P--P--P*1(1)
+5623471QS---------PP---------P--P--P--P*1(1)
+6172543QS--------P--PP-P-------P-P---P-*1(1)
+6521734QS---------P------P--P*1(1)
+3245617QS--------P--P------P-*1(1)
+```
+peal
+```
+2314567QS---------P--------P--P-------P---------P-P---------P-------P*1(1)
+7621534QS---------P--P---------P--PP--P*1(1)
+4653271QS---------P--P---------P--PP--P*1(1)
+6172543QS--------P--PP-P-------P-P---P-*1(1)
+6527143QS---------P------P--P*1(1)
+4235671QS--------P--P------P-*1(1)
+```
+- [CompLib 89469](https://complib.org/composition/89469) 582 bobs
+```
+2314567QS---------P--------P--P-------P---------P-P---------P-------P*1(1)
+7621534QS---------P--P---------P--PP--P*1(1)
+4653271QS---------P--P---------P--PP--P*1(1)
+6172543QS--------P--PP-P-------P-P---P-*1(1)
+6527143QS---------P------P--P*1(1)
+4235671QS--------P--P------P-*1(1)
+```
+peal
+```
+2314567QS---------P---P------P--------P---------PP---------P--------P*1(1)
+5634712QS---------P--P--P---------PP--P*1(1)
+2354617QS---------PPP--------PP----P--P*1(1)
+5743612QS--------P--P--P---------P--PP-*1(1)
+3214657QS---------P------P--P*1(1)
+3146752QS--------P--P------P-*1(1)
+```
+- [CompLib 93488](https://complib.org/composition/93488) 555 bobs
+```
+2314567QS---------P---P------P--------P---------PP---------P--------P*1(1)
+7543621QS--------P--PP---------PPP--------PPP--P-*1(1)
+2374651QS---------P--P--P---------PP--P*1(1)
+3214657QS---------P------P--P*1(1)
+3564127QS---------P------P--P*1(1)
+2647351QS--------P--P------P-*1(1)
+```
+peal
+```
+2314567QS---------P---PP---------P--P--P--------P---------PP---------P--------P*1(1)
+6745123QS--------P--P--P---------PPP--------PPPP-*1(1)
+3214657QS---------P------P--P*1(1)
+3564127QS---------P------P--P*1(1)
+1624753QS---------P------P--P*1(1)
+6154723QS---------P------P--P*1(1)
+```
+- [CompLib 822309](https://complib.org/composition/82309) 591 bobs
+```
+2314567QS---------P--P---------P------P---------P--P---------P------P*1(1)
+6357142QS---------P-----P------P--PP--P*1(1)
+7356124QS---------P--P---------P--PP--P*1(1)
+4523671QS--------P--PPP--------PP----P-*1(1)
+4563217QS--------P--P------P-*1(1)
+4517326QS--------P--P------P-*1(1)
+```
+no peal
+```
+2314567QS---------P--P---------P------P---------P--P---------P------P*1(1)
+7356124QS---------P-----P------P--PP--P*1(1)
+6357142QS---------P--P---------P--PP--P*1(1)
+2543761QS--------P--PPP--------PP----P-*1(1)
+2516347QS--------P--P------P-*1(1)
+2573416QS--------P--P------P-*1(1)
+```
+no peal
