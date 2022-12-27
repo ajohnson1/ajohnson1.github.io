@@ -2045,7 +2045,7 @@ I have found at least 9 sets of round B-blocks which together with some B-blocks
 
 There sets of blocks are based on a group of order 3. The blocks have not been normalised by rotation to better show the similarities.
 
-# 36 complete B-blocks, signature: 60:1+165
+### 25 round blocks, signature: 60:1+165
 ```
 4637251QS----P-----P---------PP--------P-P----PP----PPP--------P-----P---------P-P----PP--PP----PP----PP--PP--------PP--PPPP--PP--PP--P--------P-----PP---P--------P-----P---------P-PPP--PP--PP----PP--PP--P----*3(1)
 ```
@@ -2086,7 +2086,7 @@ There sets of blocks are based on a group of order 3. The blocks have not been n
 
 These are some irregular blocks, but based on the blocks above.
 
-### 36 complete B-blocks, signature 60:1+159
+### 25 round blocks, signature: 60:1+159
 ```
 3467251QS-------PP----P-P---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------PPP----PP----P-P---------P-----P--------P--PP--PP----PP--PP--PPP-P---------P-----P--------P--PP--PP----PP--PP--PPP-P---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------P--PP--PP--------PP----P-P--------PP---------P-----P--------P--PP--PP----PP--PP----P-P---------P-----P--------P--PP--PP----PP--PP--PPP-P---------P-----P--------P---PP-----P--------P--PP--PP--PPPP--PP--------PP--PP----PP----PP--PP----P-P---------P-----P--------P--PP--PP-*1(1)
 ```
@@ -2097,7 +2097,7 @@ These are some irregular blocks, but based on the blocks above.
 ```
 - [CompLib 77964](https://complib.org/composition/77964) 645 bobs, irregular
 
-### 36 complete B-blocks, signature: 60:1+171
+### 25 round blocks, signature: 60:1+171
 ```
 4637251QS----P-----PP---P--------P-----PP---P--------P-----P---------PP--------P-PPP--PP--PPPPP--------P-----P---------P-P----PP--PP----PP--PP--P--------P-----P---------PP--------P-P----PP--PPPPP--------P-----P---------PP--------P-P----PP--PPPPP--------P-----P---------PP--------P-P----PP--PP----PP--PPPP--PP--------PP--PP----PP----PP------PPPP--PP--PP--P--------P-----PP---P--------P-----P---------PP--------P-P----PP--PP----PP--PPPP------PP----PP--PPPP--PP--PPPP--PP---PP---PP--------PP---PP---PP--PP----PP--------PP--PPPPP--------P-----PP---P--------P-----PP---P--------P-----P---------P-P----PP----PPP----*1(1)
 ```
