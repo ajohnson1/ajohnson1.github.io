@@ -1,5 +1,8 @@
 # Bobs-only extents of Stedman Triples
 
+* TOC
+{:toc}
+
 ## Introduction
 
 Back in 1995 the question of whether it was possible to get an extent of Stedman Triples using only common bobs was settled with Colin Wyld's peals ([CompLib 21261](http://complib.org/composition/composition/21261) [CompLib 37681](https://complib.org/composition/37681)) and the Johnson/Saddleton peal ([CompLib 10423](https://complib.org/composition/10423)). These peals were one-part compositions with many bobs, and are hard to conduct.
@@ -106,3 +109,70 @@ There is a peal, [CompLib 91638](https://complib.org/composition/91638) which ha
 This gives another peal, [CompLib 92964](https://complib.org/composition/92964) with a maximum of 6 bobs in a run, two 5-bob sets, and two 3-bob sets and 37 single bobs. A 579 bob peal is [CompLib 84857](https://complib.org/composition/84857). [CompLib 90545](https://complib.org/composition/90545) and [CompLib 90546](https://complib.org/composition/90546) have only 7 omits after a quick six.
 
 See [CompLib 'Stedman Triples bobs-only peals'](https://complib.org/collection/11309) for the peals.
+
+## 78 complete B-block peals 
+
+There are some more peals based on combining all the rows of several B-blocks into larger round blocks. If all the sixes were separated then for these peals it would be possible to arrange them into 78 whole B-blocks with some sixes left over, so in the peal all the pieces of all 78 B-blocks are present and complete. This is for the convenience of classifying the peals as the choice of which pair of B-blocks with the same bells behind does not affect this statistic, neither does adding or removing 3 bobs in a Q-set [where the same 3 bells are affected by the call and the other bells are in the same position at each call].
+
+### 73 round blocks
+Here is the first block.
+```
+2314567QS---------P--------P-P--------P---------P-P--------PP-------P---------PP-------PP---------PPP--------PP------P---------PP*1(1)
+```
+Rotated version of that block: [CompLib 90582](https://complib.org/composition/90582)
+#### Signature: 12:1+21
+Links the contents of 12 whole B-blocks into 1 big block using 21 plains, giving 84-12+1=73 round blocks including the untouched B-blocks.
+This leaves 12 more B-blocks as the pairs of those, and 60 paired B-blocks, where each pair can be chosen from one of six, making assembly of the peal quite easy. There are then 73 round blocks to link. By choosing the B-block pairs carefully extra Q-sets can be found which can be plained to reduce the total number of bobs.
+- [CompLib 90595](https://complib.org/composition/90595) 576 bobs
+- [CompLib 85949](https://complib.org/composition/85439) 576 bobs
+
+There are 73 round blocks formed using 21 plains, so there is the chance of finding 72/2=36 Q-sets to link them into one block, the peal, which would add another 36*3=108 plains, so 129 plains and hence 711 bobs, but I have not found a peal using this block with that many bobs.
+
+### 75 round blocks
+```
+2314567QS---------P------PP---------PPP------P--P--------P--------P---------PP---------PP*1(1)
+2341576QS---------P------P--P*1(1)
+2761534QS--------P-------P-PP*1(1)
+```
+#### Signature: 12:3+21
+This takes the contents of 12 whole B-blocks and puts them into 3 round blocks using 21 plains.
+There are then 12 B-blocks which are pairs of those original blocks before they were reconstituted, and 60 paired remaining B-blocks.
+- [CompLib 93211](https://complib.org/composition/93211) 579 bobs
+
+An upper limit of bobs in a peal on this plan is as follows: 21 plains, 75 blocks, so a possible maximum of 840 - 21 - 3 * (75 - 1) / 2 = 708 bobs.
+
+### 77 round blocks (a)
+```
+2314567QS---------P--------P---------PP---------P-P------PP*1(1)
+3671245QS---------P------P--P*1(1)
+3517246QS--------P-------P-PP*1(1)
+2314675QS--------P--P------P-*1(1)
+```
+#### Signature: 11:4+18
+Upper limit of possible bobs: 840 - 18 - 3 * (77 - 1) / 2 = 708 bobs.
+
+- [CompLib 93112](https://complib.org/composition/93112) 555 bobs
+- [CompLib 85001](https://complib.org/composition/85001) 552 bobs (blocks reversed)
+- [CompLib 88208](https://complib.org/composition/88208) 549 bobs
+
+Instead of minimising the number of bobs, we can choose to reduce the number of sets of odd numbers of bobs in a run. This helps maintain the alternation of quick and slow work for the bells. Doing that gives the following peal, where the only runs of an odd number of bobs are single bobs, and there are only 18 of them. The 4-bob and 6-bob sets come at the start of the slow for some bell, whereas the  98 of the runs of 2 bobs are in quick, 23 are in slow. The treble does not have any odd bobs behind, just 0,2 or 6 bobs.
+- [CompLib 84174](https://complib.org/composition/84174)
+    - 594 bobs
+    - 18 isolated bobs
+    - 121 runs of 2 bobs
+    - 7 runs of 4 bobs
+    - 51 runs of 6 bobs
+
+I think this peal would not feel like a Thurstans twin-bob peal as there are so many more bobs, but might be slightly easier on the band than other bobs-only peals.
+
+### 77 round blocks (b)
+```
+2314567QS---------P-------P---------P-P------PP---------P-P*1(1)
+2736514QS---------P------P--P*1(1)
+2174563QS--------P-------P-PP*1(1)
+5263417QS--------P--P------P-*1(1)
+```
+#### Signature: 11:4+18
+- [CompLib 82690](https://complib.org/composition/82690) 582 bobs
+- [CompLib 93059](https://complib.org/composition/93059) 546 bobs
+This peal has 30 fewer bobs than any magic block peal.
