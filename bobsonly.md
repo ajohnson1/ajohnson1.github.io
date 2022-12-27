@@ -1307,3 +1307,71 @@ I have found over 250 sets of round B-blocks which together with some B-blocks e
 7316542QS--------P--P------P-*1(1)
 ```
 - [CompLib 96116](https://complib.org/composition/96116) 549 bobs
+
+## 66 complete B-block peals
+
+I have found over 500 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [47 to 71] of round blocks where the sixes can be rearranged to give 66 complete B-blocks. Some of the sets of blocks are given below together with some peals.
+
+### 47 round blocks, signature 39:2+53
+```
+2314567QS---------P-----P---------P----P---------P---P---------P--PP--------PPP*3(1)
+6342571QS---------P--------P---------PP---------P--P----P-----P-----P*3(1)
+```
+- [CompLib 85935](https://complib.org/composition/85935) 585 bobs, irregular 3-part
+- [CompLib 96222](https://complib.org/composition/96222) 594 bobs, 3-part
+- [CompLib 86220](https://complib.org/composition/96220) 591 bobs, 3-part
+
+### 51 round blocks, signature 36:3+57
+```
+2314567QS---------P-----P---------P-----P---------P----P---------P---P---------P----P---------P-----P---------P----P---------P---P---------P----P---------P-----P---------P----P---------P---P--------P---------PP---------P--------P*1(1)
+1742365QS-------PP--P-----P-PP--------PP-P---P----P-----P----P---P----P-----P----P---PPP-*1(1)
+7146325QS---------PP---------P--------P---------PP---------P--------P*1(1)
+```
+- [CompLib 78043](https://complib.org/composition/78043) 606 bobs
+
+### 63  round blocks, signature 32:7+51
+``` 
+2314567QS---------P--------P---------PP------PP--------PPP---------PP------P-PP*1(1)
+7521436QS---------PP----P-------P--P---------P--------P------P------P*1(1)
+2541367QS--------P-------P---------P-P-------P---------P-P--P----P-P-*1(1)
+2615437QS--------P--P--P---------P--PP-*1(1)
+3546217QS--------PP--------PP*1(1)
+3561247QS--------PP-P-------P*1(1)
+2456317QS-------P-P-------P-P*1(1)
+```
+- [CompLib 88097](https://complib.org/composition/88097) 612 bobs
+- [CompLib 91434](https://complib.org/composition/91434) 573 bobs
+
+### Three-part peals
+The 3-part peals make a change from the one-part peals. There are several types of 3-part peals:
+
+#### Exact 3-parts: all the parts are called the same.
+#### Other 3-parts:
+Blocks which divide the extent into 3 identical parts. These are then linked with Q-sets of bobs or omits. For an easier peal it is best to use only 1 Q-set (or perhaps a second at a similar point in other parts). The sixes affected by the Q-set should be as close a possible to minimise the disruption. If the 3 identical parts are divided into `ABCD` at the Q-set points then peals of the form
+`ABC'CDAB'BCA'D`
+where ' is a bob or omit can sometimes be found. We should minimise the length of B and C.
+So the peal links the parts like this:
+```
+1234567: ABC
+           /
+1357246: ..CD
+1357246: AB
+          /
+1526374: .BCD
+1526374: A
+          \
+           \
+1234567: ...D
+```
+A variation is
+`AB'B'BC'C'CDA'DA'D`
+which might be easier to call, at the expense of a longer first part and shorter second and third parts.
+
+It might be possible to add extra Q-sets of omits to reduce the bob count, but the peal is then less regular.
+
+Sometime the extent can be split into round blocks using a group of order 3, but not into 3 identical parts, but in 2,3,4,5.. sets of 3 identical parts. If there are an odd number of sets then it might be possible to find some Q-sets of bobs or omits to link everything together.
+
+##### Irregular 3-parts
+By bobbing all available Q-sets there might be whole B-blocks revealed as some of the sets. If complementary pairs of B-blocks are then available a free choice of 1 of the 6 possible pairs can be made, and that might give more Q-sets of omits to link everything together. The result is going to be a much less regular peal though.
+
+With all these 3-part peals then by choosing an appropriate rotation/reversal a good part-end (either `1357246` or `3456127` etc.) can often be found.
