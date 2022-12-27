@@ -1978,3 +1978,34 @@ I have found 13 sets of round B-blocks which together with some B-blocks exactly
 ```
 - [CompLib 78017](https://complib.org/composition/78017) 603 bobs
 
+## 48 complete B-block peals
+
+I have found 14 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [29 to 35] of round blocks where the sixes can be rearranged to give 48 complete B-blocks. Here is the set of blocks which gives peals.
+
+### 35 round blocks, signature 54:5+96
+```
+2314567QS---------P----P----P------P-P----P----P---P---------P----P----P--P-------P----P----P-----P---------P----P----P------P-P----P----P---P---------P----P----P--P-------P----P----P-----P---------P----P----P------P-P----P----P---P---------P----P----P--P-------P----P----P-----P*1(1)
+2654137QS---------P----P---P---P---------P--P-P----P---------P----P-----PP----P---------P----P---P---P---------P--P-P----P---------P----P-----PP----P---------P----P---P---P---------P--P-P----P---------P----P-----PP----P*1(1)
+2356147QS---------P------P--P*1(1)
+7246513QS---------P------P--P*1(1)
+3716452QS---------P------P--P*1(1)
+```
+These blocks are from a 3-part group.
+
+8 examples of exact 3-parts with 636 bobs
+- [CompLib 88655](https://complib.org/composition/88655) no 9 bob run
+- [CompLib 97657](https://complib.org/composition/97657)
+- [CompLib 88617](https://complib.org/composition/88617)
+- [CompLib 97660](https://complib.org/composition/97660)
+- [CompLib 97662](https://complib.org/composition/97662)
+- [CompLib 97663](https://complib.org/composition/97663)
+- [CompLib 97664](https://complib.org/composition/97664)
+- [CompLib 97666](https://complib.org/composition/97666)
+By bobbing Q-sets the number of bobs can be increased up to 690 bobs.
+- [CompLib 97568](https://complib.org/composition/97568) 645 bobs
+- [CompLib 88618](https://complib.org/composition/88618) 690 bobs - one of 32 examples
+
+The 2017 exact 3-part peals have between 603 and 639 bobs and all have at least one 9 bob run per part; these have between 636 and 690 bobs.
+
+Also
+- [CompLib 97714](https://complib.org/composition/97714) 606 bobs - irregular 3-part
