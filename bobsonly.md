@@ -176,3 +176,104 @@ I think this peal would not feel like a Thurstans twin-bob peal as there are so 
 - [CompLib 82690](https://complib.org/composition/82690) 582 bobs
 - [CompLib 93059](https://complib.org/composition/93059) 546 bobs
 This peal has 30 fewer bobs than any magic block peal.
+
+## 77 complete B-block peals
+
+I have found 3 different ways of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, subject to the 77 complete B-block restriction.
+### 73 round blocks (a)
+```
+2314567QS---------P--------P---------P-P---------P--------P---------PP---------P--------P--------P---------PP*1(1)
+2173465QS-------PP----PP--------PP--PP-*1(1)
+```
+#### Signature: 13:2+21
+### 73 round blocks (a)
+```
+2314567QS---------P--------P---------P-P---------P--------P---------PP---------P--------P--------P---------PP*1(1)
+3517246QS--------PP------PP--------PPPP*1(1)
+```
+#### Signature: 13:2+21
+Both have the signature of linking 13 B-blocks into two blocks using 21 plains, so giving 73 round blocks in total.
+However, I have not found a peal using either of these sets of blocks.
+### 75 round blocks
+```
+2314567QS---------P--------P---------P-------P--P--------P---------PP*1(1)
+2461573QS---------P------PPP--------PPP*1(1)
+2416537QS---------P------P--P*1(1)
+2743516QS---------P------P--P*1(1)
+```
+#### Signature: 13:4+21
+13 B-blocks into four blocks using 21 plains, giving 75 round blocks in total.
+
+- [CompLib 85387](https://complib.org/composition/85387) 579 bobs
+- [CompLib 93113](https://complib.org/composition/93113) 576 bobs
+
+## 76 complete B-block peals
+
+I have found 5 different ways of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, where the peal can have 76 complete B-blocks extracted from the sixes.
+
+### 71 round blocks (a)
+```
+2314567QS---------P--------P---P--PP--P---------P--P-----PP---------P-P---------P-------P*1(1)
+6352741QS---------P--P---------P--PP--P*1(1)
+1547362QS--------P--P---PP--------PP-P-*1(1)
+4371526QS---------P------P--P*1(1)
+3265714QS--------P--P------P-*1(1)
+```
+#### Signature: 18:5+33
+This arranges the contents of 18 B-blocks into 5 round blocks using 33 plains, giving 71 round blocks in total.
+- [CompLib 84985](https://complib/composition/84985) 597 bobs
+- [CompLib 85836](https://complib/composition/85836) 567 bobs
+
+### 71 round blocks (b)
+```
+2314567QS---------P--------P-P--------P---------PP-------PP---------P-P-------P---------PPP---------P------PP--------PPP--------P---------P-P-------P*1(1)
+```
+#### Signature: 14:1+24
+This arranges the contents of 14 B-blocks into 1 round blocks using 24 plains, giving 71 round blocks in total.
+This set of blocks has an upper limit of 711 bobs for a peal, and such a peal can be found.
+71 blocks to be linked by 35 Q-sets, adding another 105 plains, so giving 129 plains in total.
+- [CompLib 93425](https://complib/composition/93425) 564 bobs
+- [CompLib 93428](https://complib/composition/93428) 711 bobs
+- [CompLib 93429](https://complib/composition/93429) 711 bobs, only 8 omits after a quick six
+
+This core block can be examined. Note how bells 2 and 3 remain together in the front 5 places.
+- [CompLib 93430](https://complib.org/composition/93430) 840 changes 116 bobs
+
+### 73 round blocks (a)
+```
+2314567QS---------P---P------P--P--P--P*1(1)
+2315476QS---------PP---------P--P--P--P*1(1)
+3217645QS---------PP---------P--P--P--P*1(1)
+3216754QS---------PP---------P--P--P--P*1(1)
+6514327QS---------P------P--P*1(1)
+6274351QS---------P------P--P*1(1)
+3647521QS--------P--P------P-*1(1)
+```
+#### Signature: 18:7+33
+This arranges the contents of 18 B-blocks into 7 round blocks using 33 plains, giving 73 round blocks in total.
+- [CompLib 93427](https://complib/composition/93427) 594 bobs
+
+### 75 round blocks (a)
+```
+2314567QS---------P---P------P--------P---------PP---------P--------P*1(1)
+6254317QS---------P------P--P*1(1)
+6714352QS---------P------P--P*1(1)
+3645712QS--------P--P------P-*1(1)
+2743165QS-------PP--------PP-*1(1)
+```
+#### Signature: 14:5+21
+This arranges the contents of 14 B-blocks into 5 round blocks using 21 plains, giving 75 round blocks in total.
+- [CompLib 82483](https://complib/composition/82483) 591 bobs
+Only 13 runs with an odd number of bobs: 1 5-bob set, 2 3-bob sets, 10 1-bob sets. Last third of peal is all in pairs (runs of 2 and 6, with one 4).
+
+### 75 round blocks (b)
+```
+2314567QS---------P---P------P--------P---------PP---------P--------P*1(1)
+6514327QS---------P------P--P*1(1)
+6274351QS---------P------P--P*1(1)
+3647521QS--------P--P------P-*1(1)
+1274365QS--------PP--------PP*1(1)
+```
+#### Signature: 14:5+21
+This arranges the contents of 14 B-blocks into 5 round blocks using 21 plains, giving 75 round blocks in total.
+- [CompLib 92787](https://complib/composition/92787) 558 bobs
