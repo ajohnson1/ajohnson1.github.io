@@ -1152,3 +1152,81 @@ I have found over 1300 sets of an odd number of blocks where the sixes can be re
 6415723QS--------P--P------P-*1(1)
 ```
 - [CompLib 82853](https://complib.org/composition/82853) 582 bobs, 8 plains in a run
+
+## 69 complete B-block peals
+
+I have found over 600 sets of round B-blocks which together with some B-blocks give an odd number of round blocks where the sixes can be rearranged to give 69 complete B-blocks. Some of the sets of blocks are given below together with some peals.
+
+### 57 round blocks, signature 29:2+45
+```
+2314567QS---------P-------P---------P-------P---------P----P---------P---P---------P----P---------P-----P---------P----P---------P---P---------P----P---------P-----P---------P----P---------P---P---------P----P-------P---------P-P*1(1)
+2173546QS------P-P--P----P---P----P-----P----P---P----P-----P----P---P----PP-P-*1(1)
+```
+- [CompLib 60807](https://complib.org/composition/60807) 564 bobs
+- [CompLib 60795](https://complib.org/composition/60795) 567 bobs
+- [CompLib 59733](https://complib.org/composition/59733) 582 bobs
+- [CompLib 59734](https://complib.org/composition/59734) 582 bobs
+- [CompLib 59723](https://complib.org/composition/59723) 711 bobs
+- [CompLib 59732](https://complib.org/composition/59732) 711 bobs
+- [CompLib 60803](https://complib.org/composition/60803) 711 bobs
+- [CompLib 60810](https://complib.org/composition/60810) 711 bobs with one double omit
+
+### 59 round blocks, signature 28:3+45
+```
+2314567QS---------P--------P---P-----P---------P---P-----P---------P---P------P---------P--------PP---------P-----P---P---------P-----P---P---------P-----P--PP*1(1)
+4516372QS--------P---P-----P---------P---P-----P---------P---P--PP--------PP-P-*1(1)
+4561327QS---------P-----P---P---------P-----P---P---------P-----P---P*1(1)
+```
+- [CompLib ](https://complib.org/composition/95601 549 bobs
+
+### 61 round blocks, signature 27:4+45
+```
+2314567QS---------P--------P------PP--------PP-PP---------P--P--------P---------PP---------P--------P---------PP-----P---------PP*1(1)
+7356124QS---------P--P---------P-------P---------P-P---------P-------P--------P---------PP---------P--------P*1(1)
+5746321QS--------PP------PP--------PPPP*1(1)
+2456317QS-------P-P-------P-P*1(1)
+```
+- [CompLib 95622](https://complib.org/composition/95622) 597 bobs, 8 plains in a run
+
+### 63 round blocks, signature 26:5+45
+```
+2314567QS---------P--------P---------PP--------P-P--------P---------P-P--------PP-------P---------PP-------PP---------PPP--------PP------PP*1(1)
+2541367QS--------P-------P---------P-P-------P---------P-P---------P-------P-P-*1(1)
+3546217QS--------PP--------PP*1(1)
+2651347QS-------P-P-------P-P*1(1)
+2456317QS-------P-P-------P-P*1(1)
+```
+- [CompLib 86749](https://complib.org/composition/86749) 531 bobs
+- [CompLib 86761](https://complib.org/composition/86761) 528 bobs
+
+For fewer bobs this peal just beats peals shown previously with 73 and 74 complete B-blocks and 531 bobs. This peal has 4 Q-sets which are bobbed. Plaining them all takes the bob count down to 516, but then there are multiple blocks.
+
+### 65 round blocks, signature 25:6+45
+```
+2314567QS---------P-----PP---------P--------P---------PP--------P------P--PP--------PP--P*1(1)
+5134672QS---------P---P--P---------P--PP--------P---------PP---------P--------P*1(1)
+5164732QS---------PPP--------PP----P--P*1(1)
+5746132QS--------P--P--P---------P--PP-*1(1)
+2654137QS---------P------P--P*1(1)
+1542376QS--------PP--------PP*1(1)
+```
+- [CompLib 95648](https://complib.org/composition/95648)
+
+### 67 round blocks, signature 29:12+45
+```
+2314567QS---------P--------P---------P-------P--P--------P---------PP*1(1)
+2657431QS---------P---PP--------PP-P--P*1(1)
+6217435QS---------P------P--P*1(1)
+6347125QS---------P------P--P*1(1)
+3217564QS---------P------P--P*1(1)
+3657124QS---------P------P--P*1(1)
+6471235QS--------P--P------P-*1(1)
+6174325QS--------P--P------P-*1(1)
+3571264QS--------P--P------P-*1(1)
+3175624QS--------P--P------P-*1(1)
+2574361QS--------P--P------P-*1(1)
+2475631QS--------P--P------P-*1(1)
+```
+- [CompLib 86680](https://complib.org/composition/86680) 594 bobs
+
+The peals are also here: - [CompLib 69 Stedman Triples bobs-only peals: Complete B-blocks, irregular](https://complib.org/collection/11309/?chapter=69%20complete%20B-blocks,%20irregular)
