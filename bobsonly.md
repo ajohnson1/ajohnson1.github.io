@@ -1603,3 +1603,58 @@ I have found 167 sets of round B-blocks which together with some B-blocks exactl
 1543672QS----P-PP-P*1(1)
 ```
 - [CompLib 85496](https://complib.org/composition/85496) 576 bobs, 8 plains in a row
+
+## 60 complete B-block peals
+
+I have found 3 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [47 to 59] of round blocks where the sixes can be rearranged to give 60 complete B-blocks. Here are the sets of blocks together with a peal. 
+
+### 47 round blocks, signature: 46:9+81 
+```
+2314567QS---------P--------P---------PP------P-P--P-----P---------P----P---------P---P----P------P--P----P----P---------P-----P---------P----P---------P---P---------P----P-------P---------P-P---------P-------P---------P-------P-------P------P--P-P----P---------P---P--P-P------PP*1(1)
+7532164QS------P-P--P----P---P----P-----P----P---P----P--PPP----PP-P-*1(1)
+4731625QS---------P------P--P*1(1)
+6371425QS---------P------P--P*1(1)
+6413527QS--------P--P------P-*1(1)
+4615327QS--------P--P------P-*1(1)
+6412735QS--------P--P------P-*1(1)
+4617235QS--------P--P------P-*1(1)
+5724361QS----P-PP-P*1(1)
+```
+Gives peals, but similar to blocks below
+
+### 47 round blocks, signature: 46:9+81
+```
+2314567QS---------P--------P---------PP------P-P--P-----P---------P----P---------P---P-P--P------P-------P----P---------P-----P---------P----P---------P---P---------P----P-------P---------P-P---------P-------P---------P-------P----P--P------P----P----P---------P---P--P-P------PP*1(1)
+7532164QS------P-P--P----P---P----P-----P----P---P----P--PPP----PP-P-*1(1)
+4351627QS---------P------P--P*1(1)
+6531427QS---------P------P--P*1(1)
+4271635QS---------P------P--P*1(1)
+6721435QS---------P------P--P*1(1)
+4613725QS--------P--P------P-*1(1)
+6417325QS--------P--P------P-*1(1)
+5724361QS----P-PP-P*1(1)
+```
+- [CompLib 77124](https://complib.org/composition/77124) 582 bobs
+
+### 59 round blocks, signature: 43:18+75
+```
+2314567QS------P-----P--P-----P------P--P---PP--P*1(1)
+1435672QS--------P--P------PP------P--P*1(1)
+1653472QS--------P--P------PP------P--P*1(1)
+2374165QS--------P--P--P---------P--PP-*1(1)
+4567312QS------P-----P--P------P---P--P*1(1)
+2463517QS------P--P-----P------P--P---P*1(1)
+5631247QS---------P------P--P*1(1)
+2147365QS---------P------P--P*1(1)
+3672154QS---------P------P--P*1(1)
+5427163QS---------P------P--P*1(1)
+3274561QS---------P------P--P*1(1)
+2541367QS--------P--P------P-*1(1)
+5213647QS--------P--P------P-*1(1)
+5271436QS--------P--P------P-*1(1)
+3127654QS--------P--P------P-*1(1)
+3547261QS--------P--P------P-*1(1)
+5276341QS--------P--P------P-*1(1)
+6724531QS--------P--P------P-*1(1)
+```
+No peals
