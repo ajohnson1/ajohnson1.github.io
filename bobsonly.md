@@ -1959,3 +1959,22 @@ I have found 23 sets of round B-blocks which together with some B-blocks exactly
 6142537QS-------P-P-------P-P*1(1)
 ```
 - [CompLib 92712](https://complib.org/composition/92712) 621 bobs
+
+## 49 complete B-block peals
+
+I have found 13 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [31 to 35] of round blocks where the sixes can be rearranged to give 49 complete B-blocks. Here is a set of blocks which gives peals.
+
+### 33 round blocks, signature 60:9+105
+```
+2314567QS---------P--------P---------PP---------P--------P----P----P---------P---P---------P----P---------P-----P---------P----P---------P---P-P-P---------P-------P-------P--------P---------PP---PP*1(1)
+6725134QS---------P-----P---------P-----P---------P----P---------P---P---------P----P-----PP-P-P---------P-------P------P---------PP---------P--------P*1(1)
+6513472QS---------P--------P----PP--P-----P--P-P---------P-------P------PP--------PP-P-P---------P-------P-P---P----P-----P----P---P---PP*1(1)
+6531427QS---------P--------PP-----P----P---PPP---PP*1(1)
+5412637QS--------PP--------PP*1(1)
+3546217QS--------PP--------PP*1(1)
+6512743QS-------P---P-----PP-*1(1)
+6142537QS-------P-P-------P-P*1(1)
+2456317QS-------P-P-------P-P*1(1)
+```
+- [CompLib 78017](https://complib.org/composition/78017) 603 bobs
+
