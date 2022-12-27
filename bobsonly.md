@@ -1375,3 +1375,37 @@ Sometime the extent can be split into round blocks using a group of order 3, but
 By bobbing all available Q-sets there might be whole B-blocks revealed as some of the sets. If complementary pairs of B-blocks are then available a free choice of 1 of the 6 possible pairs can be made, and that might give more Q-sets of omits to link everything together. The result is going to be a much less regular peal though.
 
 With all these 3-part peals then by choosing an appropriate rotation/reversal a good part-end (either `1357246` or `3456127` etc.) can often be found.
+
+
+
+## 65 complete B-block peals
+
+I have found 25 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [53 to 63] of round blocks where the sixes can be rearranged to give 65 complete B-blocks. I have found two of the sets of blocks give some peals.
+
+### 53 round blocks, signature 35:4+57
+```
+2314567QS---------P-----P---------P-----P---------P----P---------P---P---------P----P-----PP---------P--------P---------PP--------P----P---------P---P---------P----P---------P-----P---------P----P---------P---P--------P---------PP---------P--------P*1(1)
+1742365QS-------PP--P-----P----P---P----P-----P----P---P----P-----P----P---PPP-*1(1)
+2451376QS-------P---P-----PP-*1(1)
+3652147QS-------PP--------PP-*1(1)
+```
+- [CompLib 85017](https://complib.org/composition/85017) 573 bobs
+
+### 61 round blocks, signature 35:14+63
+```
+2314567QS---------P--------P---------P-------P-P--P------P-------P-P-P--P------P-------PP*1(1)
+1324657QS---------P---P-P-P------P--P-----P-PP--P*1(1)
+2514376QS---------PP---------P--P--P--P*1(1)
+2671435QS---------P------P--P*1(1)
+3265714QS---------P------P--P*1(1)
+5216743QS---------P------P--P*1(1)
+6314572QS---------P------P--P*1(1)
+7514362QS---------P------P--P*1(1)
+2541367QS--------P--P------P-*1(1)
+1642357QS--------P--P------P-*1(1)
+2417635QS--------P--P------P-*1(1)
+6541372QS--------P--P------P-*1(1)
+7341562QS--------P--P------P-*1(1)
+7235461QS--------P--P------P-*1(1)
+```
+- [CompLib 96461](https://complib.org/composition/96461) 585 bobs
