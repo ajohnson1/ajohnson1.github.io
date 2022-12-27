@@ -1708,3 +1708,41 @@ I have found 68 sets of round B-blocks which together with some B-blocks exactly
 6725341QS----P-PP-P*1(1)
 ```
 - [CompLib 89492](https://complib.org/composition/89492) 564 bobs
+
+## 57 complete B-block peals
+
+I have found 5 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [41 to 55] of round blocks where the sixes can be rearranged to give 57 complete B-blocks. Two of the sets of the blocks give peals which are illustrated below.
+
+### 41 round blocks, signature: 49:6+81
+```
+2314567QS---------P-----P---------P-----P---------P----P---------P---P---------P----P-----PP---------P--------P---------PP--------P----P---------P---P---------P----P---------P-----P---------P----P---------P---P--------P---------PP---------P--------P*1(1)
+4612537QS---------P--------P---------PP---------P--------PP-----P----P---P----P-----P--P-P---------P-------P---------P-P---------P-------P-P---PPP--------PP--P-----P----P---P---PP*1(1)
+6523417QS--------PP--------PP*1(1)
+2451376QS-------P---P-----PP-*1(1)
+4253617QS-------P-P-------P-P*1(1)
+3652147QS-------PP--------PP-*1(1)
+```
+- [CompLib 85910](https://complib.org/composition/85910) 609 bobs
+
+### 55 round blocks, signature: 47:18+81
+```
+2314567QS---------P---P------P--------P----P--P------P----PP-P--P------P-------P--------P*1(1)
+1234756QS--------P--P------PP------P--P*1(1)
+1743256QS--------P--P------PP------P--P*1(1)
+6372451QS--------P--P------PP------P--P*1(1)
+6427351QS--------P--P------PP------P--P*1(1)
+6273541QS--------P--PPP--------PP----P-*1(1)
+3214657QS---------P------P--P*1(1)
+1523476QS---------P------P--P*1(1)
+1574326QS---------P------P--P*1(1)
+7362154QS---------P------P--P*1(1)
+2467153QS---------P------P--P*1(1)
+4713652QS---------P------P--P*1(1)
+6537241QS---------P------P--P*1(1)
+6542731QS---------P------P--P*1(1)
+1347526QS--------P--P------P-*1(1)
+2176453QS--------P--P------P-*1(1)
+4631752QS--------P--P------P-*1(1)
+6724531QS--------P--P------P-*1(1)
+```
+- [CompLib 81744](https://complib.org/composition/81744) 603 bobs
