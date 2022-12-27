@@ -395,7 +395,7 @@ no peal
 ```
 no peal
 
-## 74 complete B-blocks peals
+## 74 complete B-block peals
 
 I have found 40 sets of blocks so far, where the sixes from each set (and the remaining B-blocks) can be rearranged into 74 complete B-blocks.
 
@@ -949,7 +949,7 @@ Here are just a few.
 ```
 - [CompLib 94922](https://complib.org/composition/94922) 570 bobs
 
-## 71 complete B-blocks peals
+## 71 complete B-block peals
 
 I have found 14 sets of blocks which together with their remaining B-blocks have an odd number of round blocks and can have the sixes rearranged to give 71 complete B-blocks.
 
@@ -1171,7 +1171,14 @@ I have found over 1300 sets of an odd number of blocks where the sixes can be re
 
 I have found over 600 sets of round B-blocks which together with some B-blocks give an odd number of round blocks where the sixes can be rearranged to give 69 complete B-blocks. Some of the sets of blocks are given below together with some peals.
 
-### 57 round blocks, signature: 29:2+45
+### 57 round blocks (a), signature: 29:2+45
+```
+2314567QS---------P-----P---------P-----P---------P----P---------P---P---------P----P---------P-----P---------P----P---------P---P---------P----P---------P-----P---------P----P---------P---P--------P---------PP---------P--------P*1(1)
+1742365QS-------PP--P-----P----P---P----P-----P----P---P----P-----P----P---PPP-*1(1)
+```
+- [CompLib 77907](https://complib.org/composition/77907) 582 bobs
+
+### 57 round blocks (b), signature: 29:2+45
 ```
 2314567QS---------P-------P---------P-------P---------P----P---------P---P---------P----P---------P-----P---------P----P---------P---P---------P----P---------P-----P---------P----P---------P---P---------P----P-------P---------P-P*1(1)
 2173546QS------P-P--P----P---P----P-----P----P---P----P-----P----P---P----PP-P-*1(1)
@@ -1272,7 +1279,7 @@ This shows how to arrange the extent so that there are an odd number of round bl
 - [CompLib 88087](https://complib.org/composition/88087) 600 bobs
 - [CompLib 77302](https://complib.org/composition/77302) 573 bobs
 
-### 71 complete B-blocks, signature: 24:11+45
+### 71 complete B-block, signature: 24:11+45
 ```
 2314567QS---------P------PPP--------PPP*1(1)
 2167543QS-------PP--------PPP------P--P*1(1)
