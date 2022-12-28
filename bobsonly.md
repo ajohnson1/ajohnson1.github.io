@@ -146,7 +146,7 @@ This leaves 12 more B-blocks as the pairs of those, and 60 paired B-blocks, wher
 - [CompLib 90595](https://complib.org/composition/90595) 576 bobs
 - [CompLib 85949](https://complib.org/composition/85439) 576 bobs
 
-There are 73 round blocks formed using 21 plains, so there is the chance of finding 72/2=36 Q-sets to link them into one block, the peal, which would add another 36*3=108 plains, so 129 plains and hence 711 bobs, but I have not found a peal using this block with that many bobs.
+There are 73 round blocks formed using 21 plains, so there is the chance of finding $72/2=36$ Q-sets to link them into one block, the peal, which would add another $36×3=108$ plains, so 129 plains and hence 711 bobs, but I have not found a peal using this block with that many bobs.
 
 ### 75 round blocks
 ```
