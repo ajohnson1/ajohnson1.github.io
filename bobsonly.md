@@ -61,7 +61,9 @@ The magic blocks used in the Wyld and Johnson/Saddleton peals have the same rows
 ```
 Notice how they are a five-part set, with bells 2 and 5 fixed and 3,7,6,1,4 rotating.
 
-There are then 10 B-blocks which are the complementary pairs of those first 10 blocks, and 64 remaining B-blocks, arranged in 32 complementary pairs. There are therefore $6^{32}=7.96×10^{18}$ choices for those pairs, and some choices give enough Q-sets to link everything together. This gives 79 round blocks with 825 bobs, which perhaps could be reduced to one block using 39 Q-sets of 3 omits
+There are then 10 B-blocks which are the complementary pairs of those first 10 blocks, and 64 remaining B-blocks, arranged in 32 complementary pairs. There are therefore $6^{32}=7.96×10^{18}$ choices for those pairs, and some choices give enough Q-sets to link everything together. This gives 79 round blocks with 825 bobs, which perhaps could be reduced to one block using 39 Q-sets of 3 omits.
+
+The sixes can be rearranged into 79 complete B-blocks by chopping them up and joining them together without changing the type of the six. There are 64 B-blocks in complementary pairs, 10 B-blocks which partner the magic blocks, and 10 B-blocks which can be obtained from the magic blocks. The other sixes for the other 10 B-blocks cannot by obtained as they are disrupted by the sixes between the `P--P` sequences of calls.
 
 There have been further minor developments in magic block peals. Colin Wyld found that he needed an extra Q-set of omits to link the blocks together, so the peal took $840-5×3-3×(79-1)/2-3=705$ bobs. With a suitable choice of B-blocks the extra Q-set of omits is not needed and a peal of 708 bobs is possible, for example by bobbing some Q-sets of the first Johnson/Saddleton peal to give [CompLib 37705](https://complib.org/composition/37705). By bobbing one Q-set of Wyld's No. 1 then that can also be increased to 708 bobs ([CompLib 92949](https://complib.org/composition/92949)).
 
@@ -80,6 +82,8 @@ In classifying bobs-only peals it is useful to have some statistics which do not
 * Number of complete B-blocks (take all the sixes, and without changing their type can they be chopped up and reassembled into whole B-blocks).
 * Number of paired sixes
 
+In this article, the signature of the peal is obtained by bobbing all Q-sets, then looking at the round blocks. Some might be B-blocks, but others would contain blocks with some plains. The magic blocks have a signature of 10:5+15, which means that the contents of 10 B-blocks are linked into 5 round blocks using 15 plains, giving $84-10+5=79$ round blocks including the untouched B-blocks.
+
 When comparing peals other statistics can determine their merit:
 
 * Number of bobs (normally minimised, sometimes maximised)
@@ -92,6 +96,7 @@ When comparing peals other statistics can determine their merit:
 
 ## Other 79 complete B-block peals 
 
+### 79 round blocks
 Recently I discovered some more peals, which although looking similar to magic block peals are in fact different. Some are based on these blocks
 ```
 2314567QS---------P------P--P*1(1)
@@ -100,6 +105,7 @@ Recently I discovered some more peals, which although looking similar to magic b
 2167543QS---------P------P--P*1(1)
 2643571QS---------P------P--P*1(1)
 ```
+#### Signature: 10:5+15
 This looks similar to the magic blocks, but is different, and generates different peals. There is a peal with only 5 plains (omits) after a quick six, [CompLib 92794](https://complib.org/composition/92794), though with 2 double omits. To avoid double omits however requires at least 18 plains after a quick six. There are peals from 576 bobs ([CompLib 92793](https://complib.org/composition/92793)) to 708 bobs.
 
 These blocks are clearly different as two of the blocks have 9,3,6 bobs in a run rather than 9,6,3.
@@ -110,6 +116,7 @@ These blocks are clearly different as two of the blocks have 9,3,6 bobs in a run
 5246317QS--------P--P------P-*1(1)
 5217634QS--------P--P------P-*1(1)
 ```
+#### Signature: 10:5+15
 There is a peal, [CompLib 91638](https://complib.org/composition/91638) which has only 7 omits after a quick six, the minimum using these blocks, and isolated omits. A similar peal with 7 omits after a slow six is [CompLib 84678](https://complib.org/composition/84678) There is also another peal, [CompLib 90948](https://complib.org/composition/90948) with a maximum of 6 bobs in a run, no 5-bob sets, and only 3 3-bob sets and 36 single bobs, so most of the time the alternation between quick and slow work is maintained.
 ```
 2314567QS---------P------P--P*1(1)
@@ -118,6 +125,7 @@ There is a peal, [CompLib 91638](https://complib.org/composition/91638) which ha
 5241637QS--------P--P------P-*1(1)
 5236714QS--------P--P------P-*1(1)
 ```
+#### Signature: 10:5+15
 This gives another peal, [CompLib 92964](https://complib.org/composition/92964) with a maximum of 6 bobs in a run, two 5-bob sets, and two 3-bob sets and 37 single bobs. A 579 bob peal is [CompLib 84857](https://complib.org/composition/84857). [CompLib 90545](https://complib.org/composition/90545) and [CompLib 90546](https://complib.org/composition/90546) have only 7 omits after a quick six.
 
 See [CompLib 'Stedman Triples bobs-only peals'](https://complib.org/collection/11309) for the peals.
@@ -133,7 +141,7 @@ Here is the first block.
 ```
 Rotated version of that block: [CompLib 90582](https://complib.org/composition/90582)
 #### Signature: 12:1+21
-Links the contents of 12 whole B-blocks into 1 big block using 21 plains, giving 84-12+1=73 round blocks including the untouched B-blocks.
+Links the contents of 12 whole B-blocks into 1 big block using 21 plains, giving $84-12+1=73$ round blocks including the untouched B-blocks.
 This leaves 12 more B-blocks as the pairs of those, and 60 paired B-blocks, where each pair can be chosen from one of six, making assembly of the peal quite easy. There are then 73 round blocks to link. By choosing the B-block pairs carefully extra Q-sets can be found which can be plained to reduce the total number of bobs.
 - [CompLib 90595](https://complib.org/composition/90595) 576 bobs
 - [CompLib 85949](https://complib.org/composition/85439) 576 bobs
