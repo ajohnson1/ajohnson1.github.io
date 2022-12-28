@@ -151,7 +151,7 @@ This takes the contents of 12 whole B-blocks and puts them into 3 round blocks u
 There are then 12 B-blocks which are pairs of those original blocks before they were reconstituted, and 60 paired remaining B-blocks.
 - [CompLib 93211](https://complib.org/composition/93211) 579 bobs
 
-An upper limit of bobs in a peal on this plan is as follows: 21 plains, 75 blocks, so a possible maximum of 840 - 21 - 3 * (75 - 1) / 2 = 708 bobs.
+An upper limit of bobs in a peal on this plan is as follows: 21 plains, 75 blocks, so a possible maximum of $840-21-3×(84-12+3-1)/2=708$ bobs.
 
 ### 77 round blocks (a)
 ```
@@ -161,7 +161,7 @@ An upper limit of bobs in a peal on this plan is as follows: 21 plains, 75 block
 2314675QS--------P--P------P-*1(1)
 ```
 #### Signature: 11:4+18
-Upper limit of possible bobs: 840 - 18 - 3 * (77 - 1) / 2 = 708 bobs.
+Upper limit of possible bobs: $840-18-3×(84-11+4-1)/2=708$ bobs.
 
 - [CompLib 93112](https://complib.org/composition/93112) 555 bobs
 - [CompLib 85001](https://complib.org/composition/85001) 552 bobs (blocks reversed)
