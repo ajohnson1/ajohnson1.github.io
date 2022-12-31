@@ -1287,7 +1287,7 @@ This shows how to arrange the extent so that there are an odd number of round bl
 - [CompLib 88087](https://complib.org/composition/88087) 600 bobs
 - [CompLib 77302](https://complib.org/composition/77302) 573 bobs
 
-### 71 complete B-block, signature: 24:11+45
+### 71 round blocks, signature: 24:11+45
 ```
 2314567QS---------P------PPP--------PPP*1(1)
 2167543QS-------PP--------PPP------P--P*1(1)
