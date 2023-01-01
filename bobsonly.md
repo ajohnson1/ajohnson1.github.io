@@ -2283,7 +2283,7 @@ There is no bobs-only exact 7-part. There are multiple sets of blocks with a 7-p
 1536472QSP-----*7(1)
 7165324QSP-PP*7(1)
 ```
-[CompLib 48932](https://complib.org/composition/48932) 560 bobs, 56 singles
+- [CompLib 48932](https://complib.org/composition/48932) 560 bobs, 56 singles
 
 #### 35 round blocks, 49 complete B-blocks, signature 63:14+105
 ```
@@ -2293,7 +2293,7 @@ There is no bobs-only exact 7-part. There are multiple sets of blocks with a 7-p
 5316472SQ----------*1(7)
 3617254SQ----------*1(7)
 ```
-[CompLib 48954](https://complib.org/composition/48954) 651 bobs, 42 singles
+- [CompLib 48954](https://complib.org/composition/48954) 651 bobs, 42 singles
 
 ## 6-part peals
 
@@ -2327,7 +2327,6 @@ Generators [1543267, 1425376] group order 4
 ```
 3124567QSP---P---------P--P--P---P--P---------P--PPP---------P--P-----PP--P---------P-----P--P---P---------P--P--P---P--P---------P--PPP---------P--P-----PP--P---------P-----P---PP---------P--P-----PP--P---------P-----P*1(1)
 ```
-
 - [CompLib 104651](https://complib.org/composition/104651) 660 bobs, 4 special calls
 
 ### 4-part peals - group [4.04]
@@ -2349,7 +2348,10 @@ Not directly useful for a bobs-only peal. Is a Hamiltonian graph.
 Two pairs swapping independently
 Not directly useful for a bobs-only peal. Is Hamiltonian though, giving this nice peal with singles just swapping 12 or 34 in the parts:
 
-[CompLib 66787](https://complib.org/composition/66787) 486 bobs, 6 singles
+```
+2314567QSP--P-PPP--P-PP-P-P-P-PP--P--P--P---P--P--PP--PP--PP------P--P-PP-P-PPP-P------P-PP------PP-P--PPPPP-P--P-----P--P-P-PP-P--P---P-P--P-P---P--P-P--PP-PPP--------PPP----P-PPP-P-PP---PPP-P----PPP---P--PP---PP------*1(1)
+```
+- [CompLib 66787](https://complib.org/composition/66787) 486 bobs, 6 singles
 
 ## 3-part peals
 
@@ -2360,7 +2362,7 @@ I think I did complete a search choosing 4 pairs of complementary B-blocks and o
 
 ### 2-part peals - group [4.07]
 
-Nothing new after the 2012 peals
+Nothing new after the 2012 peals.
 
 ### 2-part peals - group [2.01]
 
