@@ -1340,7 +1340,7 @@ I have found over 250 sets of round B-blocks which together with some B-blocks e
 
 I have found over 500 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [47 to 71] of round blocks where the sixes can be rearranged to give 66 complete B-blocks. Some of the sets of blocks are given below together with some peals.
 
-### 47 round blocks, signature: 39:2+53
+### 47 round blocks, signature: 39:2+63
 ```
 2314567QS---------P-----P---------P----P---------P---P---------P--PP--------PPP*3(1)
 6342571QS---------P--------P---------PP---------P--P----P-----P-----P*3(1)
