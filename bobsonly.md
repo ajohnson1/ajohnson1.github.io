@@ -128,8 +128,6 @@ There is a peal, [CompLib 91638](https://complib.org/composition/91638) which ha
 ```
 This gives another peal, [CompLib 92964](https://complib.org/composition/92964) with a maximum of 6 bobs in a run, two 5-bob sets, and two 3-bob sets and 37 single bobs. A 579 bob peal is [CompLib 84857](https://complib.org/composition/84857). [CompLib 90545](https://complib.org/composition/90545) and [CompLib 90546](https://complib.org/composition/90546) have only 7 omits after a quick six.
 
-See [CompLib 'Stedman Triples bobs-only peals'](https://complib.org/collection/11309) for the peals.
-
 ## 78 complete B-block peals 
 
 There are some more peals based on combining all the rows of several B-blocks into larger round blocks. If all the sixes were separated then for these peals it would be possible to arrange them into 78 whole B-blocks with some sixes left over, so in the peal all the pieces of all 78 B-blocks are present and complete. This is for the convenience of classifying the peals as the choice of which pair of B-blocks with the same bells behind does not affect this statistic, neither does adding or removing 3 bobs in a Q-set [where the same 3 bells are affected by the call and the other bells are in the same position at each call].
@@ -2245,7 +2243,138 @@ Peals of 444 to 453 bobs
 Peals of 447 to 456 bobs
 - [CompLib 37714](https://complib.org/composition/37714) 456 bobs, exact two-part
 
+# Summary
+
+These are the results of ad-hoc searches, and are not comprehensive. A lot of them were obtained by taking an existing peal I had found, keeping some parts fixed and varying other parts.
+
+For example, sometimes I took one peal, bobbed all the Q-sets to get an odd number of round blocks, and kept the paired B-blocks as fixed because paired B-blocks are useful as there are a 6 ways each pair can be expressed, which helps linking everything together, and also if they were variable a search could come up with any of those 6 forms which wouldn't be significantly different, but would just flood the results.
+
+I then took the remaining sixes and searched to see how many sets of round blocks I could obtain. I might also impose other limits like the total number of bobs (because otherwise the search might just turn up 84 B-blocks), and number of complete B-blocks, and also that any Q-sets should be bobbed (to restrict equivalent solutions). My searches couldn't easily filter results of odd numbers of round blocks vs. even numbers so I had to do that once I had say 1000 results. If I got less than 1000 when the search terminated then I knew I had found all the blocks subject to the conditions. I could then try to link the blocks into a peal, but there would be a free choice of 6 for each of the paired B-blocks. Sometimes if I wanted to reduce the number of bobs I would choose the instances of the paired B-blocks to maximise the number of available Q-sets and then try to link the blocks without changing the types of the B-blocks. I could also try other restrictions such as not allowing 7 bobs in a row, and finding 8 plains in a row.
+
+The number of bobs now ranges from 438 to 456 (existing 10-part peals) and 528 to 711 (one-part peals). With 84 B-blocks there are 840 bobs, so 123 omits on Q-sets could link those to 2 blocks with 717 blocks. An upper limit on the number of bobs therefore seems to be 714, but that would require a 2 blocks to 1 link with 3 omits, or a 4 blocks to 1 with 6 omits etc. which seems unlikely, so perhaps 711 bobs is the limit.
+
+The 528 bob peal [CompLib 86761](https://complib.org/composition/86761) had 4 Q-sets which could not be plained without splitting it back into multiple blocks, and there was another peal [CompLib 92761](https://complib.org/composition/92761) where if all the Q-sets were plained there would be 501 bobs (but multiple blocks), so perhaps a one-part peal using B-blocks can be found with less than 528 bobs but I'm guessing to achieve 500 bobs would be hard.
+
+I found several peals with 8 plains in a row but they can't be arranged to put all at the start or all at the end of a peal with a normal start; it needs to start or end with a bob, so at best with my peals you can end with 8 plains and a bob, or 7 plains. Perhaps this can be improved on.
+
+[CompLib 84174](https://complib.org/composition/84174) is interesting as all the bobs come in multiples of 2 (2,4 or 6) except for 18 single bobs, but it is a one-part. The treble does 0,2 or 6 bobs behind. Compare with the exact 3-part from 2017 [CompLib 36006](https://complib.org/composition/36006), which has 9 runs of 1 bob, 3 runs of 3 bobs and 15 runs of 5 bobs and the 7 does either 2 or 6 bobs behind.
+
+Among the things that didn't work for me:
+
+## 7-part peals
+
+There is no bobs-only exact 7-part. There are multiple sets of blocks with a 7-part group with an odd number [5,21,35] of round blocks, but it doesn't seem possible to link them with bobs or omits. Here are some peals with singles to link the blocks
+
+### 35 round blocks, 49 complete B-blocks, signature 63:14+105
+```
+3124567QS-----PPP--------PP----P---P---------P--------P---------PP---------P---*1(7)
+4125367SQ-------P--P------P--*1(7)
+4236175SQ----------*1(7)
+5316472SQ----------*1(7)
+1627354SQ----------*1(7)
+```
+- [CompLib 48931](https://complib.org/composition/48931) 651 bobs, 42 singles
+
+### 5 round blocks, 14 complete B-blocks, signature 84:5+252
+```
+3124567QS-----P-------PP-P-----PP--PP---------P--PP-----P-PPP----PP-PP-P-P-P-----P---*7(1)
+6421375QS--PP----PP---P---P--------PP*7(1)
+4125367SQ-----P*7(1)
+1536472QSP-----*7(1)
+7165324QSP-PP*7(1)
+```
+[CompLib 48932](https://complib.org/composition/48932) 560 bobs, 56 singles
+
+#### 35 round blocks, 49 complete B-blocks, signature 63:14+105
+```
+1234567QS--P--P--------P---------PP-------PP-P---------P--P---PPP--------P---------P-----*1(7)
+4267351SQ----------*1(7)
+1637452QS----------*1(7)
+5316472SQ----------*1(7)
+3617254SQ----------*1(7)
+```
+[CompLib 48954](https://complib.org/composition/48954) 651 bobs, 42 singles
+
+## 6-part peals
+
+There can't be an exact 6-part bobs-only peal, but the group can generate blocks which link in pairs to give 3 round blocks. When I was working with Dr Michael Haythorpe he ran my program in 2013 and we found the following sets of an odd number of blocks, shown in file [odd.txt](odd.txt). Unfortunately I cannot see a way of linking the blocks with just bobs. That's an especial pity because the set giving 5 round blocks has only 402 bobs.
+
+We also found some single blocks, shown in file [single.txt](single.txt), which when expanded for a peal formed 2 or 6 round blocks (but unfortunately not 3). This shows that the 6-part graph is Hamiltonian. Example peals using singles are here:
+
+- [CompLib 49158](https://complib.org/composition/49158) 540 bobs, 6 singles
+- [CompLib 49177](https://complib.org/composition/49177) 540 bobs, 6 singles
+
+## 5-part peals
+
+As already published, there just one instance (+rotations/reversal) of a single block (actually from the 10-part group, so made of two identical sections), but it links to itself and cannot be linked by Q-sets of bobs or omits. 
+
+- [CompLib 28949](https://complib.org/composition/28949) 450 bobs, 10 singles
+
+There are sets of multiple blocks with odd numbers of blocks when expanded to all the rows (e.g. the original 10-part peals) which can be linked with Q-sets of bobs or omits to provide the existing 10-part peals.
+
+The magic blocks appear in a 5-part search, together with the remaining B-blocks, but cannot be linked without changing the type of some of the B-blocks, so there isn't a 5-part based magic block peal. There might be other sets of an odd number of blocks - I haven't found them yet.
+
+## 4-part peals
+
+### 4-part peals - group [6.26]
+
+Not much success here - but the search space gets larger as the groups get smaller.
+The graph is Hamiltonian, but the example I found, from a 20-part search) divides into 4 1-part blocks. This doesn't stop there being an exact 4-part out there.
+```
+3124567QSP--PP--P---------P--PPP---------P--P--P--P*5(4)
+Generators [1543267, 1425376] group order 4
+
+```
+3124567QSP---P---------P--P--P---P--P---------P--PPP---------P--P-----PP--P---------P-----P--P---P---------P--P--P---P--P---------P--PPP---------P--P-----PP--P---------P-----P---PP---------P--P-----PP--P---------P-----P*1(1)
+```
+
+- [CompLib 104651](https://complib.org/composition/104651) 660 bobs, 4 special calls
+
+### 4-part peals - group [4.04]
+
+Not directly useful for a bobs-only peal.
+This is the only group for Stedman Triples where I don't know whether the reduced graph is Hamiltonian i.e. can a search just turn up one block
+
+### 4-part peals - group [6.35]
+
+Not directly useful for a bobs-only peal. Is a Hamiltonian graph (i.e. search can find one block), but then need 4 of those blocks cover all the sixes.
+
+### 4-part peals - group [4.05m]
+
+An in course subgroup of the Thurstans' 20-part out of course group.
+Not directly useful for a bobs-only peal. Is a Hamiltonian graph.
+
+### 4-part peals - group [4.06m]
+
+Two pairs swapping independently
+Not directly useful for a bobs-only peal. Is Hamiltonian though, giving this nice peal with singles just swapping 12 or 34 in the parts:
+
+[CompLib 66787](https://complib.org/composition/66787) 486 bobs, 6 singles
+
+## 3-part peals
+
+Lots of peals - but too big to search completely.
+I think I did complete a search choosing 4 pairs of complementary B-blocks and one block with the remaining sixes (200 sixes), anyway it was how I found the 42 and 48 complete B-block exact 3-parts.
+
+## 2-part peals
+
+### 2-part peals - group [4.07]
+
+Nothing new after the 2012 peals
+
+### 2-part peals - group [2.01]
+
+One pair swapping. Not directly useful for a bobs-only peal.
+Is Hamiltonian though, and gives a peal which looks like Slack's two-part, but comes round half-way if you replace the single with a bob.
+
+- [CompLib 66793](https://complib.org/composition/66793) 508 bobs, 2 singles
+
+Slack's peal is actually made of 4 blocks and does not come round if you replace the single with a bob or a plain and has more bobs (596 vs 508), so mine is cleaner, but not of the same historical interest.
+
+- [CompLib 29011](https://complib.org/composition/29011) 596 bobs, 2 singles. G W Slack
+
 # Favourites
+
 - [CompLib 46069](https://complib.org/composition/46069) 708 bobs, isolated omits where there are just 8 omits after quick sixes
 - [CompLib 93429](https://complib.org/composition/93429) 711 bobs, only 8 omits after a quick six
 - [CompLib 60810](https://complib.org/composition/60810) 711 bobs with one double omit
@@ -2265,5 +2394,6 @@ Peals of 447 to 456 bobs
  - [CompLib 31021](https://complib.org/composition/31021) 438 bobs, exact two-part
 
 # Conclusion
+
 These are the last of the bobs-only peals for now; I have some unpublished peals but they are not significantly different from the published ones.
-The collection is here: https://complib.org/collection/11309
+The collection is here: [CompLib 'Stedman Triples bobs-only peals'](https://complib.org/collection/11309).
