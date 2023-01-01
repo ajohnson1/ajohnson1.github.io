@@ -2249,7 +2249,7 @@ These are the results of ad-hoc searches, and are not comprehensive. A lot of th
 
 For example, sometimes I took one peal, bobbed all the Q-sets to get an odd number of round blocks, and kept the paired B-blocks as fixed because paired B-blocks are useful as there are a 6 ways each pair can be expressed, which helps linking everything together, and also if they were variable a search could come up with any of those 6 forms which wouldn't be significantly different, but would just flood the results.
 
-I then took the remaining sixes and searched to see how many sets of round blocks I could obtain. I might also impose other limits like the total number of bobs (because otherwise the search might just turn up 84 B-blocks), and number of complete B-blocks, and also that any Q-sets should be bobbed (to restrict equivalent solutions). My searches couldn't easily filter results of odd numbers of round blocks vs. even numbers so I had to do that once I had say 1000 results. If I got less than 1000 when the search terminated then I knew I had found all the blocks subject to the conditions. I could then try to link the blocks into a peal, but there would be a free choice of 6 for each of the paired B-blocks. Sometimes if I wanted to reduce the number of bobs I would choose the instances of the paired B-blocks to maximise the number of available Q-sets and then try to link the blocks without changing the types of the B-blocks. I could also try other restrictions such as not allowing 7 bobs in a row, and finding 8 plains in a row.
+I then took the remaining sixes and searched to see how many sets of round blocks I could obtain. I might also impose other limits like the total number of bobs (because otherwise the search might just turn up 84 B-blocks), and number of complete B-blocks, and also that any Q-sets should be bobbed (to restrict equivalent solutions). My searches couldn't easily filter results of odd numbers of round blocks vs even numbers so I had to do that once I had say 1000 results. If I got less than 1000 when the search terminated then I knew I had found all the blocks subject to the conditions. I could then try to link the blocks into a peal, but there would be a free choice of 6 for each of the paired B-blocks. Sometimes if I wanted to reduce the number of bobs I would choose the instances of the paired B-blocks to maximise the number of available Q-sets and then try to link the blocks without changing the types of the B-blocks. I could also try other restrictions such as not allowing 7 bobs in a row, and finding 8 plains in a row.
 
 The number of bobs now ranges from 438 to 456 (existing 10-part peals) and 528 to 711 (one-part peals). With 84 B-blocks there are 840 bobs, so 123 omits on Q-sets could link those to 2 blocks with 717 blocks. An upper limit on the number of bobs therefore seems to be 714, but that would require a 2 blocks to 1 link with 3 omits, or a 4 blocks to 1 with 6 omits etc. which seems unlikely, so perhaps 711 bobs is the limit.
 
@@ -2322,8 +2322,8 @@ Not much success here - but the search space gets larger as the groups get small
 The graph is Hamiltonian, but the example I found, from a 20-part search) divides into 4 1-part blocks. This doesn't stop there being an exact 4-part out there.
 ```
 3124567QSP--PP--P---------P--PPP---------P--P--P--P*5(4)
+```
 Generators [1543267, 1425376] group order 4
-
 ```
 3124567QSP---P---------P--P--P---P--P---------P--PPP---------P--P-----PP--P---------P-----P--P---P---------P--P--P---P--P---------P--PPP---------P--P-----PP--P---------P-----P---PP---------P--P-----PP--P---------P-----P*1(1)
 ```
