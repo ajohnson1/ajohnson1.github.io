@@ -926,7 +926,7 @@ Here are just a few.
 ```
 - [CompLib 82415](https://complib.org/composition/82415) 603 bobs
 
-### 69 rounds blocks, signature: 23:8+39
+### 69 round blocks, signature: 23:8+39
 ```
 2314567QS---------P-------P---------P--P---------P--P--P--P-------P-P------P---------PP-P*1(1)
 4213675QS---------P--P--P---------PP--P*1(1)
@@ -1855,7 +1855,7 @@ I have found 72 sets of round B-blocks which together with some B-blocks exactly
 ```
 - [CompLib 92746](https://complib.org/composition/92746) 612 bobs
 
-### 35 rounds blocks, signature: 54:5+90
+### 35 round blocks, signature: 54:5+90
 ```
 2314567QS---------P-----P---------P----P---------P----P---------P----P-P---------P---P---------P----P---------P----P---------P----P-------P*3(1)
 3462157QS-------PP-P--P----P----P----PP*3(1)
