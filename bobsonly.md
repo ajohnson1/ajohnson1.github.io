@@ -2297,9 +2297,9 @@ There is no bobs-only exact 7-part. There are multiple sets of blocks with a 7-p
 
 ## 6-part peals
 
-There can't be an exact 6-part bobs-only peal, but the group can generate blocks which link in pairs to give 3 round blocks. When I was working with Dr Michael Haythorpe he ran my program in 2013 and we found the following sets of an odd number of blocks, shown in file [odd.txt](odd.txt). Unfortunately I cannot see a way of linking the blocks with just bobs. That's an especial pity because the set giving 5 round blocks has only 402 bobs.
+There can't be an exact 6-part bobs-only peal, but the group can generate blocks which link in pairs to give 3 round blocks. When I was working with Dr Michael Haythorpe he ran my program in 2013 and we found the following sets of an odd number of blocks, shown in file [odd.txt](https://raw.githubusercontent.com/ajohnson1/ajohnson1.github.io/main/odd.txt). Unfortunately I cannot see a way of linking the blocks with just bobs. That's an especial pity because the set giving 5 round blocks has only 402 bobs.
 
-We also found some single blocks, shown in file [single.txt](single.txt), which when expanded for a peal formed 2 or 6 round blocks (but unfortunately not 3). This shows that the 6-part graph is Hamiltonian. Example peals using singles are here:
+We also found some single blocks, shown in file [single.txt](https://raw.githubusercontent.com/ajohnson1/ajohnson1.github.io/main/single.txt), which when expanded for a peal formed 2 or 6 round blocks (but unfortunately not 3). This shows that the 6-part graph is Hamiltonian. Example peals using singles are here:
 
 - [CompLib 49158](https://complib.org/composition/49158) 540 bobs, 6 singles
 - [CompLib 49177](https://complib.org/composition/49177) 540 bobs, 6 singles
