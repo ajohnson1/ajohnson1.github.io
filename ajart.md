@@ -12,7 +12,7 @@
 
 Date: February 24, 1995
 
-Click [here](#table-of-Contents) for table of contents.
+Click [here](#table-of-contents) for table of contents.
 
 # Introduction
 
