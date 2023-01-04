@@ -2163,7 +2163,7 @@ I have found 361 sets of round B-blocks which together with some B-blocks exactl
 
 ## 12 complete B-block peals
 
-These are the 10-part peals of 1995 and 2012, See [Bobs-only Stedman Triples made easy](10part.html), [The Ringing World, 11 August 1995, p841](https://bb.ringingworld.co.uk/issues/1995/841),
+These are the 10-part peals of 1995 and 2012 based on group [5.04]. See [Bobs-only Stedman Triples made easy](10part.html), [The Ringing World, 11 August 1995, p841](https://bb.ringingworld.co.uk/issues/1995/841),
 [Ringing Theory June 2012](https://lists.ringingworld.co.uk/pipermail/ringing-theory/2012-June/017011.html)
 [Ringing Theory July 2012](https://lists.ringingworld.co.uk/pipermail/ringing-theory/2012-July/017041.html)
 and 'Stedman Triples and Similar Fascinations' for the 152 peals. There is nothing new here.
@@ -2265,6 +2265,8 @@ Among the things that didn't work for me:
 
 ## 7-part peals
 
+### 7-part peals - group [7.07]
+
 There is no bobs-only exact 7-part. There are multiple sets of blocks with a 7-part group with an odd number [5,21,35] of round blocks, but it doesn't seem possible to link them with bobs or omits. Here are some peals with singles to link the blocks
 
 ### 35 round blocks, 49 complete B-blocks, signature 63:14+105
@@ -2299,7 +2301,9 @@ There is no bobs-only exact 7-part. There are multiple sets of blocks with a 7-p
 
 ## 6-part peals
 
-There can't be an exact 6-part bobs-only peal, but the group can generate blocks which link in pairs to give 3 round blocks. When I was working with Dr Michael Haythorpe he ran my program in 2013 and we found the following sets of an odd number of blocks, shown in file [odd.txt](odd.txt). Unfortunately I cannot see a way of linking the blocks with just bobs. That's an especial pity because the set giving 5 round blocks has only 402 bobs.
+### 6-part peals - group [6.32]
+
+There can't be an exact 6-part bobs-only peal, but the group could generate blocks which link in pairs to give 3 round blocks. When I was working with Dr Michael Haythorpe he ran my program in 2013 and we found the following sets of an odd number of blocks, shown in file [odd.txt](odd.txt). Unfortunately I cannot see a way of linking the blocks with just bobs. That's an especial pity because the set giving 5 round blocks has only 402 bobs.
 
 We also found some single blocks, shown in file [single.txt](single.txt), which when expanded for a peal formed 2 or 6 round blocks (but unfortunately not 3). This shows that the 6-part graph is Hamiltonian. Example peals using singles are here:
 
@@ -2307,6 +2311,8 @@ We also found some single blocks, shown in file [single.txt](single.txt), which 
 - [CompLib 49177](https://complib.org/composition/49177) 540 bobs, 6 singles
 
 ## 5-part peals
+
+### 5-part peals - group [5.05]
 
 As already published, there just one instance (+rotations/reversal) of a single block (actually from the 10-part group, so made of two identical sections), but it links to itself and cannot be linked by Q-sets of bobs or omits. 
 
@@ -2356,6 +2362,8 @@ Not directly useful for a bobs-only peal. Is Hamiltonian though, giving this nic
 - [CompLib 66787](https://complib.org/composition/66787) 486 bobs, 6 singles
 
 ## 3-part peals
+
+### 3-part peals - group [6.33]
 
 Lots of peals - but too big to search completely.
 I think I did complete a search choosing 4 pairs of complementary B-blocks and one block with the remaining sixes (200 sixes), anyway it was how I found the 42 and 48 complete B-block exact 3-parts.
