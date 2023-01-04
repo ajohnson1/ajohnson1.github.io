@@ -401,11 +401,11 @@ current age of the universe, surely enough for any peal tour.
 When linking courses together, it is easier to write out the ends of courses.
 Transposing bells as the result of omits at certain positions is easily done.
 ```
-Omit at 1 (or 4)   2314567 -&gt; 2314675
-Omit at 7 (or 10)  2314567 -&gt; 2316574
-Omit at 5 (or 8)   2314567 -&gt; 2614573
-Omit at 3 (or 6)   2314567 -&gt; 6314572
-Omit at 9 (or 2)   2314567 -&gt; 2364571
+Omit at 1 (or 4)   2314567 -> 2314675
+Omit at 7 (or 10)  2314567 -> 2316574
+Omit at 5 (or 8)   2314567 -> 2614573
+Omit at 3 (or 6)   2314567 -> 6314572
+Omit at 9 (or 2)   2314567 -> 2364571
 ```
 The same course is given by the end of any quick six, so the following courses
 are all equivalent:
