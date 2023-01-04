@@ -12,9 +12,9 @@
 
 Date: February 24, 1995
 
-Click [here](#Table-of-Contents) for table of contents.
+Click [here](#table-of-Contents) for table of contents.
 
-# Peals of Stedman Triples with bobs only
+# Introduction
 
 The first peal of Stedman Triples was rung in 1731. Until now, all peals of
 Stedman Triples have had a least two singles. It has been a long standing
