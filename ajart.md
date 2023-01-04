@@ -356,7 +356,7 @@ considered earlier.
 ## Linking the blocks together
 ### Work done by A Johnson
 
-There are 15+64 = 79 blocks to be linked together. Three blocks may be linked
+There are $15+64=79$ blocks to be linked together. Three blocks may be linked
 into one by three omits on members of a Q-set. This means that at least $(78/2)×3=117$
 omits are required to link 79 blocks into one. There are also $3×5=15$
 omits in the 5 magic blocks. This gives at least $117+15=132$ omits, so at most
