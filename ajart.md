@@ -24,7 +24,7 @@ and the steps taken to arrive at a solution.
 
 The are $5040/6 = 840$ possible calling positions in a peal of Stedman Triples.
 Each of these calling positions can possibly have a bob, so a simple search
-would require examining $2^{840}=7.3*10^{252}$ possible
+would require examining $2^{840}=7.3×10^{252}$ possible
 touches. This is a huge number, far in excess of the number of atoms in the
 universe, so a direct search is out of the question.
 
@@ -51,19 +51,19 @@ omit.
 ------- Bob  ------- Bob  ------- Bob
 3241576      3241657      3241765
 ```
-If an omit is rung after 2314567, then the next row is 3241657. This means that
-a bob can not be rung after row 2314675, because otherwise the same row would be
-rung again. Therefore, if row 2314675 is rung at a six end it must be followed
-by an omit, so row 3241765 must also be rung. This means that six end 2314765
+If an omit is rung after `2314567`, then the next row is `3241657`. This means that
+a bob can not be rung after row `2314675`, because otherwise the same row would be
+rung again. Therefore, if row `2314675` is rung at a six end it must be followed
+by an omit, so row `3241765` must also be rung. This means that six end `2314765`
 can not be rung with a bob, so must be rung with an omit.
 
-If a bob is rung after 2314567, then the next row is 3241576. This means that an
-omit can not be rung after row 2314756, because otherwise the same row would be
-rung again. Therefore, if row 2314756 is rung at a six end it must be followed
-by a bob, so row 3241765 must also be rung. This means that six end 2314675 can
+If a bob is rung after `2314567`, then the next row is `3241576`. This means that an
+omit can not be rung after row `2314756`, because otherwise the same row would be
+rung again. Therefore, if row `2314756` is rung at a six end it must be followed
+by a bob, so row `3241765` must also be rung. This means that six end `2314675` can
 not be rung with an omit, so must be rung with a bob.
 
-The set of six ends 2314567, 2314675, 2314756, must therefore be rung either all
+The set of six ends `2314567`, `2314675`, `2314756`, must therefore be rung either all
 with a plain following, or all with a bob following, or at most two members of
 the set can be present. This set is an example of a Q-set, and is why bobs come
 in threes, affecting the same three bells, in compositions containing Q-sets of
@@ -178,8 +178,8 @@ an even number of blocks.
 ## Observations about Stedman Doubles
 ### Discovered by A Johnson
 
-If the front work is considered as Stedman doubles, and the changes on 23145 as
-a six end are written out, and the changes on 34125 are written out, then it can
+If the front work is considered as Stedman doubles, and the changes on `23145` as
+a six end are written out, and the changes on `34125` are written out, then it can
 be seen that the rows in sixes 5,6,7 of the first course are also in the other
 course in sixes 7,5,6.
 
@@ -217,9 +217,9 @@ Full details of sixes 5,6,7
 25413 H          35214 H
 ```
 The rows occur at handstroke in both courses or at backstroke in both courses.
-This means that all the rows in the course 21345 can be rung by ringing sixes
-1,2,3,4,8,9,10 of course 23145 and sixes 5,6,7 of course 34125. By symmetry,
-sixes 5,6,7 of course 42135 could be used instead of sixes 5,6,7 of course
+This means that all the rows in the course `21345` can be rung by ringing sixes
+1,2,3,4,8,9,10 of course `23145` and sixes 5,6,7 of course `34125`. By symmetry,
+sixes 5,6,7 of course `42135` could be used instead of sixes 5,6,7 of course
 34125.
 
 ## Implications for bobbed courses of Stedman Triples
@@ -245,22 +245,22 @@ The course end is the six end that would result if the course was allowed to run
 until just before calling position 1. The order the sixes are rung is indicated
 by the letters.
 
-This gives a block in which one course (2314567) is rung in its entirety, a
-course (2614573) in which 7 sixes are rung and a course (2714536) in which 3
+This gives a block in which one course (`2314567`) is rung in its entirety, a
+course (`2614573`) in which 7 sixes are rung and a course (`2714536`) in which 3
 sixes are rung.
 
-Having taken these three course, the gap in course 2614573 could be filled in
+Having taken these three course, the gap in course `2614573` could be filled in
 trivially by ringing sixes 5,6,7 from the same course. This is not very useful,
-because the course would have to be entered from 2314567 at calling position 5,
+because the course would have to be entered from `2314567` at calling position 5,
 which has already been rung.
 
 However, there are other ways of ringing these rows. The missing 5,6,7 sixes in
-course 2614573 could be rung by ringing sixes 5,6,7 from course 6412573 or
-course 4216573. These two courses are the course 2614573 with the bells in the
-same starting positions that bells 234 in course 2314567 transposed as 234 to
-342 or 234 to 423.
+course `2614573` could be rung by ringing sixes 5,6,7 from course `6412573` or
+course `4216573`. These two courses are the course `2614573` with the bells in the
+same starting positions that bells `234` in course `2314567` transposed as `234` to
+`342` or `234` to `423`.
 
-If course 6412573 is chosen for example, these courses can be written out:
+If course `6412573` is chosen for example, these courses can be written out:
 ```
              Calling positions
 Course end   1 2 3 4 5 6 7 8 9 0
@@ -271,7 +271,7 @@ Course end   1 2 3 4 5 6 7 8 9 0
    6412573            XXXXX-       fills in
                              course 2614573
 ```
-Now the part of course 6412573 can be generated as part of another round block.
+Now the part of course `6412573` can be generated as part of another round block.
 There is a gap in one of these generated courses, so this process can be
 repeated.
 
@@ -342,11 +342,11 @@ Where there is a choice of courses, either course can be linked into the touch
 with a set of three omits. The other course need not be included, because it
 will then be linked in as above, using omits at 8,5,8.
 
-There is then a free choice for the order of the front bells for the other $84-20
-=64$ B-blocks, to give a set which can be linked together. In fact once one
+There is then a free choice for the order of the front bells for the other $84-20=64$
+B-blocks, to give a set which can be linked together. In fact once one
 course has been chosen, its partner is fixed, so this gives a choice of $64/2=32$
 pairs of courses. There are 6 possible pairs of courses with each combination
-of back bells, which gives $6^{32}=7.9*10^{24}$ possibilities.
+of back bells, which gives $6^{32}=7.9×10^{24}$ possibilities.
 Although this is big, this is nothing like the $2^{840}$ possibilities
 considered earlier.
 
@@ -354,8 +354,8 @@ considered earlier.
 ### Work done by A Johnson
 
 There are 15+64 = 79 blocks to be linked together. Three blocks may be linked
-into one by three omits on members of a Q-set. This means that at least $(78/2)*3
-=117$ omits are required to link 79 blocks into one. There are also $3*5=15$
+into one by three omits on members of a Q-set. This means that at least $(78/2)×3=117$
+omits are required to link 79 blocks into one. There are also $3×5=15$
 omits in the 5 magic blocks. This gives at least $117+15=132$ omits, so at most
 $840-132=708$ bobs in a peal on this plan.
 
@@ -389,7 +389,7 @@ trivial variations on any possible peal. As a peal could be started in any quick
 six, this multiplies the variations by 480, and by another 2 if the peal is rung
 backwards.
 
-This gives an estimate of $2*480*2^{39}=5.3*10^{14}$
+This gives an estimate of $2×480×2^{39}=5.3×10^{14}$
 variations of any peal generated. Ringing them all would take about 10 times the
 current age of the universe, surely enough for any peal tour.
 
@@ -409,7 +409,7 @@ are all equivalent:
 ```
 2314567 3451267 4125367 1532467 5243167
 ```
-The partner of course 2314567 is course 3215467. These courses are all
+The partner of course `2314567` is course `3215467`. These courses are all
 equivalent:
 ```
 3215467 2541367 5134267 1423567 4352167
@@ -483,7 +483,7 @@ be used, since they contained an element in the substituted sixes of the magic
 block. Adding all possible omits gave seven blocks. These blocks were then
 joined by replacing four Q-sets of omits with bobs. After considerable work,
 Philip had managed to link the 15 blocks together with another 64 B-blocks to
-give a peal. The peal thus contains $3*5+22*(4*3)-2*3-4*3=261$ omits,
+give a peal. The peal thus contains $3×5+22×(4×3)-2×3-4×3=261$ omits,
 hence 579 bobs.
 
 The actual composition differs in the precise 20 courses chosen to make up the
