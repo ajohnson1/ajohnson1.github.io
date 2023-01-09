@@ -19,14 +19,7 @@
 
 # Bobs-only extents of Stedman Triples
 
-## Table of Contents
-<detail>
-<summary>
-Contents
-</summary>
-* TOC
-{:toc}
-</detail>
+Click [here](#table-of-contents) for table of contents.
 
 ## Introduction
 
@@ -2422,3 +2415,7 @@ Slack's peal is actually made of 4 blocks and does not come round if you replace
 
 These are the last of the bobs-only peals for now; I have some unpublished peals but they are not significantly different from the published ones.
 The collection is here: [CompLib 'Stedman Triples bobs-only peals'](https://complib.org/collection/11309).
+
+# Table of Contents
+* TOC
+{:toc}
