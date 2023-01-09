@@ -19,9 +19,10 @@
 
 # Bobs-only extents of Stedman Triples
 
+## Table of Contents
 <detail>
 <summary>
-## Table of Contents
+Contents
 </summary>
 * TOC
 {:toc}
