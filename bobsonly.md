@@ -14,15 +14,18 @@
 <style>
   code {
     white-space : pre-wrap !important;
-    word-break: break-word !important;
-  }
+    word-break: break-all !important;
 </style>
 
 # Bobs-only extents of Stedman Triples
 
+<detail>
+<summary>
 ## Table of Contents
+</summary>
 * TOC
 {:toc}
+</detail>
 
 ## Introduction
 
