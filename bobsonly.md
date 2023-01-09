@@ -11,6 +11,12 @@
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
 </script>
+<style>
+  code {
+    white-space : pre-wrap !important;
+    word-break: break-word !important;
+  }
+</style>
 
 # Bobs-only extents of Stedman Triples
 
