@@ -2178,11 +2178,11 @@ and 'Stedman Triples and Similar Fascinations' for the 152 peals. There is nothi
 
 ### Set @1, 7 round blocks, signature: 82:5+390
 ```
-2314567QS---P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP-*1(1)
-2453167QS---P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP-*1(1)
-2341657QS---P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP-*1(1)
-2136547QS---P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP-*1(1)
-2615437QS---P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP-*1(1)
+2314567QSPP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP--P----PP-PP-P--P-*2(1)
+3425167QSPP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP--P----PP-PP-P--P-*2(1)
+4531267QSPP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP--P----PP-PP-P--P-*2(1)
+5142367QSPP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP--P----PP-PP-P--P-*2(1)
+1253467QSPP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP--P----PP-PP-P--P-*2(1)
 ```
 Peals of 438 to 441 bobs 
 - [CompLib 28944](https://complib.org/composition/28944) 438 bobs, Cholsey version
@@ -2191,20 +2191,22 @@ Peals of 438 to 441 bobs
 - [CompLib 28947](https://complib.org/composition/28947) 441 bobs, Aston Martin version
 - [CompLib 48969](https://complib.org/composition/48969) 438 bobs, reversed
 
+These are based on a bobs-only block from group [5.04], linking in pairs, excluding sixes with 76 behind which then link as B-blocks.
+
 ### 2012 compositions
 
 ### Set @3, 5 round blocks, signature: 82:3+378
 ```
-2314567QS-----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP---P--P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP---P--P--PP--P-PPPP--PP---P-P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PP-----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP---P--P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP---P--P--PP--P-PPPP--PP---P-P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PP*1(1)
-2354176QS-----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PP-----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PP*1(1)
-6243517QS---P-P--PP--P-PPPP--PP---P-P--PP--P-PPPP--PP*1(1)
+2314567QS-----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP---P--P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP---P--P--PP--P-PPPP--PP---P-P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PP*2(1)
+2354176QS-----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PP*2(1)
+6243517QS---P-P--PP--P-PPPP--PP*2(1)
 ```
 Peals of 441 to 456 bobs
 - [CompLib 102723](https://complib.org/composition/102723) 441 bobs
 
 ### Set @2, 5 round blocks, signature: 82:3+384
 ```
-2314567QS---P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--P---PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--P---PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP-*1(1)
+2314567QS---P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--P---PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP-*2(1)
 4527613QS----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P-P---PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*1(1)
 6527431QS----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P-P---PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--PPP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*1(1)
 ```
@@ -2213,7 +2215,7 @@ Peals of 438 to 450 bobs
 
 ### Set @4, 7 round blocks, signature: 82:5+378
 ```
-2314567QS-----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP---P-P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PP-----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP---P-P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PP*1(1)
+2314567QS-----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP---P-P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PP*2(1)
 5213647QS---P-P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP---P--P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP*1(1)
 6243517QS---P-P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP---P--P--PP--P-PPPP--PP--P----PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-PPP--P--PP--P-PPPP--PP*1(1)
 1243576QS-------PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-*1(1)
@@ -2230,7 +2232,7 @@ Peals of 444 to 453 bobs
 1243576QS-------PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-*1(1)
 4213675QS-------PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-*1(1)
 1263754QS-------PP-PP-P--P-PP---PPP--P-P----PPPP--P--P----PP-P--P-PP-*1(1)
-6243517QS---P-P--PP--P-PPPP--PP---P-P--PP--P-PPPP--PP*1(1)
+6243517QS---P-P--PP--P-PPPP--PP*2(1)
 ```
 Peals of 444 to 453 bobs
 - [CompLib 37682](https://complib.org/composition/37682) 444 bobs, exact two-part
@@ -2238,7 +2240,7 @@ Peals of 444 to 453 bobs
 
 ### Set @6, 9 round blocks, signature: 82:7+372
 ```
-2314567QS---P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--P---PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P-P---PP--PPPP-P--PP--P--P---PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--P---PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P-P---PP--PPPP-P--PP--P--P---PP-P--P-PP-*1(1)
+2314567QS---P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--P---PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P-P---PP--PPPP-P--PP--P--P---PP-P--P-PP-*2(1)
 1327456QS----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*1(1)
 4327165QS----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*1(1)
 1627543QS-------PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*1(1)
