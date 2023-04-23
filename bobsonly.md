@@ -233,7 +233,7 @@ Signature of 13 B-blocks into four blocks using 21 plains, giving 75 round block
 
 ## 76 complete B-block peals
 
-I have found 5 different ways of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, where the peal can have 76 complete B-blocks extracted from the sixes.
+I have found 6 different ways of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, where the peal can have 76 complete B-blocks extracted from the sixes.
 
 ### 71 round blocks (a)
 #### Signature: 18:5+33
@@ -262,6 +262,19 @@ This set of blocks has an upper limit of 711 bobs for a peal, and such a peal ca
 
 This core block can be examined. Note how bells 2 and 3 remain together in the front 5 places.
 - [CompLib 93430](https://complib.org/composition/93430) 840 changes 116 bobs
+
+### 71 round blocks (c)
+#### Signature: 19:6+33
+````
+2314567QS---------P-----P---------PP---------P--------P---------P---P*1(1)
+3274561QS---------P--P--P---------PPPP--------PPP*1(1)
+2145637QS--------P--P--P---------P--PP-*1(1)
+2654137QS---------P------P--P*1(1)
+2541367QS--------P--P------P-*1(1)
+3547261QS--------P--P------P-*1(1)
+````
+This arranges the contents of 19 B-blocks into 6 round blocks using 33 plains, giving 71 round blocks in total. 
+It does give a peal.
 
 ### 73 round blocks
 #### Signature: 18:7+33
