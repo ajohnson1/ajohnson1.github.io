@@ -276,6 +276,30 @@ This core block can be examined. Note how bells 2 and 3 remain together in the f
 This arranges the contents of 19 B-blocks into 6 round blocks using 33 plains, giving 71 round blocks in total. 
 It does give a peal.
 
+### 71 round blocks (d)
+#### Signature: 19:6+33
+````
+2314567QS---------P-----P---------PP---------P--------P---------P---P*1(1)
+6524713QS---------P--P--P---------PP--P*1(1)
+6742513QS--------P--P--P---------P--PP-*1(1)
+2145763QS--------P--PPP--------PP----P-*1(1)
+3264517QS---------P------P--P*1(1)
+2541367QS--------P--P------P-*1(1)
+````
+Peal.
+
+### 71 round blocks (e)
+#### Signature: 19:6+33
+````
+2314567QS---------P---P---------PP--P---------P-P---------PP---------P--------P*1(1)
+4176235QS--------P--P--P---------P--PP-*1(1)
+6273541QS--------P--PPP--------PP----P-*1(1)
+6537241QS---------P------P--P*1(1)
+5647231QS---------P------P--P*1(1)
+6372145QS--------P--P------P-*1(1)
+````
+- [CompLib 109439](https://complib.org/composition/109439) 540 bobs
+
 ### 73 round blocks
 #### Signature: 18:7+33
 ```
