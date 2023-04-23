@@ -114,7 +114,7 @@ Recently I discovered some more peals, which although looking similar to magic b
 ```
 This looks similar to the magic blocks, but is different, and generates different peals. There is a peal with only 5 plains (omits) after a quick six, [CompLib 92794](https://complib.org/composition/92794), though with 2 double omits. To avoid double omits however requires at least 18 plains after a quick six. There are peals from 576 bobs ([CompLib 92793](https://complib.org/composition/92793)) to 708 bobs.
 
-These blocks are clearly different as two of the blocks have 9,3,6 bobs in a run rather than 9,6,3.
+These blocks are clearly different as two of the blocks have 9,2,6 bobs in a run rather than 9,6,2.
 #### Signature: 10:5+15
 ```
 2314567QS---------P------P--P*1(1)
