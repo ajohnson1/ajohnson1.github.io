@@ -233,7 +233,7 @@ Signature of 13 B-blocks into four blocks using 21 plains, giving 75 round block
 
 ## 76 complete B-block peals
 
-I have found 6 different ways of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, where the peal can have 76 complete B-blocks extracted from the sixes.
+I have found 11 different ways of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, where the peal can have 76 complete B-blocks extracted from the sixes.
 
 ### 71 round blocks (a)
 #### Signature: 18:5+33
@@ -266,6 +266,30 @@ This core block can be examined. Note how bells 2 and 3 remain together in the f
 ### 71 round blocks (c)
 #### Signature: 19:6+33
 ````
+2314567QS---------P--------P---------P-------P---------P-P---------PP*1(1)
+5431276QS---------P--P--P---------PP--P*1(1)
+4216573QS--------P--P---PP--------PP-P-*1(1)
+4612753QS--------P--P--P---------P--PP-*1(1)
+4561273QS---------P------P--P*1(1)
+4721653QS---------P------P--P*1(1)
+````
+No peal
+
+### 71 round blocks (d)
+#### Signature: 19:6+33
+````
+2314567QS---------P--------P---------P-------P---------P-P---------PP*1(1)
+7351426QS---------P--P--P---------PP--P*1(1)
+7641523QS---------P--P--P---------PP--P*1(1)
+4216573QS--------P--P---PP--------PP-P-*1(1)
+7415326QS--------P--P------P-*1(1)
+7514623QS--------P--P------P-*1(1)
+````
+No peal
+
+### 71 round blocks (e)
+#### Signature: 19:6+33
+````
 2314567QS---------P-----P---------PP---------P--------P---------P---P*1(1)
 3274561QS---------P--P--P---------PPPP--------PPP*1(1)
 2145637QS--------P--P--P---------P--PP-*1(1)
@@ -276,7 +300,7 @@ This core block can be examined. Note how bells 2 and 3 remain together in the f
 This arranges the contents of 19 B-blocks into 6 round blocks using 33 plains, giving 71 round blocks in total. 
 It does give a peal.
 
-### 71 round blocks (d)
+### 71 round blocks (f)
 #### Signature: 19:6+33
 ````
 2314567QS---------P-----P---------PP---------P--------P---------P---P*1(1)
@@ -288,7 +312,7 @@ It does give a peal.
 ````
 Peal.
 
-### 71 round blocks (e)
+### 71 round blocks (g)
 #### Signature: 19:6+33
 ````
 2314567QS---------P---P---------PP--P---------P-P---------PP---------P--------P*1(1)
@@ -299,6 +323,18 @@ Peal.
 6372145QS--------P--P------P-*1(1)
 ````
 - [CompLib 109439](https://complib.org/composition/109439) 540 bobs
+
+## 71 round blocks (h)
+#### Signature: 19:6+33
+````
+2314567QS---------P---P---------PP--P---------P-P---------PP---------P--------P*1(1)
+4517632QS---------P--PPP--------PPP---------PP--P*1(1)
+6372145QS--------P--P------P-*1(1)
+4176235QS--------P--P------P-*1(1)
+1375642QS--------P--P------P-*1(1)
+4671532QS--------P--P------P-*1(1)
+````
+peal
 
 ### 73 round blocks
 #### Signature: 18:7+33
