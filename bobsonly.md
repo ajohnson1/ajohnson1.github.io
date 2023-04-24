@@ -324,7 +324,7 @@ Peal.
 ````
 - [CompLib 109439](https://complib.org/composition/109439) 540 bobs
 
-## 71 round blocks (h)
+### 71 round blocks (h)
 #### Signature: 19:6+33
 ````
 2314567QS---------P---P---------PP--P---------P-P---------PP---------P--------P*1(1)
