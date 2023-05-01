@@ -218,8 +218,8 @@ I have found 5 different ways of rearranging the contents of a whole number of B
 ```
 Both have the signature of linking 13 B-blocks into two blocks using 21 plains, so giving 73 round blocks in total.
 However, I have not found a peal using either of these sets of blocks.
-### 75 round blocks
-#### Signature: 13:4+21 (a)
+### 75 round blocks (a)
+#### Signature: 13:4+21
 ```
 2314567QS---------P--------P---------P-------P--P--------P---------PP*1(1)
 2461573QS---------P------PPP--------PPP*1(1)
@@ -231,7 +231,8 @@ Signature of 13 B-blocks into four blocks using 21 plains, giving 75 round block
 - [CompLib 85387](https://complib.org/composition/85387) 579 bobs
 - [CompLib 93113](https://complib.org/composition/93113) 576 bobs
 
-#### Signature: 14:5+21 (b)
+### 75 round blocks (b)
+#### Signature: 14:5+21
 ```
 2314567QS---------P-----P---------PP---------P--------P---------P---P*1(1)
 2764513QS---------P------P--P*1(1)
@@ -243,7 +244,8 @@ Signature of 14 B-blocks into five blocks using 21 plains, giving 75 round block
 
 - [CompLib 110131](https://complib.org/composition/110131) 552 bobs
 
-#### Signature: 14:5+21 (c)
+### 75 round blocks (c)
+#### Signature: 14:5+21
 ```
 2314567QS---------P-----P---------PP---------P--------P---------P---P*1(1)
 2674531QS---------P------P--P*1(1)
