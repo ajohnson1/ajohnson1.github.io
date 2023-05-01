@@ -253,7 +253,7 @@ Signature of 14 B-blocks into five blocks using 21 plains, giving 75 round block
 ```
 Signature of 14 B-blocks into five blocks using 21 plains, giving 75 round blocks in total.
 
-- [CompLib 110132(https://complib.org/composition/110132 582 bobs
+- [CompLib 110132](https://complib.org/composition/110132) 582 bobs
 
 ## 76 complete B-block peals
 
