@@ -203,7 +203,7 @@ This peal has 30 fewer bobs than any magic block peal.
 
 ## 77 complete B-block peals
 
-I have found 3 different ways of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, subject to the 77 complete B-block restriction.
+I have found 5 different ways of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, subject to the 77 complete B-block restriction.
 ### 73 round blocks (a)
 #### Signature: 13:2+21
 ```
@@ -219,7 +219,7 @@ I have found 3 different ways of rearranging the contents of a whole number of B
 Both have the signature of linking 13 B-blocks into two blocks using 21 plains, so giving 73 round blocks in total.
 However, I have not found a peal using either of these sets of blocks.
 ### 75 round blocks
-#### Signature: 13:4+21
+#### Signature: 13:4+21 (a)
 ```
 2314567QS---------P--------P---------P-------P--P--------P---------PP*1(1)
 2461573QS---------P------PPP--------PPP*1(1)
@@ -230,6 +230,30 @@ Signature of 13 B-blocks into four blocks using 21 plains, giving 75 round block
 
 - [CompLib 85387](https://complib.org/composition/85387) 579 bobs
 - [CompLib 93113](https://complib.org/composition/93113) 576 bobs
+
+#### Signature: 14:5+21 (b)
+```
+2314567QS---------P-----P---------PP---------P--------P---------P---P*1(1)
+2764513QS---------P------P--P*1(1)
+5246317QS--------P--P------P-*1(1)
+5241763QS--------P--P------P-*1(1)
+1465327QS-------PP--------PP-*1(1)
+```
+Signature of 14 B-blocks into five blocks using 21 plains, giving 75 round blocks in total.
+
+- [CompLib 110131](https://complib.org/composition/110131) 552 bobs
+
+#### Signature: 14:5+21 (c)
+```
+2314567QS---------P-----P---------PP---------P--------P---------P---P*1(1)
+2674531QS---------P------P--P*1(1)
+5241637QS--------P--P------P-*1(1)
+5247361QS--------P--P------P-*1(1)
+3146527QS--------PP--------PP*1(1) 
+```
+Signature of 14 B-blocks into five blocks using 21 plains, giving 75 round blocks in total.
+
+- [CompLib 110132(https://complib.org/composition/110132 582 bobs
 
 ## 76 complete B-block peals
 
