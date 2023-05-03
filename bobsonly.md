@@ -2396,7 +2396,7 @@ There is no bobs-only exact 7-part. There are multiple sets of blocks with a 7-p
 ```
 - [CompLib 48932](https://complib.org/composition/48932) 560 bobs, 56 singles
 
-#### 35 round blocks, 49 complete B-blocks, signature 63:14+105
+#### 35 round blocks, 49 complete B-blocks, signature 56:7+105
 ```
 1234567QS--P--P--------P---------PP-------PP-P---------P--P---PPP--------P---------P-----*1(7)
 4267351SQ----------*1(7)
