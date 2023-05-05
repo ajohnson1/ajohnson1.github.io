@@ -200,6 +200,8 @@ I think this peal would not feel like a Thurstans twin-bob peal as there are so 
 - [CompLib 82690](https://complib.org/composition/82690) 582 bobs
 - [CompLib 93059](https://complib.org/composition/93059) 546 bobs
 This peal has 30 fewer bobs than any magic block peal.
+- [CompLib 110519](https://complib.org/composition/110519) 543 bobs
+This peal has 33 fewer bobs than any magic block peal.
 
 ## 77 complete B-block peals
 
