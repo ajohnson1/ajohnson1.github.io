@@ -125,6 +125,7 @@ These blocks are clearly different as two of the blocks have 9,2,6 bobs in a run
 ```
 There is a peal, [CompLib 91638](https://complib.org/composition/91638) which has only 7 omits after a quick six, the minimum using these blocks, and isolated omits. A similar peal with 7 omits after a slow six is [CompLib 84678](https://complib.org/composition/84678) There is also another peal, [CompLib 90948](https://complib.org/composition/90948) with a maximum of 6 bobs in a run, no 5-bob sets, and only 3 3-bob sets and 36 single bobs, so most of the time the alternation between quick and slow work is maintained.
 #### Signature: 10:5+15
+
 ```
 2314567QS---------P------P--P*1(1)
 2743516QS---------P------P--P*1(1)
@@ -539,6 +540,7 @@ I have found 40 sets of blocks so far, where the sixes from each set (and the re
 2541367QS--------P-------P---------P-P---------P-------P---------P-P-*1(1)
 2456317QS-------P-P-------P-P*1(1)
 ```
+This set of blocks includes the [12:1+21 block](#73-round-blocks) block from 78 complete B-blocks, so the other two blocks link 8 B-blocks into 2 B-blocks.
 - [CompLib 85818](https://complib.org/composition/85818) 570 bobs, 8 plains in a run
 - [CompLib 82340](https://complib.org/composition/82340) 543 bobs
 - [CompLib 85271](https://complib.org/composition/85271) 531 bobs
@@ -549,6 +551,7 @@ I have found 40 sets of blocks so far, where the sixes from each set (and the re
 2547316QS---------P--------P---------PP---------P--------P---------PP*1(1)
 3271546QS--------PP--------PP*1(1)
 ```
+This set of blocks includes the [12:1+21 block](#73-round-blocks) block from 78 complete B-blocks, so the other two blocks link 8 B-blocks into 2 B-blocks.
 - [CompLib 94761](https://complib.org/composition/94761) 582 bobs
 
 ### 67 round blocks, signature: 22:5+45
