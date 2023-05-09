@@ -1015,7 +1015,19 @@ The last peal has 102 Q-sets, but 10 must remain bobbed for the peal to be linke
 So far I have 93 sets of blocks made of 72 complete B-blocks and many of them, though not all, give peals. Each sets of blocks has a total of between 67 and 73 round blocks, including B-blocks, to cover the extent.
 Here are just a few.
 
-### 67 round blocks, signature: 24:7+45
+### 67 round blocks, signature: 24:7+45 (a)
+```
+2314567QS---------P--------PP---------P------P-PP---------P-P---------P-------P*1(1)
+1374562QS---------P--P--PP--P------P--------PP--P*1(1)
+2547316QS--------P--PP--------P------P--PP--P--P-*1(1)
+1547362QS--------P--P---PP--------PP-P-*1(1)
+3756142QS---------P------P--P*1(1)
+3265714QS--------P--P------P-*1(1)
+3165742QS--------P--P------P-*1(1)
+```
+- [CompLib 110645](https://complib.org/composition/110645) 567 bobs
+
+### 67 round blocks, signature: 24:7+45 (b)
 ```
 2314567QS---------P--------PP---------P------P-PP---------P-P---------P-------P*1(1)
 3756142QS---------PP--P--P--P------P------P--P--P*1(1)
@@ -1025,7 +1037,7 @@ Here are just a few.
 2547316QS--------P--P------P-*1(1)
 3165742QS--------P--P------P-*1(1)
 ```
-- [CompLib 897-1](https://complib.org/composition/89701) 570 bobs
+- [CompLib 89701](https://complib.org/composition/89701) 570 bobs
 
 ### 67 round blocks, signature: 22:5+39
 ```
