@@ -234,6 +234,17 @@ Signature of 13 B-blocks into four blocks using 21 plains, giving 75 round block
 - [CompLib 85387](https://complib.org/composition/85387) 579 bobs
 - [CompLib 93113](https://complib.org/composition/93113) 576 bobs
 
+### 75 round blocks
+#### Signature: 14:5+21
+```
+2314567QS---------P--------P---------PP---------P--------P---------PP*1(1)
+4721536QS---------P------P--P*1(1)
+4361572QS---------P------P--P*1(1)
+5416732QS--------P--P------P-*1(1)
+5172346QS-------P---P-----PP-*1(1)
+```
+No peal
+
 ### 75 round blocks (b)
 #### Signature: 14:5+21
 ```
@@ -259,6 +270,17 @@ Signature of 14 B-blocks into five blocks using 21 plains, giving 75 round block
 Signature of 14 B-blocks into five blocks using 21 plains, giving 75 round blocks in total.
 
 - [CompLib 110132](https://complib.org/composition/110132) 582 bobs
+
+### 75 round blocks
+#### Signature: 14:5+21
+```
+2314567QS---------PP---------P--------P---------PP---------P--------P*1(1)
+7356124QS---------P------P--P*1(1)
+7426153QS---------P------P--P*1(1)
+1765423QS--------P--P------P-*1(1)
+1652374QS-------P---P-----PP-*1(1) 
+```
+No peal
 
 ## 76 complete B-block peals
 
