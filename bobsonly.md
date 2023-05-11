@@ -103,7 +103,7 @@ When comparing peals other statistics can determine their merit:
 ## Other 79 complete B-block peals 
 
 ### 79 round blocks
-Recently I discovered some more peals, which although looking similar to magic block peals are in fact different. Some are based on these blocks
+Recently I discovered some more peals, which although looking similar to magic block peals are in fact different. Some are based on these 3 sets of blocks, giving [4 sets of blocks](oddblocks/oddblocks_79.txt) with 79 complete B-blocks.
 #### Signature: 10:5+15
 ```
 2314567QS---------P------P--P*1(1)
@@ -137,7 +137,7 @@ This gives another peal, [CompLib 92964](https://complib.org/composition/92964) 
 
 ## 78 complete B-block peals 
 
-There are some more peals based on combining all the rows of several B-blocks into larger round blocks. If all the sixes were separated then for these peals it would be possible to arrange them into 78 whole B-blocks with some sixes left over, so in the peal all the pieces of all 78 B-blocks are present and complete. This is for the convenience of classifying the peals as the choice of which pair of B-blocks with the same bells behind does not affect this statistic, neither does adding or removing 3 bobs in a Q-set [where the same 3 bells are affected by the call and the other bells are in the same position at each call].
+There are some more peals based on combining all the rows of several B-blocks into larger round blocks. If all the sixes were separated then for these peals it would be possible to arrange them into 78 whole B-blocks with some sixes left over, so in the peal all the pieces of all 78 B-blocks are present and complete. This is for the convenience of classifying the peals as the choice of which pair of B-blocks with the same bells behind does not affect this statistic, neither does adding or removing 3 bobs in a Q-set [where the same 3 bells are affected by the call and the other bells are in the same position at each call]. Here are the [4 sets of blocks](oddblocks/oddblocks_78.txt).
 
 ### 73 round blocks
 Here is the first block.
@@ -206,7 +206,7 @@ This peal has 33 fewer bobs than any magic block peal.
 
 ## 77 complete B-block peals
 
-I have found 5 different ways of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, subject to the 77 complete B-block restriction.
+I have found [5 different ways](oddblocks/oddblocks_77.txt) of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, subject to the 77 complete B-block restriction.
 ### 73 round blocks (a)
 #### Signature: 13:2+21
 ```
