@@ -284,7 +284,7 @@ No peal
 
 ## 76 complete B-block peals
 
-I have found 11 different ways of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, where the peal can have 76 complete B-blocks extracted from the sixes.
+I have found [24 different ways](oddblocks/oddblocks_76.txt) of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, where the peal can have 76 complete B-blocks extracted from the sixes.
 
 ### 71 round blocks (a)
 #### Signature: 18:5+33
