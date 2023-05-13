@@ -1043,7 +1043,7 @@ The last peal has 102 Q-sets, but 10 must remain bobbed for the peal to be linke
 
 ## 72 complete B-block peals
 
-So far I have 93 sets of blocks made of 72 complete B-blocks and many of them, though not all, give peals. Each sets of blocks has a total of between 67 and 73 round blocks, including B-blocks, to cover the extent.
+So far I have [100 sets of blocks](oddblocks/oddblocks_72.txt) made of 72 complete B-blocks and many of them, though not all, give peals. Each sets of blocks has a total of between 67 and 73 round blocks, including B-blocks, to cover the extent.
 Here are just a few.
 
 ### 67 round blocks, signature: 24:7+45 (a)
