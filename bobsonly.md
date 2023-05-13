@@ -958,7 +958,7 @@ no peal
 
 ## 73 complete B-block peals
 
-All the sets of blocks here give peals, but I have just shown some peals as an illustration.
+All the [sets of blocks](oddblocks/oddblocks_73.txt) here give peals, but I have just shown some peals as an illustration.
 
 ### 67 round blocks
 #### Signature: 21:4+33
