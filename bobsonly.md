@@ -1123,7 +1123,7 @@ Here are just a few.
 
 ## 71 complete B-block peals
 
-I have found 14 sets of blocks which together with their remaining B-blocks have an odd number of round blocks and can have the sixes rearranged to give 71 complete B-blocks.
+I have found [189 sets of blocks](oddblocks/oddblocks_71.txt) which together with their remaining B-blocks have an odd number of round blocks and can have the sixes rearranged to give 71 complete B-blocks.
 
 ### 63 round blocks, signature: 25:4+42
 ```
@@ -1263,6 +1263,18 @@ No peal
 1274365QS--------PP--------PP*1(1)
 ```
 No peal
+
+```
+2314567QS---------P-----PP---------P--------P---------PP--------P---------P---P*1(1)
+1576234QS---------PPP--------PP----P--P*1(1)
+1576342QS--------PP---P------P--P----PP*1(1)
+1567243QS---------P------P--P*1(1)
+2541367QS--------P--P------P-*1(1)
+2531476QS--------P--P------P-*1(1)
+1267534QS--------P--P------P-*1(1)
+1276543QS--------P--P------P-*1(1)
+```
+- [CompLib 110878](https://complib.org/composition/110878) 546 bobs
 
 ## 70 complete B-block peals
 
