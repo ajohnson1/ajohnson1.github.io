@@ -302,9 +302,14 @@ This arranges the contents of 18 B-blocks into 5 round blocks using 33 plains, g
 ### 71 round blocks (b)
 #### Signature: 14:1+24
 ```
+2314567QS---------P--------P---------P-PP-------PPP------P-P---------P--------P--------P---------PPP-------P---------P-PP-------P--------P---------PP*1(1)
+```
+This arranges the contents of 14 B-blocks into 1 round block using 24 plains, giving 71 round blocks in total.
+No peal.
+```
 2314567QS---------P--------P-P--------P---------PP-------PP---------P-P-------P---------PPP---------P------PP--------PPP--------P---------P-P-------P*1(1)
 ```
-This arranges the contents of 14 B-blocks into 1 round blocks using 24 plains, giving 71 round blocks in total.
+This arranges the contents of 14 B-blocks into 1 round block using 24 plains, giving 71 round blocks in total.
 This set of blocks has an upper limit of 711 bobs for a peal, and such a peal can be found.
 71 blocks to be linked by 35 Q-sets, adding another 105 plains, so giving 129 plains in total.
 - [CompLib 93425](https://complib.org/composition/93425) 564 bobs
