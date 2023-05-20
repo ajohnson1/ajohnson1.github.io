@@ -31,14 +31,16 @@ which have different sixes (even after rotation) - i.e. they are not
 the same after adding/removing Q sets of bobs.
 
 ## Number of parts of each type in peal
-Set|Peals|BCDELM|BsCsDsEsLsMs|FGHJK|FsGsHsJsKs
----|---|---|---|---|---
-@1|      4|     10|            0|     0|          0 
-@2|     51|      6|            2|     2|          0
-@3|     48|      2|            4|     4|          0
-@4|     21|      4|            2|     2|          2
-@5|     15|      2|            2|     2|          4
-@6|     13|      0|            4|     4|          2
+ 
+|Set|Peals|BCDELM|BsCsDsEsLsMs|FGHJK|FsGsHsJsKs|
+|---|--:|--:|--:|--:|--:|
+|@1|      4|     10|            0|     0|          0|
+|@2|     51|      6|            2|     2|          0|
+|@3|     48|      2|            4|     4|          0|
+|@4|     21|      4|            2|     2|          2|
+|@5|     15|      2|            2|     2|          4|
+|@6|     13|      0|            4|     4|          2|
+
  
 ## The component blocks
 ```
