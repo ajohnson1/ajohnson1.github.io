@@ -1283,7 +1283,7 @@ No peal
 
 ## 70 complete B-block peals
 
-I have found over [2330 sets](oddblocks/oddblocks_70.txt) of an odd number of blocks where the sixes can be rearranged to give 70 complete B-blocks. Some of these can generate peals, and some examples are below.
+I have found over [2328 sets](oddblocks/oddblocks_70.txt) of an odd number of blocks where the sixes can be rearranged to give 70 complete B-blocks. Some of these can generate peals, and some examples are below.
 
 ### 63 round blocks, signature: 28:7+45
 ```
