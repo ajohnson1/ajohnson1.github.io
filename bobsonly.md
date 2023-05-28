@@ -2440,7 +2440,7 @@ The number of bobs now ranges from 438 to 456 (existing 10-part peals) and 528 t
 
 The 528 bob peal [CompLib 86761](https://complib.org/composition/86761) had 4 Q-sets which could not be plained without splitting it back into multiple blocks, and there was another peal [CompLib 92761](https://complib.org/composition/92761) where if all the Q-sets were plained there would be 501 bobs (but multiple blocks), so perhaps a one-part peal using B-blocks can be found with less than 528 bobs but I'm guessing to achieve 500 bobs would be hard.
 
-This graph shows the minimum number of bobs found so far in a peal and a possible maximum number of bobs against the number of complete B-blocks. ![Bobs-only peals of bobs vs complete B-blocks](bobsvbblocks.png)
+This graph shows the minimum number of bobs found so far in a peal and a possible maximum number of bobs against the number of complete B-blocks. ![Bobs-only peals of bobs vs complete B-blocks](bobsvbblocks2.png)
 
 I found several peals with 8 plains in a row but they can't be arranged to put all at the start or all at the end of a peal with a normal start; it needs to start or end with a bob, so at best with my peals you can end with 8 plains and a bob, or 7 plains. Perhaps this can be improved on.
 
