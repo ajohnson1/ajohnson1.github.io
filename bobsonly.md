@@ -1358,7 +1358,7 @@ I have found over [2328 sets](oddblocks/oddblocks_70.txt) of an odd number of bl
 
 ## 69 complete B-block peals
 
-I have found over 600 sets of round B-blocks which together with some B-blocks give an odd number of round blocks where the sixes can be rearranged to give 69 complete B-blocks. Some of the sets of blocks are given below together with some peals.
+I have found over [600 sets of round blocks](oddblocks/oddblocks_69.txt) which together with some B-blocks give an odd number of round blocks where the sixes can be rearranged to give 69 complete B-blocks. Some of the sets of blocks are given below together with some peals.
 
 ### 57 round blocks (a), signature: 29:2+45
 ```
