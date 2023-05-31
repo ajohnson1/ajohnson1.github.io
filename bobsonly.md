@@ -1097,7 +1097,7 @@ Here are just a few.
 ```
 - [CompLib 82415](https://complib.org/composition/82415) 603 bobs
 
-### 69 round blocks, signature: 23:8+39
+### 69 round blocks, signature: 23:8+39 (a)
 ```
 2314567QS---------P-------P---------P--P---------P--P--P--P-------P-P------P---------PP-P*1(1)
 4213675QS---------P--P--P---------PP--P*1(1)
@@ -1110,6 +1110,7 @@ Here are just a few.
 ```
 - [CompLib 94922](https://complib.org/composition/94922) 570 bobs
 
+### 69 round blocks, signature: 23:8+39 (b)
 ```
 2314567QS---------P---P---------P--P--PP---------P--------P*1(1)
 3217564QS---------PP---------P--------P---------PP--P-----P*1(1)
@@ -1120,7 +1121,7 @@ Here are just a few.
 1653247QS-------PP--------PP-*1(1)
 2743165QS-------PP--------PP-*1(1)
 ```
-- [CompLib 111654](https://complib.org/composition/111654) 570 bobs
+- [CompLib 111654](https://complib.org/composition/111654) 564 bobs
 
 ### 71 round blocks, signature: 24:11+39
 ```
