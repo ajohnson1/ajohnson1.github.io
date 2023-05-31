@@ -1108,7 +1108,19 @@ Here are just a few.
 2571463QS--------P--P------P-*1(1)
 2164537QS------P-P-------P-P-*1(1)
 ```
-- [CompLib](https://complib.org/composition/94922) 570 bobs
+- [CompLib 94922](https://complib.org/composition/94922) 570 bobs
+
+```
+2314567QS---------P---P---------P--P--PP---------P--------P*1(1)
+3217564QS---------PP---------P--------P---------PP--P-----P*1(1)
+6372145QS--------P--P--P---------P--PP-*1(1)
+2547163QS---------P------P--P*1(1)
+5267143QS---------P------P--P*1(1)
+2174563QS--------P--P------P-*1(1)
+1653247QS-------PP--------PP-*1(1)
+2743165QS-------PP--------PP-*1(1)
+```
+- [CompLib 111654](https://complib.org/composition/111654) 570 bobs
 
 ### 71 round blocks, signature: 24:11+39
 ```
