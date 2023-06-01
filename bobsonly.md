@@ -1134,7 +1134,7 @@ Here are just a few.
 2517643QS--------P--P------P-*1(1)
 2546371QS--------P--P------P-*1(1)
 ```
-- [CompLib 111704](https://complib.org/composition/111704) 561 bobs
+- [CompLib 111704](https://complib.org/composition/111704) 558 bobs
 
 ### 71 round blocks, signature: 24:11+39
 ```
