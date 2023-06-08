@@ -2219,8 +2219,8 @@ I have found 14 sets of round B-blocks which together with some B-blocks exactly
 
 ### 35 round blocks, signature: 54:5+96
 ```
-2314567QS---------P----P----P------P-P----P----P---P---------P----P----P--P-------P----P----P-----P---------P----P----P------P-P----P----P---P---------P----P----P--P-------P----P----P-----P---------P----P----P------P-P----P----P---P---------P----P----P--P-------P----P----P-----P*1(1)
-2654137QS---------P----P---P---P---------P--P-P----P---------P----P-----PP----P---------P----P---P---P---------P--P-P----P---------P----P-----PP----P---------P----P---P---P---------P--P-P----P---------P----P-----PP----P*1(1)
+2314567QS---------P----P----P------P-P----P----P---P---------P----P----P--P-------P----P----P-----P*3(1)
+2654137QS---------P----P---P---P---------P--P-P----P---------P----P-----PP----P*3(1)
 2356147QS---------P------P--P*1(1)
 7246513QS---------P------P--P*1(1)
 3716452QS---------P------P--P*1(1)
@@ -2260,7 +2260,7 @@ I have found 2 sets of round B-blocks which together with some B-blocks exactly 
 - [CompLib 97816](https://complib.org/composition/97816) 621 bobs, exact three-part
 - [CompLib 91986](https://complib.org/composition/91986) 630 bobs, exact three-part
 - [CompLib 91898](https://complib.org/composition/91898) 657 bobs, exact three-part
-These exact three-part peals range from 612 to 659 bobs, compared to 636 to 690 for the 48 complete B-block exact three-parts shown earlier, or 603 to 639 for the exact three-part peals published in 2017.
+These exact three-part peals range from 612 to 657 bobs, compared to 636 to 690 for the 48 complete B-block exact three-parts shown earlier, or 603 to 639 for the exact three-part peals published in 2017.
 
 ### 35 round blocks, signature: 54:5+111
 ```
