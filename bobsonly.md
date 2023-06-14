@@ -1469,7 +1469,7 @@ The peals are also here: - [CompLib 69 Stedman Triples bobs-only peals: Complete
 
 ## 68 complete B-block peals
 
-This shows how to arrange the extent so that there are an odd number of round blocks and that the sixes can be rearranged into 68 complete B-blocks. I have found roughly 800 sets of round blocks, and here are a few peals from three of those sets.
+This shows how to arrange the extent so that there are an odd number of round blocks and that the sixes can be rearranged into 68 complete B-blocks. I have found roughly [800 sets of round blocks](oddblocks/oddblocks_68.txt), and here are a few peals from three of those sets.
 
 ### 55 round blocks, signature: 32:3+57
 ```
@@ -1511,7 +1511,7 @@ This shows how to arrange the extent so that there are an odd number of round bl
 
 ## 67 complete B-block peals
 
-I have found over 250 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [61 to 71] of round blocks where the sixes can be rearranged to give 67 complete B-blocks. Some of the sets of blocks are given below together with some peals.
+I have found over [250 sets of round B-blocks](oddblocks/oddblocks_67.txt) which together with some B-blocks exactly cover the extent in an odd number [61 to 71] of round blocks where the sixes can be rearranged to give 67 complete B-blocks. Some of the sets of blocks are given below together with some peals.
 
 ### 63 round blocks, signature: 30:9+51
 ```
@@ -1545,7 +1545,7 @@ I have found over 250 sets of round B-blocks which together with some B-blocks e
 
 ## 66 complete B-block peals
 
-I have found over 500 sets of round B-blocks which together with some B-blocks exactly cover the extent in an odd number [47 to 71] of round blocks where the sixes can be rearranged to give 66 complete B-blocks. Some of the sets of blocks are given below together with some peals.
+I have found over [84 sets of round B-blocks](oddblocks/oddblocks_66.txt] which together with some B-blocks exactly cover the extent in an odd number [47 to 71] of round blocks where the sixes can be rearranged to give 66 complete B-blocks. Some of the sets of blocks are given below together with some peals.
 
 ### 47 round blocks, signature: 39:2+63
 ```
