@@ -15,4 +15,4 @@ These are links about composing Stedman Triples and Erin Triples.
 - [Stedman and Erin Triples encoded as a SAT Problem](https://easychair.org/publications/preprint/pp38) A paper explaining a conversion of the bob-only Stedman Triples problem into a standard boolean satisfiability problem
 - [A Collection of Compositions of Stedman Triples and Erin Triples](https://www.ringing.info/stedman.pdf) A collection of interesting peals of Stedman Triples and Erin Triples, published in 1999 so includes the first magic-block bobs-only peals of Stedman Triples from 1995
 - [Peals of Stedman Triples with bobs only](ajart.md) Article about the composition of the first bobs-only peal to be rung
-- [More Bobs-only 10-part peals of Stedman Triples](more10parts.md)
+- [More Bobs-only 10-part peals of Stedman Triples](more10parts.md) The additional 10-part peals found in 2012
