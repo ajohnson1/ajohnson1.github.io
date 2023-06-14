@@ -1505,7 +1505,8 @@ This shows how to arrange the extent so that there are an odd number of round bl
 5617243QS---------P------P--P*1(1)
 7514236QS--------PP--------PP*1(1)
 5234761QS--------PP-P-------P*1(1)
-5263741QS--------PP-P-------P*1(1)5132764QS-------PP--------PP-*1(1)
+5263741QS--------PP-P-------P*1(1)
+5132764QS-------PP--------PP-*1(1)
 ```
 - [CompLib 90280](https://complib.org/composition/90280) 546 bobs
 
@@ -1545,7 +1546,7 @@ I have found over [250 sets of round B-blocks](oddblocks/oddblocks_67.txt) which
 
 ## 66 complete B-block peals
 
-I have found over [84 sets of round B-blocks](oddblocks/oddblocks_66.txt] which together with some B-blocks exactly cover the extent in an odd number [47 to 71] of round blocks where the sixes can be rearranged to give 66 complete B-blocks. Some of the sets of blocks are given below together with some peals.
+I have found over [84 sets of round B-blocks](oddblocks/oddblocks_66.txt) which together with some B-blocks exactly cover the extent in an odd number [47 to 71] of round blocks where the sixes can be rearranged to give 66 complete B-blocks. Some of the sets of blocks are given below together with some peals.
 
 ### 47 round blocks, signature: 39:2+63
 ```
@@ -2208,8 +2209,8 @@ I have found 13 sets of round B-blocks which together with some B-blocks exactly
 5412637QS--------PP--------PP*1(1)
 3546217QS--------PP--------PP*1(1)
 6512743QS-------P---P-----PP-*1(1)
-6142537QS-------P-P-------P-P*1(1)
-2456317QS-------P-P-------P-P*1(1)
+6142537QS-------P-P-------P-P*1(1))
+2456317QS-------P-P-------P-P*1(1))
 ```
 - [CompLib 78017](https://complib.org/composition/78017) 603 bobs
 
