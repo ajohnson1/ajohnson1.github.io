@@ -1616,7 +1616,7 @@ With all these three-part peals then by choosing an appropriate rotation/reversa
 
 ## 65 complete B-block peals
 
-I have found [25 sets of round blocks](oddblocks_65.txt) which together with some B-blocks exactly cover the extent in an odd number [53 to 63] of round blocks where the sixes can be rearranged to give 65 complete B-blocks. I have found two of the sets of blocks give some peals.
+I have found [25 sets of round blocks](oddblocks/oddblocks_65.txt) which together with some B-blocks exactly cover the extent in an odd number [53 to 63] of round blocks where the sixes can be rearranged to give 65 complete B-blocks. I have found two of the sets of blocks give some peals.
 
 ### 53 round blocks, signature: 35:4+57
 ```
@@ -1648,7 +1648,7 @@ I have found [25 sets of round blocks](oddblocks_65.txt) which together with som
 
 ## 64 complete B-block peals
 
-I have found 46 sets of round blocks which together with some B-blocks exactly cover the extent in an odd number [51 to 69] of round blocks where the sixes can be rearranged to give 64 complete B-blocks. Here are some of the blocks and some peals.
+I have found [48 sets of round blocks](oddblocks/oddblocks_64.txt) which together with some B-blocks exactly cover the extent in an odd number [51 to 69] of round blocks where the sixes can be rearranged to give 64 complete B-blocks. Here are some of the blocks and some peals.
 
 ### 51 round blocks, signature: 38:5+69
 ```
