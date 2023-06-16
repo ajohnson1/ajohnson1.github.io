@@ -1681,6 +1681,7 @@ I have found [48 sets of round blocks](oddblocks/oddblocks_64.txt) which togethe
 5364217QS------P-P-------P-P-*1(1)
 ```
 - [CompLib 96536](https://complib.org/composition/96536) 561 bobs
+- [CompLib 112212](https://complib.org/composition/112212) 549 bobs
 
 ### 63 round blocks, signature: 28:7+54
 ```
@@ -1696,7 +1697,7 @@ I have found [48 sets of round blocks](oddblocks/oddblocks_64.txt) which togethe
 
 ## 63 complete B-block peals
 
-I have found 16 sets of round blocks which together with some B-blocks exactly cover the extent in an odd number [47 to 63] of round blocks where the sixes can be rearranged to give 63 complete B-blocks. Here are two of the sets of blocks which give some peals. These two sets of blocks happen to come from a three-part group.
+I have found [16 sets of round blocks](oddblocks/oddblocks_63.txt) which together with some B-blocks exactly cover the extent in an odd number [47 to 63] of round blocks where the sixes can be rearranged to give 63 complete B-blocks. Here are two of the sets of blocks which give some peals. These two sets of blocks happen to come from a three-part group.
 
 ### 47 round blocks, signature: 39:2+63
 ```
