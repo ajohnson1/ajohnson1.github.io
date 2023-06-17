@@ -1861,6 +1861,18 @@ I have found 167 sets of round blocks which together with some B-blocks exactly 
 ```
 - [CompLib 85496](https://complib.org/composition/85496) 576 bobs, 8 plains in a row
 
+```
+2314567QS---------P-----P---------P-----P---------P----P---------P---P---------P----P---------P-----P----P--P------P----P----P---------P---P---------P----P---------P-----P---------P----P---------P---P-P--P------P------P---------PP---------P--------P*1(1)
+1742365QS-------PP--P-----P----P---P----P-----P----P---P----P-----P----P---PPP-*1(1)
+1632475QS--------P--P------P-*1(1)
+6134275QS--------P--P------P-*1(1)
+1674523QS--------P--P------P-*1(1)
+6175423QS--------P--P------P-*1(1)
+1654732QS--------P--P------P-*1(1)
+6157432QS--------P--P------P-*1(1)
+```
+- [CompLib 112281](https://complib.org/composition/112281) 570 bobs
+
 ## 60 complete B-block peals
 
 I have found 3 sets of round blocks which together with some B-blocks exactly cover the extent in an odd number [47 to 59] of round blocks where the sixes can be rearranged to give 60 complete B-blocks. Here are the sets of blocks together with a peal. 
