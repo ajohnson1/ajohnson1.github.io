@@ -1820,7 +1820,7 @@ I have found [25 sets of round blocks](oddblocks/oddblocks_62.txt) which togethe
 
 ## 61 complete B-block peals
 
-I have found 167 sets of round blocks which together with some B-blocks exactly cover the extent in an odd number [43 to 57] of round blocks where the sixes can be rearranged to give 61 complete B-blocks. Here are 4 of the sets of blocks together with some peals. 
+I have found [173 sets of round blocks](oddblocks/oddblocks_61.txt) which together with some B-blocks exactly cover the extent in an odd number [43 to 57] of round blocks where the sixes can be rearranged to give 61 complete B-blocks. Here are 4 of the sets of blocks together with some peals. 
 
 ### 43 round blocks, signature: 45:4+72
 ```
