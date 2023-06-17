@@ -1798,7 +1798,7 @@ I have found [25 sets of round blocks](oddblocks/oddblocks_62.txt) which togethe
 3567214QS----P-PP-P*1(1)
 ```
 - [CompLib 112214](https://complib.org/composition/112214) 582 bobs
-- [CompLib 112214](https://complib.org/composition/112244) 570 bobs
+- [CompLib 112244](https://complib.org/composition/112244) 570 bobs
 
 ### 69 round blocks, signature: 28:13+57
 ```
