@@ -2305,7 +2305,18 @@ I have found [2 sets of round blocks](oddblocks/oddblocks_42.txt) which together
 - [CompLib 97816](https://complib.org/composition/97816) 621 bobs, exact three-part
 - [CompLib 91986](https://complib.org/composition/91986) 630 bobs, exact three-part
 - [CompLib 91898](https://complib.org/composition/91898) 657 bobs, exact three-part
-These exact three-part peals range from 612 to 657 bobs, compared to 636 to 690 for the 48 complete B-block exact three-parts shown earlier, or 603 to 639 for the exact three-part peals published in 2017.
+These exact three-part peals range from 612 to 666 bobs, compared to 636 to 690 for the 48 complete B-block exact three-parts shown earlier, or 603 to 639 for the exact three-part peals published in 2017.
+
+|Number of bobs|Number of peals|
+|----|----|
+|612|1|
+|621|9|
+|630|34|
+|639|70|
+|648|84|
+|657|56|
+|666|16|
+|Total|270|
 
 ### 35 round blocks, signature: 54:5+111
 ```
