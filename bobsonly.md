@@ -2375,6 +2375,17 @@ There sets of blocks are based on a group of order 3. The blocks have not been n
 - [CompLib 37426](https://complib.org/composition/37426) Exact three-part Op. 136, 603 bobs
 - [CompLib 37429](https://complib.org/composition/37429) Exact three-part Op. 541, 603 bobs
 
+A summary of all those exact three-parts with 36 complete B-blocks:
+
+|Number of bobs|Number of peals|
+|----|----|
+|603|12|
+|612|96|
+|621|288|
+|630|384|
+|639|192|
+|Total|972|
+
 These are some irregular blocks, but based on the blocks above.
 
 ### 25 round blocks, signature: 60:1+159
