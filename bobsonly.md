@@ -2274,6 +2274,17 @@ By bobbing Q-sets the number of bobs can be increased up to 690 bobs.
 - [CompLib 97568](https://complib.org/composition/97568) 645 bobs
 - [CompLib 88618](https://complib.org/composition/88618) 690 bobs - one of 32 examples
 
+|Number of bobs|Number of peals|
+!----!----!
+|636|8|
+|645|72|
+|654|263|
+|663|493|
+|672|488|
+|681|228|
+|690|32|
+|Total|1584|
+
 The 2017 exact three-part peals have between 603 and 639 bobs and all have at least one 9 bob run per part; these have between 636 and 690 bobs.
 
 Also
