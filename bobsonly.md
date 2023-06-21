@@ -2275,7 +2275,7 @@ By bobbing Q-sets the number of bobs can be increased up to 690 bobs.
 - [CompLib 88618](https://complib.org/composition/88618) 690 bobs - one of 32 examples
 
 |Number of bobs|Number of peals|
-!----!----!
+|----|----|
 |636|8|
 |645|72|
 |654|263|
