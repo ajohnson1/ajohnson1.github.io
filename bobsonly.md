@@ -2511,12 +2511,12 @@ Peals of 444 to 453 bobs
 ### Set @6, 9 round blocks, signature: 82:7+372
 ```
 2314567QS---P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P--P---PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP----P--PP--PPPP-P--PP--P-P---PP--PPPP-P--PP--P--P---PP-P--P-PP-*2(1)
-1327456QS----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*1(1)
-4327165QS----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*1(1)
+1327456QS----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*2(1)
+4327165QS----PP-PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*2(1)
 1627543QS-------PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*1(1)
 4527613QS-------PP-P--P-PP----P--P--PPPP----P-P--PPP---PP-P--P-PP-PP-*1(1)
-1475236QS--P-P---PP--PPPP-P--PP--P-P---PP--PPPP-P--PP*1(1)
-4176235QS--P-P---PP--PPPP-P--PP--P-P---PP--PPPP-P--PP*1(1)
+1475236QS--P-P---PP--PPPP-P--PP*2(1)
+4176235QS--P-P---PP--PPPP-P--PP*2(1)
 ```
 Peals of 447 to 456 bobs
 - [CompLib 37714](https://complib.org/composition/37714) 456 bobs, exact two-part
