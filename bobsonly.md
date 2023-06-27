@@ -2332,7 +2332,7 @@ These exact three-part peals range from 612 to 666 bobs, compared to 636 to 690 
 
 ## 36 complete B-block peals
 
-I have found at least 9 sets of round blocks which together with some B-blocks exactly cover the extent in an odd number [25] of round blocks where the sixes can be rearranged to give 36 complete B-blocks. Here are the sets of blocks together with some peals. Most of the peals have already been published as the exact three-part peals from 2017, see [Three-part bobs-only peals of Stedman Triples](3part.html) in [The Ringing World Issue 5565 p1264 22 December 2017](https://bb.ringingworld.co.uk/issues/2017/1264).
+I have found at least [84 sets of round blocks](oddblocks/oddblocks_36.txt) which together with some B-blocks exactly cover the extent in an odd number [25] of round blocks where the sixes can be rearranged to give 36 complete B-blocks. Here are the sets of blocks together with some peals. Most of the peals have already been published as the exact three-part peals from 2017, see [Three-part bobs-only peals of Stedman Triples](3part.html) in [The Ringing World Issue 5565 p1264 22 December 2017](https://bb.ringingworld.co.uk/issues/2017/1264).
 
 There sets of blocks are based on a group of order 3. The blocks have not been normalised by rotation to better show the similarities.
 
@@ -2407,7 +2407,7 @@ These are some irregular blocks, but based on the blocks above.
 
 ## 24 complete B-block peals
 
-I have found 361 sets of round blocks which together with some B-blocks exactly cover the extent in an odd number [23 to 39] of round blocks where the sixes can be rearranged to give 24 complete B-blocks. Here are examples of two sets of blocks which give peals.
+I have found [272 sets of round blocks](oddblocks/oddblocks_24.txt) which together with some B-blocks exactly cover the extent in an odd number [23 to 39] of round blocks where the sixes can be rearranged to give 24 complete B-blocks. Here are examples of two sets of blocks which give peals.
 
 ### 23 round blocks, signature: 66:5+171
 ```
