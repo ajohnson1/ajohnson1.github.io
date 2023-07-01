@@ -2407,7 +2407,7 @@ These are some irregular blocks, but based on the blocks above.
 
 ## 24 complete B-block peals
 
-I have found [272 sets of round blocks](oddblocks/oddblocks_24.txt) which together with some B-blocks exactly cover the extent in an odd number [23 to 39] of round blocks where the sixes can be rearranged to give 24 complete B-blocks. Here are examples of two sets of blocks which give peals.
+I have found [272 sets of round blocks](oddblocks/oddblocks_24.txt) which together with some B-blocks exactly cover the extent in an odd number [23 to 33] of round blocks where the sixes can be rearranged to give 24 complete B-blocks. Here are examples of two sets of blocks which give peals.
 
 ### 23 round blocks, signature: 66:5+171
 ```
