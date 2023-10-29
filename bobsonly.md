@@ -206,7 +206,7 @@ This peal has 33 fewer bobs than any magic block peal.
 
 ## 77 complete B-block peals
 
-I have found [5 different ways](oddblocks/oddblocks_77.txt) of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, subject to the 77 complete B-block restriction.
+I have found [8 different ways](oddblocks/oddblocks_77.txt) of rearranging the contents of a whole number of B-blocks to give an odd number of round blocks, subject to the 77 complete B-block restriction.
 ### 73 round blocks (a)
 #### Signature: 13:2+21
 ```
@@ -233,6 +233,17 @@ Signature of 13 B-blocks into four blocks using 21 plains, giving 75 round block
 
 - [CompLib 85387](https://complib.org/composition/85387) 579 bobs
 - [CompLib 93113](https://complib.org/composition/93113) 576 bobs
+
+#### Signature: 13:4+21
+```
+2314567QS---------P--------P---------P-------P--P--------P---------PP*1(1)
+5274631QS--------PPP--------PPP------P-*1(1)
+2617534QS---------P------P--P*1(1)
+5271364QS--------P--P------P-*1(1)
+```
+Signature of 13 B-blocks into four blocks using 21 plains, giving 75 round blocks in total.
+
+- [CompLib 118044](https://complib.org/composition/118044) 591 bobs
 
 ### 75 round blocks
 #### Signature: 14:5+21
