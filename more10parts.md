@@ -27,7 +27,6 @@ Number of bobs in run|Instances of run|Total bobs
 4|28|112
 5|2|10
 Totals|220|438
----|---|---
 
 Runs of omits in the Upham peal
 Number of omits in run|Instances of run|Total omits
