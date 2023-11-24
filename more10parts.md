@@ -18,25 +18,25 @@ half-way point, all 10-part ends with the reverse rounds
 rotations 3215467 etc. in the first half of the peal, and 
 sizes of parts varying from 432 to 564 changes.
 
-Runs of bobs in the Upham peal
-Number of bobs in run|Instances of run|Total bobs
----|---|---
-1|82|82
-2|90|180
-3|18|54
-4|28|112
-5|2|10
-Totals|220|438
+## Runs of bobs in the Upham peal
+|Number of bobs in run|Instances of run|Total bobs|
+|---|---|---|
+|1|82|82|
+|2|90|180|
+|3|18|54|
+|4|28|112|
+|5|2|10|
+|Totals|220|438|
 
-Runs of omits in the Upham peal
-Number of omits in run|Instances of run|Total omits
----|---|---
-1|118|118
-2|54|108
-3|22|66
-4|20|80
-5|6|30
-Totals|220|402
+## Runs of omits in the Upham peal
+|Number of omits in run|Instances of run|Total omits|
+|---|---|---|
+|1|118|118|
+|2|54|108|
+|3|22|66|
+|4|20|80|
+|5|6|30|
+|Totals|220|402|
 
 Here is the full list of peals:
 
