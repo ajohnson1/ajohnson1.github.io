@@ -19,8 +19,9 @@ rotations 3215467 etc. in the first half of the peal, and
 sizes of parts varying from 432 to 564 changes.
 
 ## Runs of bobs in the Upham peal
+
 |Number of bobs in run|Instances of run|Total bobs|
-|---|---|---|
+|---|---:|---:|
 |1|82|82|
 |2|90|180|
 |3|18|54|
@@ -29,8 +30,9 @@ sizes of parts varying from 432 to 564 changes.
 |Totals|220|438|
 
 ## Runs of omits in the Upham peal
+
 |Number of omits in run|Instances of run|Total omits|
-|---|---|---|
+|---|---:|---:|
 |1|118|118|
 |2|54|108|
 |3|22|66|
