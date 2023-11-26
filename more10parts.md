@@ -278,3 +278,31 @@ Ms= A --P--P--PP--P-PPPP--PP---P-P--PP--P-PPPP--PP--P----PPPPP--P----PP-PP-P--P-
 456 @6 ( Bs Cs3 Js5 K F ) *2
 456 @6 Bs Cs1 K G9 Gs1 Js5 K F Bs Ls
 ```  
+
+## How it works
+From Philip Saddleton: [Ringing Theory, June 2012](https://lists.ringingworld.co.uk/pipermail/ringing-theory/2012-June/017011.html)
+
+At about the same time as Andrew Johnson produced his famous bobs-only 
+l0-part, he discovered a way of splitting the rows into five identical 
+two-part blocks but could not join them without singles (Nigel Newton 
+independently discovered the same block). Andrew says that he pointed 
+out at the time that this block was very similar to the 10-part peal 
+(containing only two sixes per part that do not appear in the 10-part). 
+I must have missed this, or I am sure I would have looked into it further.
+
+Anyway, 17 years later Andrew has found that by mixing together the two 
+blocks more bobs-only peals can be found. The peal we rang this evening 
+has one additional linkage which is quite complex: adding a pair of bobs 
+jumps from one half of the peal to the other but introduces a false six. 
+The corresponding six is got by bobbing two elements of a Q-set and 
+omitting a bob. The [attached sheet](aj10x.pdf) attempts to show how it all works:
+- corresponding sixes from different parts are on the same row
+- the sixes introduced by teh twin-bob linkage are highlighted in orange
+- the part q-sets are yellow
+- the omits are green
+- other linking q-sets of omits are yellow
+
+Using this and another twin bob linkage, Andrew now has 148 new 
+compositions.
+
+PABS
