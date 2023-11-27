@@ -283,7 +283,7 @@ Ms= A --P--P--PP--P-PPPP--PP---P-P--PP--P-PPPP--PP--P----PPPPP--P----PP-PP-P--P-
 From Philip Saddleton: [Ringing Theory, June 2012](https://lists.ringingworld.co.uk/pipermail/ringing-theory/2012-June/017011.html)
 
 At about the same time as Andrew Johnson produced his famous bobs-only 
-l0-part, he discovered a way of splitting the rows into five identical 
+10-part, he discovered a way of splitting the rows into five identical 
 two-part blocks but could not join them without singles (Nigel Newton 
 independently discovered the same block). Andrew says that he pointed 
 out at the time that this block was very similar to the 10-part peal 
