@@ -601,6 +601,13 @@ This set of blocks includes the [12:1+21 block](#73-round-blocks) block from 78 
 This set of blocks includes the [12:1+21 block](#73-round-blocks) block from 78 complete B-blocks, so the other two blocks link 8 B-blocks into 2 B-blocks.
 - [CompLib 94761](https://complib.org/composition/94761) 582 bobs
 
+```
+2314567QS---------P--------P-P--------P---------P-P--------PP-------P---------PP-------PP---------PPP--------PP------P---------PP*1(1)
+1632547QS---------P--------P---------PP---------P--------P---------PP*1(1)
+6245137QS-------PP--------PP-*1(1)
+```
+no peal
+
 ### 67 round blocks, signature: 22:5+45
 ```
 2314567QS---------P--------PP---------P--P---------P--PP-PP---------P-P---------P-------P*1(1)
