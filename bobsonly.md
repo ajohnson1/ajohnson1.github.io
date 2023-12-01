@@ -464,6 +464,14 @@ I have not given peals for some of the blocks as I did not want to clutter up Co
 
 ### 71 round blocks
 
+#### Signature: 15:2+27
+This rearranges the contents of 15 B-blocks into 2 round blocks, giving 71 round blocks.
+```
+2314567QS---------P--------P--------P--------P---------P-P--------PP-------P---------PPPP--------P---------PP---------P--------PP*1(1)
+2761534QS--------PP------PP--------PPPP*1(1)
+```
+no peal
+
 #### Signature: 19:6+33 
 These all rearrange the contents of 19 B-blocks into 6 round blocks, giving 71 round blocks.
 ```
