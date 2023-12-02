@@ -460,7 +460,7 @@ This arranges the contents of 14 B-blocks into 5 round blocks using 21 plains, g
 With all the sets of blocks I have given I have tried to avoid duplicates by arranging them in a canonical form.
 For each block, if it is a round block, choose a rotation to give a start which is a quick six. Choose a rotation with the longest runs of bobs first (lexical comparison, `-` before `P`). If the block is multi-part (so two rotations can be the same), choose a start with biggest start when the row is reversed (so `2134567` is before `2136745`). When there are multiple blocks, rearrange the order of the blocks so the longest block is first, then if equal do by starting six as above. Now consider renumbering the blocks so that the first block is `2134567QS` and sort as above. Also try renumbering so another block of the same length is `2134567QS`. Also check for reversals by taking each starting six, finding the six-head, then swap 1 & 2 to keep it in course, and reverse the block, then do all the above. See if it is before the best non-reversed version.
 
-I have not given peals for some of the blocks as I did not want to clutter up CompLib with similar peals, but I can add them if anyone is interested.
+I have not given peals for some of the blocks as I did not want to clutter up CompLib with similar peals, but I can add them if anyone is interested. Here are [14 ways](oddblocks/oddblocks_75.txt) of getting an odd number of blocks.
 
 ### 71 round blocks
 
@@ -579,7 +579,7 @@ no peal
 
 ## 74 complete B-block peals
 
-I have found 40 sets of blocks so far, where the sixes from each set (and the remaining B-blocks) can be rearranged into 74 complete B-blocks.
+I have found [44 sets of blocks](oddblocks/oddblocks_74.txt) of getting an odd number of blocks. so far, where the sixes from each set (and the remaining B-blocks) can be rearranged into 74 complete B-blocks.
 
 ### 67 round blocks, signature: 20:3+33
 ```
@@ -989,7 +989,7 @@ no peal
 
 ## 73 complete B-block peals
 
-All the [sets of blocks](oddblocks/oddblocks_73.txt) here give peals, but I have just shown some peals as an illustration.
+All of these [sets of blocks](oddblocks/oddblocks_73.txt) here give peals, but I have just shown some peals as an illustration.
 
 ### 67 round blocks
 #### Signature: 21:4+33
