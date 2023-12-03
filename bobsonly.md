@@ -595,7 +595,7 @@ I have found [44 sets of blocks](oddblocks/oddblocks_74.txt) of getting an odd n
 2541367QS--------P-------P---------P-P---------P-------P---------P-P-*1(1)
 2456317QS-------P-P-------P-P*1(1)
 ```
-This set of blocks includes the [12:1+21 block](#73-round-blocks) block from 78 complete B-blocks, so the other two blocks link 8 B-blocks into 2 B-blocks.
+This set of blocks includes the [12:1+21 block](#73-round-blocks) block from 78 complete B-blocks, so the other two blocks link 8 B-blocks into 2 blocks.
 - [CompLib 85818](https://complib.org/composition/85818) 570 bobs, 8 plains in a run
 - [CompLib 82340](https://complib.org/composition/82340) 543 bobs
 - [CompLib 85271](https://complib.org/composition/85271) 531 bobs
@@ -606,7 +606,7 @@ This set of blocks includes the [12:1+21 block](#73-round-blocks) block from 78 
 2547316QS---------P--------P---------PP---------P--------P---------PP*1(1)
 3271546QS--------PP--------PP*1(1)
 ```
-This set of blocks includes the [12:1+21 block](#73-round-blocks) block from 78 complete B-blocks, so the other two blocks link 8 B-blocks into 2 B-blocks.
+This set of blocks includes the [12:1+21 block](#73-round-blocks) block from 78 complete B-blocks, so the other two blocks link 8 B-blocks into 2 blocks.
 - [CompLib 94761](https://complib.org/composition/94761) 582 bobs
 
 ```
@@ -1407,6 +1407,19 @@ I have found over [2328 sets](oddblocks/oddblocks_70.txt) of an odd number of bl
 6415723QS--------P--P------P-*1(1)
 ```
 - [CompLib 82853](https://complib.org/composition/82853) 582 bobs, 8 plains in a run
+
+### 67 round blocks, signature 24:7+45
+```
+2314567QS---------P--------P-P--------P---------P-P--------PP-------P---------PP-------PP---------PPP--------PP------P---------PP*1(1)
+2541367QS--------P-------P-PP*1(1)
+2514376QS--------P-------P-PP*1(1)
+2517364QS--------P-------P-PP*1(1)
+2546371QS--------P-------P-PP*1(1)
+2456317QS-------P-P-------P-P*1(1)
+3162547QS-------PP--------PP-*1(1)
+```
+This set of blocks includes the [12:1+21 block](#73-round-blocks) block from 78 complete B-blocks, so the other six blocks link 12 B-blocks into 6 blocks.
+- [CompLib 119202](https://complib.org/composition/119202) 588 bobs
 
 ## 69 complete B-block peals
 
